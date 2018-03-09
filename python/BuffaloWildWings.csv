@@ -1,0 +1,1209 @@
+,Name,Address,City,State,Postal Code,Telephone,Overall Niche Grade,Public Schools,Crime & Safety,Housing,Nightlife,Good for Families,Diversity,Jobs,Weather,Cost of Living,Health & Fitness,Outdoor Activities,Commute
+0,Buffalo Wild Wings,163 Lee Ave,Pikeville,KY,41501,(606) 432-2936,B-,C+,B-,B,B,B-,C+,C+,B+,A-,C+,B,B+
+1,Buffalo Wild Wings,2916 James Sanders Blvd,Paducah,KY,42001,(270) 444-5795,A-,A,C+,B+,A-,A-,B+,B,B,A-,A-,B,B
+2,Buffalo Wild Wings,2139 Lantern Ridge Dr,Richmond,KY,40475,(859) 624-2437,A-,B,B-,B,A,B+,B-,B+,B+,B+,B+,B+,A-
+3,Buffalo Wild Wings,1511 Ring Rd,Elizabethtown,KY,42701,(270) 234-8723,A-,B+,B-,B+,B,A-,B+,B,B-,B+,A-,B+,B
+4,Buffalo Wild Wings,2916 Fort Campbell Blvd,Hopkinsville,KY,42240,(270) 887-0905,B,C+,C+,B-,A-,B,A-,C,B-,A-,B-,B,A-
+5,Buffalo Wild Wings,106 Magnolia Dr Ste 103 Magnolia Crossing Shopping Center,Georgetown,KY,40324,(502) 867-7649,A-,B,B,A-,B,A-,B,A,B-,A-,B+,C+,A-
+6,Buffalo Wild Wings,4736 Towne Square Mall,Owensboro,KY,42301,(270) 686-7800,A-,B+,B-,B+,A-,B,B,B-,B,A-,A-,C+,A-
+7,Buffalo Wild Wings,1760 Scottsville Rd,Bowling Green,KY,42104,(270) 842-9464,A,A-,C+,B+,A-,A-,B,A-,B-,B+,A-,C+,A-
+8,Buffalo Wild Wings,4736 Frederica St,Owensboro,KY,42301,(270) 686-7800,A-,B+,B-,B+,A-,B,B,B-,B,A-,A-,C+,A-
+9,Buffalo Wild Wings,1055 Bardstown Rd,Louisville,KY,40204,(502) 454-3635,A,B,C-,B,A+,B+,B,B+,B,B,B+,B+,A
+10,Buffalo Wild Wings,3090 Old Todds Rd,Lexington,KY,40509,(859) 263-9464,A+,A-,C+,A-,A,A,A-,A-,B-,B,A,B,A-
+11,Buffalo Wild Wings,3441 Valley Plaza Pkwy,Ft Mitchell,KY,41017,(859) 344-9464,A,B+,B-,A-,A-,A,B-,B-,B-,B+,A,A-,B
+12,Buffalo Wild Wings,1080 S Broadway Ste 104,Lexington,KY,40504,(859) 233-2999,A,A,C+,C+,A,A-,A-,B-,B-,B,A,B+,A
+13,Buffalo Wild Wings,9134 Taylorsville Rd,Louisville,KY,40299,(502) 499-2356,A-,B,C-,B+,A-,A-,B,A-,B,B+,A-,B+,A-
+14,Buffalo Wild Wings,2004 Centennial Blvd,Independence,KY,41051,(859) 356-0602,B+,B,B-,B+,A-,A-,C+,C+,C+,B+,B+,B+,B+
+15,Buffalo Wild Wings,8840 Bankers St,Florence,KY,41042,(859) 746-9464,A,B,B-,B+,A,A-,B,A,C+,B+,A-,A-,A-
+16,Buffalo Wild Wings,111 Jett Blvd,Frankfort,KY,40601,(502) 695-0104,B+,B-,C+,B,A-,B,B+,B+,B-,A-,B+,B-,A-
+17,Buffalo Wild Wings,10206 Westport Rd,Louisville,KY,40241,(502) 394-9596,A,B+,C-,B+,B,A-,A-,A-,B-,B,A-,B,A-
+18,Buffalo Wild Wings,4600 Shelbyville Rd Ste 501,Louisville,KY,40207,(502) 899-7732,A+,B,C-,B+,A,A,B,A,B,B,A-,B+,A-
+19,Buffalo Wild Wings,83 Carothers Rd,Newport,KY,41071,(859) 261-0838,A-,B-,B,B,A,A-,B,B-,B-,B+,B+,A-,A
+20,Buffalo Wild Wings,112 Magnolia Dr,Georgetown,KY,40324,(502) 867-7649,A-,B,B,A-,B,A-,B,A,B-,A-,B+,C+,A-
+21,Buffalo Wild Wings,6801 Dixie Hwy Ste 159,Louisville,KY,40258,(502) 935-1997,B,B-,C-,B,A-,C+,B,B,B,A-,B+,C+,A-
+22,Buffalo Wild Wings,4917 Outer Loop,Louisville,KY,40219,(502) 964-5803,B+,B-,C-,B-,A-,B,A,B-,B,A-,A-,B+,B
+23,Buffalo Wild Wings,12901 Shelbyville Rd,Louisville,KY,40243,(502) 254-9464,A,B+,C-,B+,B,A-,B,A-,B-,B,A-,B+,A-
+24,Buffalo Wild Wings,250 Newtowne Sq,Morehead,KY,40351,(606) 784-1299,B+,B-,B+,B,A,B,C+,B+,C+,A-,B,C+,B
+25,Buffalo Wild Wings,7441 Youree Dr,Shreveport,LA,71105,(318) 797-6332,A,B-,C-,B,A,B+,B+,B,B+,B+,B+,B,B
+26,Buffalo Wild Wings,375 Boardwalk Blvd,Bossier City,LA,71111,(318) 752-3801,A-,A-,C,B,A,A-,A,B,B+,B,B+,B,A-
+27,Buffalo Wild Wings,1783 Martin Luther King Jr Blvd,Houma,LA,70360,(985) 868-9453,B+,B,C,B+,A-,B,A-,A,B,B+,B-,C+,A-
+28,Buffalo Wild Wings,1776 West Prien Lake Road Suite E,Lake Charles,LA,70601,(337) 562-1299,B+,B,C,B-,A,B,A-,C+,A,B+,B,A-,A
+29,Buffalo Wild Wings,2730 W Thomas St,Hammond,LA,70401,(985) 419-0101,B+,B-,C-,C+,A,B-,A,C,B,B,C+,B,A-
+30,Buffalo Wild Wings,7524 Bluebonnet Blvd,Baton Rouge,LA,70810,(225) 819-8438,A,C,C-,B+,A,B+,A,A-,B,B,A-,B,A-
+31,Buffalo Wild Wings,2711 S Macarthur Dr,Alexandria,LA,71301,(318) 880-0300,B,B,C-,C+,A,B-,A-,C-,B+,B+,B,B,A
+32,Buffalo Wild Wings,3260 Highland Rd Ste 3,Baton Rouge,LA,70802,(225) 448-5770,B,C,C-,C,A,C,B,C,B,B+,B+,B,A
+33,Buffalo Wild Wings,3019 Pinnacle Pkwy,Covington,LA,70433,(985) 327-0124,A,A-,B-,B,A,A-,B+,B+,B,B,A-,B+,A-
+34,Buffalo Wild Wings,4415 Ambassador Caffery Pkwy Ste 700,Lafayette,LA,70508,(337) 984-7990,A,B,C,A-,A,A-,B+,A,A-,B+,A-,B+,B+
+35,Buffalo Wild Wings,205 Constitution Dr,West Monroe,LA,71292,(318) 651-0080,B-,B,D+,B,B,C+,B,B-,B+,A-,C,C+,B+
+36,Buffalo Wild Wings,3434 Veterans Memorial Blvd,Metairie,LA,70002,(504) 252-4606,A-,B,C+,C+,A,B+,A,B-,B,B-,B+,B,A-
+37,Buffalo Wild Wings,909 S Clearview Pkwy,New Orleans,LA,70121,(504) 207-7563,B+,B+,C+,B-,A-,B-,A,C+,B,B,B+,C+,A
+38,Buffalo Wild Wings,815 Brownswitch Rd,Slidell,LA,70458,(985) 639-3399,A-,B+,B-,B,A-,A-,B+,B+,B,B+,A-,B+,A-
+39,Buffalo Wild Wings,4150 General Degaulle Dr,New Orleans,LA,70131,(504) 283-3256,B+,B-,D+,C+,A-,B,A,B,B,B+,B+,B+,A-
+40,Buffalo Wild Wings,2800  Evangeline Trwy,Lafayette,LA,70507,(337) 504-5255,A-,C+,C,B+,A-,B+,A,A-,A-,A-,A-,B+,A-
+41,Buffalo Wild Wings,2640 Airline Dr,Bossier City,LA,71111,(318) 747-7095,A-,A-,C,B,A,A-,A,B,B+,B,B+,B,A-
+42,Buffalo Wild Wings,2001 W Highway 30,Gonzales,LA,70737,(225) 450-6401,A,A-,C,A-,A-,A-,A-,A,B,A-,B+,B+,A-
+43,Buffalo Wild Wings,8505 Montgomery Blvd NE,Albuquerque,NM,87111,(505) 275-9464,A,A-,C-,B-,A-,A-,A,B,B+,C+,A+,A,A-
+44,Buffalo Wild Wings,2750 Mall Dr Ste 600,Las Cruces,NM,88011,(575) 521-1955,A,B,B-,B-,B,B,A,B,A,C+,A,C,A-
+45,Buffalo Wild Wings,10015 Coors Blvd NW,Albuquerque,NM,87114,(505) 922-9464,A,B,C-,B-,A,B+,A,B,B+,C+,A+,A-,A-
+46,Buffalo Wild Wings,1700 Towne Center Ln SE,Albuquerque,NM,87106,(505) 247-9464,A,B,C-,C-,A,B,A,C,B+,C,A+,A-,A
+47,Buffalo Wild Wings,1120 W Joe Harvey Blvd,Hobbs,NM,88240,(575) 391-0528,B,C,C+,B+,A-,C+,A,A,B-,B+,B,C,A-
+48,Buffalo Wild Wings,6001 Iliff Rd NW,Albuquerque,NM,87121,(505) 352-9464,C+,C+,C-,C,A-,C,B,C-,B+,B-,A-,B-,A-
+49,Buffalo Wild Wings,839 S White Sands Blvd,Alamogordo,NM,88310,(575) 443-9464,B+,B,B-,B+,A-,B,A,C+,B-,B,A-,B-,A-
+50,Buffalo Wild Wings,747 N Main St,Roswell,NM,88201,(575) 622-9464,B+,B-,C,B,A-,B-,A,B+,B+,B,A-,C,A-
+51,Buffalo Wild Wings,1901 Main St SW,Los Lunas,NM,87031,(505) 565-9464,B-,C+,C+,B-,B+,C+,A-,C+,B,B,A-,B-,B
+52,Buffalo Wild Wings,1801 W Pierce St,Carlsbad,NM,88220,(575) 628-1224,B+,B-,C,A-,A-,B-,A,A,C+,B+,B+,C+,A-
+53,Buffalo Wild Wings,3505 N Prince St,Clovis,NM,88101,(575) 935-0384,B,B-,C,B-,A-,C+,A,C+,B-,B,B+,D-,A-
+54,Buffalo Wild Wings,3501 Zafarano Dr,Santa Fe,NM,87507,(505) 471-3353,B,C-,C+,C-,B,C+,A-,C,B+,C+,A+,B,A-
+55,Buffalo Wild Wings,2700 E Main St,Farmington,NM,87402,(505) 326-5544,B,B+,C+,B,B,B,NG,B,C-,B-,B,B+,A-
+56,Buffalo Wild Wings,900 State Road 436,Casselberry,FL,32707,(407) 671-9300,A,B+,C+,B,A,B+,A,B-,A,B,A,A-,A-
+57,Buffalo Wild Wings,12511 State Road 535,Orlando,FL,32836,(407) 827-0444,A,A-,C,C,A,A-,A+,B+,A,C,A-,A-,A
+58,Buffalo Wild Wings,7004 International Dr,Orlando,FL,32819,(407) 351-6200,A,B+,C,B-,A,A-,A,B,A,C+,A,A-,A
+59,Buffalo Wild Wings,3099 Formosa Gardens Blvd,Kissimmee,FL,34747,(407) 397-1500,A,B,C+,C,A,B+,A,A-,A,C+,A-,B+,A-
+60,Buffalo Wild Wings,9550 Baymeadows Rd,Jacksonville,FL,32256,(904) 448-1293,A,B-,C,C,A,B,A,B,A-,B-,A-,B,A-
+61,Buffalo Wild Wings,13230 City Station Dr,Jacksonville,FL,32218,(904) 757-5777,B,C-,C,C+,A,C+,A,B-,A-,B,A-,B,A-
+62,Buffalo Wild Wings,5701 Sunset Dr,South Miami,FL,33143,(305) 668-0911,A,B,C,C,A,A-,A,B,A+,C,A+,A-,A
+63,Buffalo Wild Wings,2479 W International Speedway Blvd,Daytona Beach,FL,32114,(386) 872-3300,B+,B-,C,C-,A,B-,A-,C,A+,B,B+,A-,A
+64,Buffalo Wild Wings,4325 Norfolk Pkwy,Melbourne,FL,32904,(321) 951-2138,A,A,C,B+,A,A-,B,B,A+,B,A-,A-,A-
+65,Buffalo Wild Wings,11400 University Blvd,Orlando,FL,32817,(407) 250-4880,A,B+,C,B-,A,B+,A,B,A+,B-,A,A,A-
+66,Buffalo Wild Wings,504 N Alafaya Trl Ste 102,Orlando,FL,32828,(407) 737-8880,A,A-,C,B,B+,A,A+,B+,A+,B-,A,A-,A-
+67,Buffalo Wild Wings,2837 S State Road 7,Wellington,FL,33414,(561) 383-8527,A,A-,C,B-,A-,A,A,B+,A,C+,A,A,A-
+68,Buffalo Wild Wings,11401 NW 12th St,Miami,FL,33172,(305) 513-2660,B+,B-,C,C+,A,B,B-,B-,A,B-,A,A,A-
+69,Buffalo Wild Wings,10761 International Dr,Orlando,FL,32821,(407) 985-3400,A,B+,C,B-,A,B,A,B,A+,B-,B,B+,A
+70,Buffalo Wild Wings,5840 Wiles Rd,Coral Springs,FL,33067,(954) 255-6744,A,B,C+,C+,A-,A,A,B,A,C,A,A-,B
+71,Buffalo Wild Wings,4058 Tampa Rd,Oldsmar,FL,34677,(813) 814-9900,A,B+,C,B,A,A-,A-,B,A,B,A,A-,A-
+72,Buffalo Wild Wings,21688 Us Highway 19 N,Clearwater,FL,33765,(727) 723-9100,A-,B-,C,C+,A,B,A-,B-,A,B,A,A-,A
+73,Buffalo Wild Wings,13402 Boyette Rd,Riverview,FL,33569,(813) 655-4555,A-,B+,C,B,A-,B+,A,B+,A,B-,B+,B+,A-
+74,Buffalo Wild Wings,701 Pier Park Dr Ste 100,Panama City Beach,FL,32413,(850) 236-0325,B+,B,C,B,A-,B,B,B,A-,B,B+,B-,A-
+75,Buffalo Wild Wings,10607 Big Bend Rd,Riverview,FL,33579,(813) 234-9464,A-,B,C,B+,B,A-,A,B+,A,B-,A-,B+,B+
+76,Buffalo Wild Wings,10936 State Road 54,New Port Richey,FL,34655,(727) 372-2323,A-,B+,C,B,B+,B+,B,A-,A,B,A-,A-,A-
+77,Buffalo Wild Wings,4067 Clark Rd,Sarasota,FL,34233,(941) 922-5554,A,A+,B-,B+,A-,A,B,B,A,B-,A+,A,A-
+78,Buffalo Wild Wings,5153 Bayou Blvd,Pensacola,FL,32503,(850) 471-2989,A,B-,C,B,A,B+,A,B,B,B+,A-,A-,A
+79,Buffalo Wild Wings,2055 Badlands Dr,Brandon,FL,33511,(813) 571-1045,A,B,C,B-,A,B+,A+,B+,A,B,A,A-,A-
+80,Buffalo Wild Wings,2465 S Highway 27,Clermont,FL,34711,(352) 536-2500,A-,B,B-,B,A-,A-,A,B,A,B,A-,A-,B-
+81,Buffalo Wild Wings,9390 Dynasty Dr Ste 101,Fort Myers,FL,33905,(239) 210-9464,A-,B-,C+,B,A-,B+,A,B+,A+,B+,B,A,A-
+82,Buffalo Wild Wings,3750 Us Highway 98 N,Lakeland,FL,33809,(863) 853-7722,B,C+,C+,B,A-,B-,A-,B-,A,B+,B,B-,C+
+83,Buffalo Wild Wings,1940 Wells Rd,Orange Park,FL,32073,(904) 215-4969,A,A-,C,B,A,A-,A,B,A-,B+,A-,A-,A-
+84,Buffalo Wild Wings,5235 University Pkwy,University Park,FL,34201,(941) 351-8584,A-,B+,C,B-,B-,B,C+,A,A,C+,A-,B+,C+
+85,Buffalo Wild Wings,10500 Ulmerton Rd,Largo,FL,33771,(727) 584-9453,A-,B-,C,B-,A,B,B+,B-,A,B+,A,A-,A
+86,Buffalo Wild Wings,703 Poquonock Ave,Windsor,CT,06095,(860) 688-9464,A,B+,B-,B-,A-,A-,A,B-,C+,B-,A,A-,A-
+87,Buffalo Wild Wings,1201 Boston Post Rd,Milford,CT,06460,(203) 877-9453,A-,B+,B-,C+,A,B+,B,B-,B,C,A,A,A-
+88,Buffalo Wild Wings,26 Backus Ave,Danbury,CT,06810,(203) 794-9453,B+,B-,B-,D+,A,B,A+,C-,C+,C-,A,A,A-
+89,Buffalo Wild Wings,350 Universal Dr N,North Haven,CT,06473,(203) 234-9453,A-,B+,B-,B-,A-,A-,B,B,C+,C+,A,A,A-
+90,Buffalo Wild Wings,850 Hartford Tpke Ste F218,Waterford,CT,06385,(860) 574-9155,A-,B+,B-,B-,A-,A-,B,B-,B,C+,A-,A,B
+91,Buffalo Wild Wings,112 Buckland St,Manchester,CT,06042,(860) 649-9464,A-,B-,B-,B-,B+,A-,A,B-,C+,C+,A,A,A-
+92,Buffalo Wild Wings,315 Union St,Waterbury,CT,06706,(203) 574-9464,C+,C-,B-,D-,A,C,A,C-,C+,C,A-,A,B+
+93,Buffalo Wild Wings,716 Queen St,Southington,CT,06489,(860) 863-5144,B+,B+,B-,B-,B,A-,B-,B+,C+,B-,A,A-,B
+94,Buffalo Wild Wings,208 Summer St,Stamford,CT,06901,(203) 324-9453,A,B,B-,C,A+,A-,A+,C+,C+,C-,A,A,B+
+95,Buffalo Wild Wings,1267 Silas Deane Hwy,Wethersfield,CT,06109,(860) 571-9464,A-,B,B-,B-,A-,A-,B+,B,C+,C+,A,A,A-
+96,Buffalo Wild Wings,74-76 Church St,New Haven,CT,06510,(203) 789-9453,A,C-,B-,D-,A+,B-,A+,B-,C+,D+,A-,A,A+
+97,Buffalo Wild Wings,7188 Airways Blvd,Southaven,MS,38671,(662) 349-7776,B+,B+,B,B+,A,B+,A,B+,B+,B+,B,C+,B-
+98,Buffalo Wild Wings,3 Churchill St,Hattiesburg,MS,39402,(601) 288-7777,A,A-,NG,A-,A-,A,A-,B,B+,B+,B+,C+,B
+99,Buffalo Wild Wings,3850 Promenade Pkwy,Diberville,MS,39540,(228) 396-9464,B+,B+,C,B-,A,B+,A,B-,A-,B+,B,B,C+
+100,Buffalo Wild Wings,114 Highway 11 And 80,Meridian,MS,39301,(601) 282-5363,B,B,C-,B,A,B-,A-,C+,B+,A-,B,C+,B
+101,Buffalo Wild Wings,703 Spring St,Starkville,MS,39759,(662) 324-4494,A-,B,B-,C+,B,B,A,C,B+,B,B+,C+,A-
+102,Buffalo Wild Wings,3485 Tupelo Cmns,Tupelo,MS,38804,(662) 840-0468,A,B+,NG,B+,A,A,A-,B,B+,B+,B,B,B
+103,Buffalo Wild Wings,2315 Jackson Ave W,Oxford,MS,38655,(662) 238-2716,A,A-,B-,B-,A,A-,A-,B+,B,B,B,B+,A-
+104,Buffalo Wild Wings,2001 Highway 45 N,Columbus,MS,39705,(662) 245-1171,A-,B-,NG,B+,B,A-,A,B-,B+,B+,B,B-,B-
+105,Buffalo Wild Wings,1826 Jefferson St,Laurel,MS,39440,(601) 342-2951,B,C,C,C+,A,B,A-,C,A-,A-,C+,B,B
+106,Buffalo Wild Wings,15530 Daniel Blvd,Gulfport,MS,39503,(228) 236-9464,B+,B+,C,B,A,B,A,C+,B+,B+,B,B-,B
+107,Buffalo Wild Wings,766 Mackenzie Ln,Flowood,MS,39232,(769) 572-3242,A,B+,B+,B,B+,A,A,A-,B+,B,B+,B,C+
+108,Buffalo Wild Wings,7995 Craft Goodman Rd,Olive Branch,MS,38654,(662) 890-7285,A-,A-,B,A-,A-,A-,A-,A-,B+,B+,B,C+,B
+109,Buffalo Wild Wings,808 Lake Harbour Dr,Ridgeland,MS,39157,(601) 856-0789,A+,A,B,A-,A,A+,A,A,B+,B,A-,B,B
+110,Buffalo Wild Wings,205 S Highway 92,Sierra Vista,AZ,85635,(520) 515-9464,B+,B,B-,B-,A,B-,A,C+,B,B-,A,C+,A-
+111,Buffalo Wild Wings,2040 Highway 95,Bullhead City,AZ,86442,(928) 763-9464,B-,C+,B-,B-,A-,C,B+,C+,C,B,B+,C,A-
+112,Buffalo Wild Wings,6560 E Superstition Springs Blvd,Mesa,AZ,85206,(480) 214-9464,A-,B+,C+,B-,A,B,A-,B,A,C+,A+,B+,A-
+113,Buffalo Wild Wings,1390 W Irvington Rd,Tucson,AZ,85746,(520) 799-9464,B-,C,C,C+,A-,C,A-,C,A,B-,A,B-,A-
+114,Buffalo Wild Wings,13311 W Mcdowell Rd,Goodyear,AZ,85395,(623) 935-4081,A-,A-,C+,B,B,B+,A,A-,A-,C+,A,B+,B-
+115,Buffalo Wild Wings,3163 W Chandler Blvd Ste 1,Chandler,AZ,85226,(480) 289-5200,A,A,C+,B+,A,A-,A,A-,A,B-,A,C+,A-
+116,Buffalo Wild Wings,2700 S Woodlands Village Blvd Ste 550,Flagstaff,AZ,86001,(928) 774-3550,A,B+,B-,C,A,B,NG,C+,B,C-,A,B+,A
+117,Buffalo Wild Wings,2510 W Happy Valley Rd Ste 1241,Phoenix,AZ,85085,(623) 207-6900,A-,B,C+,B-,B,B+,A-,B+,A,C,A,B+,A-
+118,Buffalo Wild Wings,705 S Rural Rd,Tempe,AZ,85281,(480) 858-9464,A,A-,C+,C-,A+,B,A,C+,A,C,A,A-,A
+119,Buffalo Wild Wings,4329 N Oracle Rd,Tucson,AZ,85705,(520) 888-3184,B+,B,C,C,A,B-,A-,C-,A,B,A+,A-,A
+120,Buffalo Wild Wings,1475 W Elliot Rd,Gilbert,AZ,85233,(480) 813-9464,A,A,C+,B+,A,A,A,B+,A,B-,A,A-,A-
+121,Buffalo Wild Wings,2700 W North Ln,Phoenix,AZ,85051,(602) 944-4260,B+,B-,C+,C+,A,B-,A,C+,A,B-,A,B+,A
+122,Buffalo Wild Wings,8870 E Talking Stick Way,Scottsdale,AZ,85250,(480) 278-8791,A,A-,C+,B,A-,B+,B,B,A,C,A+,B+,A-
+123,Buffalo Wild Wings,9404 W Westgate Blvd Ste C107,Glendale,AZ,85305,(623) 877-9127,A-,B-,C+,B-,A,B,A,B,A,B-,B+,B+,A-
+124,Buffalo Wild Wings,7401 E Frank Lloyd Wright Blvd,Scottsdale,AZ,85260,(480) 991-0477,A,A,C+,B-,B,A-,B,B+,A,C,A+,B+,A-
+125,Buffalo Wild Wings,21374 S Ellsworth Loop Rd,Queen Creek,AZ,85142,(480) 987-1395,A-,B,B-,B,B+,B+,A-,B+,A,C+,A-,B,B+
+126,Buffalo Wild Wings,859 N Promenade Pkwy,Casa Grande,AZ,85194,(520) 836-9464,B,C,B-,C+,B+,C,A,B,A-,B-,B-,C+,A-
+127,Buffalo Wild Wings,2985 N Centre Ct,Prescott Valley,AZ,86314,(928) 759-9800,B,B-,B-,C,A-,B-,A-,B-,B-,C+,A,B+,A-
+128,Buffalo Wild Wings,68 N Harrison Rd,Tucson,AZ,85748,(520) 296-8409,A-,A-,C,B,B-,B+,A-,B,A,C+,A,B+,A-
+129,Buffalo Wild Wings,1317 S Yuma Palms Pkwy,Yuma,AZ,85365,(928) 373-2300,B,C,B,B-,A-,C+,A,B-,A,B-,B+,C-,A-
+130,Buffalo Wild Wings,970 S Gilbert Rd,Gilbert,AZ,85296,(480) 632-9464,A,A,C+,B+,A,A,A-,B+,A,C+,A,A-,A-
+131,Buffalo Wild Wings,13882 W Bell Rd,Surprise,AZ,85374,(623) 546-7672,B+,C+,C+,C+,A-,B-,A-,B,A,C+,A,B+,A-
+132,Buffalo Wild Wings,5405 Pearl Dr,Evansville,IN,47712,(812) 423-9464,B+,B,C,B+,A,B-,C+,B,B,A-,B,C+,A-
+133,Buffalo Wild Wings,8440 Castleton Corner Dr,Indianapolis,IN,46250,(317) 577-2999,A+,A-,C-,B+,A,A,A-,B+,B-,B+,A-,B,A-
+134,Buffalo Wild Wings,2510 E 146th St,Carmel,IN,46033,(317) 848-2500,A+,A+,A,A+,A-,A+,B-,A+,B-,B+,A,B+,A-
+135,Buffalo Wild Wings,1071 Smaltz Way,Auburn,IN,46706,(260) 925-2003,A-,B,B+,A-,A-,B+,C+,A-,B,A,B+,C+,B+
+136,Buffalo Wild Wings,360 Brown St,West Lafayette,IN,47906,(765) 743-1188,A+,A-,C+,B-,A,A,B+,B,B-,B,A-,B+,A
+137,Buffalo Wild Wings,715 N Green River Rd,Evansville,IN,47715,(812) 471-9464,A-,B-,C,B-,A,B+,B,B-,B,B+,B+,B+,B
+138,Buffalo Wild Wings,3718 S Us Highway 41,Terre Haute,IN,47802,(812) 242-9464,B+,B,C+,B,A-,B,B+,B-,B-,A-,B+,C+,A-
+139,Buffalo Wild Wings,2035 W Jonathan Moore Pike,Columbus,IN,47201,(812) 375-1770,A,A-,B+,A-,A-,A,B+,B+,B-,A-,B+,B+,A-
+140,Buffalo Wild Wings,2515 Southlake Mall,Merrillville,IN,46410,(219) 794-9453,A-,B,C,B,A,B+,A+,B-,B-,B+,B+,B+,A-
+141,Buffalo Wild Wings,1350 W Bloomfield Rd,Bloomington,IN,47403,(812) 339-2900,A,A-,B-,B+,A-,A,B,B-,B-,A-,A,A-,A
+142,Buffalo Wild Wings,1200 Us Highway 41,Schererville,IN,46375,(219) 865-3222,A,A,C,B+,A-,A-,B+,B+,B-,B+,B+,A-,A-
+143,Buffalo Wild Wings,4661 National Rd E,Richmond,IN,47374,(765) 935-9999,A-,B,A,B+,A-,A,B,B-,B-,A-,B+,A-,A-
+144,Buffalo Wild Wings,7 E Washington St,Indianapolis,IN,46204,(317) 951-9464,A-,C-,C-,D+,A+,C,A,C+,B,C+,A-,A-,A
+145,Buffalo Wild Wings,9875 E Us Highway 36,Avon,IN,46123,(317) 271-9464,A,A,B,A,A-,A+,B,A,B-,B+,B+,B+,C
+146,Buffalo Wild Wings,2407 N 6th St,Vincennes,IN,47591,(812) 895-9464,B+,B,B-,B+,A,B,B-,B,B,A,B,C+,A-
+147,Buffalo Wild Wings,5000 Franklin St,Michigan City,IN,46360,(219) 872-9464,B+,C+,C+,B-,A,B+,A-,C,C+,A-,B+,A-,A-
+148,Buffalo Wild Wings,212 Lincolnway,Valparaiso,IN,46383,(219) 548-9464,A,A-,A-,A-,A,A+,B,B+,B-,B+,A-,A-,A
+149,Buffalo Wild Wings,1425 W Dupont Rd,Fort Wayne,IN,46825,(260) 490-6556,A-,C,C,B+,A,B,B+,B+,B,A-,A,C+,A-
+150,Buffalo Wild Wings,13977 Trade Center Dr,Fishers,IN,46038,(317) 770-2999,A+,A+,A,A+,A-,A+,B,A+,B-,A-,A,B+,B+
+151,Buffalo Wild Wings,13868 E 116th St,Fishers,IN,46037,(317) 913-2999,A+,A+,A,A+,A-,A+,B,A+,B-,B+,A,B+,B
+152,Buffalo Wild Wings,1600 E Summit St,Crown Point,IN,46307,(219) 663-9453,A-,A-,C,B+,A-,A-,B,B,B-,B+,B,A-,A-
+153,Buffalo Wild Wings,10202 E Washington St Ste 790,Indianapolis,IN,46229,(317) 895-9464,B+,B,C-,B,A,B,A,B-,B-,A-,B,B,B
+154,Buffalo Wild Wings,202 E Harcourt Rd,Angola,IN,46703,(260) 624-3111,A-,B,A,B+,A,A,B-,B+,B-,A-,B,B+,A-
+155,Buffalo Wild Wings,1129 N Baldwin Ave Ste 35,Marion,IN,46952,(765) 673-0757,B,B-,C+,B,A-,C+,B,B+,B,A,B,D+,B+
+156,Buffalo Wild Wings,2008 E Tipton St,Seymour,IN,47274,(812) 519-3596,B+,B-,B-,B+,A-,B,B,B,B-,A,B,B-,A-
+157,Buffalo Wild Wings,838 E Mcgalliard Rd,Muncie,IN,47303,(765) 284-9464,B+,B-,C,B-,A,C+,B,C+,B,A-,B+,C,A
+158,Buffalo Wild Wings,1780 E Boulevard,Kokomo,IN,46902,(765) 450-4404,B+,C+,C,B+,A-,B,B,B,C+,A,B,B,A-
+159,Buffalo Wild Wings,1829 Rieth Blvd,Goshen,IN,46526,(574) 875-9299,A-,B+,C-,B+,A-,B+,A-,A-,B,A-,B+,B-,A
+160,Buffalo Wild Wings,1551 N Green St Ste Q,Brownsburg,IN,46112,(317) 456-4982,A,A+,B,A,A-,A+,B-,A,B-,A-,B+,B+,C+
+161,Buffalo Wild Wings,376 Enterprise Dr,Warsaw,IN,46580,(574) 267-7707,A-,B+,B-,A-,A-,B+,B,B+,B,A,A-,B-,A-
+162,Buffalo Wild Wings,5500 Tinker Diagonal,Oklahoma City,OK,73115,(405) 677-9464,B+,B-,C,B,A-,B-,A,B+,A-,A-,A-,C+,A-
+163,Buffalo Wild Wings,2506 NW Cache Rd,Lawton,OK,73505,(580) 357-9464,B,B,C,B,A,C+,NG,B-,B+,B+,B+,D,A-
+164,Buffalo Wild Wings,4901 N Kickapoo Ave Ste 6705,Shawnee,OK,74804,(405) 273-3473,A-,B+,C,B+,A-,B+,NG,B,A-,A-,B+,B-,A-
+165,Buffalo Wild Wings,6910 SW 3rd St,Oklahoma City,OK,73128,(405) 603-4688,B-,B-,C,B+,A,B-,A-,A-,A-,B+,C+,C,C-
+166,Buffalo Wild Wings,3010 Classen Blvd,Norman,OK,73071,(405) 701-8254,A,A,B-,B+,B+,A,A-,A-,A-,B+,A-,C+,A-
+167,Buffalo Wild Wings,4130 NW Expressway Ste 110,Oklahoma City,OK,73116,(405) 842-9464,A+,B,C,B+,A,A-,A-,A,A-,B,A-,C+,B+
+168,Buffalo Wild Wings,1765 Shedeck Pkwy,Yukon,OK,73099,(405) 265-1944,A,A-,B+,A-,A-,B+,B+,A,A-,B+,B+,C-,B+
+169,Buffalo Wild Wings,2601 N Service Rd,Moore,OK,73160,(405) 794-9647,A,A,B-,A-,A,A-,NG,A-,A-,B+,A-,C+,B+
+170,Buffalo Wild Wings,3388 Cherokee Springs Rd,Tahlequah,OK,74464,(918) 414-9464,A-,B+,A,B+,A-,A-,NG,B,B,A-,B+,B-,A-
+171,Buffalo Wild Wings,2126 N Van Buren St,Enid,OK,73703,(580) 237-9453,A-,B,B-,A-,A-,B,B,A-,B+,A-,B,D,B+
+172,Buffalo Wild Wings,1151 N 20th St,Broken Arrow,OK,74012,(918) 286-3555,A,A-,C-,B+,A,A-,NG,B+,B+,B+,A-,B+,B+
+173,Buffalo Wild Wings,7568 S Olympia Ave,Tulsa,OK,74132,(918) 445-9953,A-,A+,C-,A-,A-,B+,NG,A-,B+,B+,B-,C+,B-
+174,Buffalo Wild Wings,1333 N Santa Fe Ave Ste 106,Edmond,OK,73003,(405) 340-9647,A,A+,C,A-,B,A,NG,A-,A-,B+,A-,C,A-
+175,Buffalo Wild Wings,1130 W Shawnee St,Muskogee,OK,74401,(918) 682-9464,B-,C+,C,B-,A-,C+,NG,C+,B+,A-,B-,C+,B
+176,Buffalo Wild Wings,6222 E 41st St,Tulsa,OK,74135,(918) 398-7111,A,B,C-,B-,A,B+,A-,B+,B+,B+,A-,B+,A-
+177,Buffalo Wild Wings,2350 SE Washington Blvd Ste 418,Bartlesville,OK,74006,(918) 333-9440,A,A-,B-,A,B,A-,NG,A-,B+,A-,A-,C+,A-
+178,Buffalo Wild Wings,2080 S Highway 66,Claremore,OK,74019,(918) 872-9453,B+,A-,B,A-,B-,B+,NG,A,B,A-,B-,C+,C+
+179,Buffalo Wild Wings,9263 N Owasso Expy,Owasso,OK,74055,(918) 376-4911,A,A,C-,A-,A-,A-,NG,A-,B+,B+,A-,B,B+
+180,Buffalo Wild Wings,909 W I 35 Frontage Rd,Edmond,OK,73034,(405) 285-0667,A+,A+,C,A-,A,A,B+,A,A-,B+,A-,D+,A-
+181,Buffalo Wild Wings,1701 N Perkins Rd,Stillwater,OK,74075,(405) 533-2356,A,A+,B-,B-,A,B+,NG,B,B+,B,B-,C-,A
+182,Buffalo Wild Wings,11651 S 73rd St,Papillion,NE,68046,(402) 596-9464,A+,A,B+,A,A-,A+,B-,A+,B-,B+,A,A,B+
+183,Buffalo Wild Wings,205 N 76th St,Omaha,NE,68114,(402) 343-9464,A,A-,C,B,A,A,B+,B,B-,B,A,A,A-
+184,Buffalo Wild Wings,7301 S 27th St Ste 100,Lincoln,NE,68512,(402) 328-2999,A+,A+,B-,A-,A-,A+,B,A-,B-,B+,A,A-,B
+185,Buffalo Wild Wings,809 Allen Dr,Grand Island,NE,68803,(308) 381-7983,A-,B,B-,B,A-,B+,B,B,C+,A-,B+,B,A-
+186,Buffalo Wild Wings,1328 P St,Lincoln,NE,68508,(402) 475-2999,A-,A-,B-,C-,A+,B,B-,C-,B-,B,A,A-,A
+187,Buffalo Wild Wings,14615 W Maple Rd Ste 100,Omaha,NE,68116,(402) 492-9464,A+,A+,C,A,A,A+,B,A,B-,B+,A-,A,B
+188,Buffalo Wild Wings,10525 S 15th St Suite 100,Bellevue,NE,68123,(402) 991-9464,A+,A-,B+,A-,A-,A+,A-,A+,B-,B+,A-,A-,B+
+189,Buffalo Wild Wings,8701 Andermatt Dr,Lincoln,NE,68526,(402) 488-2999,A,A,B-,A,B-,A+,C+,A,B-,B+,A,B+,C+
+190,Buffalo Wild Wings,5208 2nd Ave,Kearney,NE,68847,(308) 238-2288,A,B,B+,B+,A,A-,B,A-,C+,A-,A-,B+,A-
+191,Buffalo Wild Wings,4287 S 144th St,Omaha,NE,68137,(402) 861-9464,A,A-,C,B+,A,A,B,B+,B-,B+,A-,A,A-
+192,Buffalo Wild Wings,627 Cross Keys Rd,Sicklerville,NJ,08081,(856) 728-0382,B+,B-,B-,C,A-,B+,A,B-,B,C+,B+,A-,B
+193,Buffalo Wild Wings,2164 N 2nd St,Millville,NJ,08332,(856) 825-8344,B-,C+,C,C-,A-,C+,A,C-,B,C+,B,B,A-
+194,Buffalo Wild Wings,4311 Black Horse Pike Hamilton Mall,Mays Landing,NJ,08330,(609) 272-3001,B,B-,C+,C,A-,B,A,C-,B-,C,A-,A-,B
+195,Buffalo Wild Wings,1598 Nixon Dr,Moorestown,NJ,08057,(856) 234-4282,A+,A+,B,B,A-,A+,B,A-,B-,C,A,A,A-
+196,Buffalo Wild Wings,"2 Rt. 37 West, Unit C-4 Crossroads Center of Toms River",Toms River,NJ,08753,(848) 224-4107,B+,B,B+,C,A,B+,B,B,B,C,A-,A-,A-
+197,Buffalo Wild Wings,2241 Us Highway 1,North Brunswick,NJ,08902,(732) 297-9413,A,A-,B,C+,A,A,A+,B,B-,C,A,A,A-
+198,Buffalo Wild Wings,1599 Us Highway 22,Watchung,NJ,07069,(908) 222-9464,A,A+,A-,C,B-,A+,B+,B+,B-,C-,A+,A,B
+199,Buffalo Wild Wings,970 Us Highway 22,Bridgewater,NJ,08807,(908) 704-9300,A+,A+,A-,B,A-,A+,A,B+,B-,C,A+,B+,B
+200,Buffalo Wild Wings,2770 Hooper Ave,Brick,NJ,08723,(732) 475-7645,B,C+,B+,C-,A-,C+,B,B-,B,C,A-,B-,A-
+201,Buffalo Wild Wings,343 Mount Hope Ave,Rockaway,NJ,07866,(973) 361-9464,A,A,A-,C+,A-,A,B+,B,B-,C,A,B,A-
+202,Buffalo Wild Wings,180 Highway 35 Ste 2004,Eatontown,NJ,07724,(732) 542-9464,A-,B+,B,C,A-,A-,A,B-,B,C,A,A,A-
+203,Buffalo Wild Wings,1540 Us Highway 46,Parsippany,NJ,07054,(973) 588-5501,A+,A+,A-,C+,A,A+,A,B,B-,C,A+,A,B+
+204,Buffalo Wild Wings,470 Harmon Meadow Blvd,Secaucus,NJ,07094,(201) 348-0824,A-,B+,B-,C,A,A-,A,B-,B,C-,A-,A,B+
+205,Buffalo Wild Wings,625 Us Highway 1 S,Iselin,NJ,08830,(732) 218-5385,A,A-,B,B-,A-,A,A,B,B-,C,A-,A,B+
+206,Buffalo Wild Wings,1701 W Edgar Rd,Linden,NJ,07036,(908) 474-0069,B,C,C+,D+,A,C+,A+,C,B-,C,A,A,A
+207,Buffalo Wild Wings,144 State Route 31 Ste 100,Flemington,NJ,08822,(908) 483-2300,A,A+,A,B-,B-,A+,B,B,B-,C,A+,A,B
+208,Buffalo Wild Wings,167 Us Highway 9,Morganville,NJ,07751,(732) 334-6050,A,A+,B,B,B-,A+,B,B+,B-,C,A,B,B
+209,Buffalo Wild Wings,1740 Prairie Ave,Cheyenne,WY,82009,(307) 635-9968,A-,B+,B-,B+,B-,B+,B,A,C+,B-,A-,C+,A-
+210,Buffalo Wild Wings,5071 E 2nd St,Casper,WY,82609,(307) 265-9453,B,B-,B,B-,A-,C+,B-,B+,D-,B-,A-,C-,A-
+211,Buffalo Wild Wings,2550 S Douglas Hwy,Gillette,WY,82718,(307) 257-2163,B-,C+,B,B,A-,C+,B-,B+,C-,B-,B,C-,A-
+212,Buffalo Wild Wings,85 Western Ave,South Portland,ME,04106,(207) 541-9464,A-,B-,B,C+,A,A-,B-,B-,C+,C+,A+,A,A
+213,Buffalo Wild Wings,648 Turner St Ste 2,Auburn,ME,04210,(207) 689-3700,B,C-,B,C+,A-,B,B-,B-,C,B-,A-,A,A-
+214,Buffalo Wild Wings,461 Stillwater Ave,Bangor,ME,04401,(207) 922-2500,B+,B+,B+,C+,A,B,B-,C+,C+,B-,A-,B,A-
+215,Buffalo Wild Wings,1690 SE Delaware Ave Ste 117,Ankeny,IA,50021,(515) 964-1029,A,A,C+,A,A,A,B-,A,B-,B+,B+,B-,A-
+216,Buffalo Wild Wings,2805 NW Arterial,Dubuque,IA,52002,(563) 584-9464,A,B+,B-,B+,A-,A,B-,A,C+,B+,B+,B,A-
+217,Buffalo Wild Wings,4345 Merle Hay Rd,Des Moines,IA,50310,(515) 270-9464,A,B,C+,B+,A,A-,A-,A-,B-,B+,A-,B-,A-
+218,Buffalo Wild Wings,6406 University Ave Ste A,Cedar Falls,IA,50613,(319) 553-0029,A,A,C+,A-,A,A,B-,A-,B-,B+,A-,C+,A
+219,Buffalo Wild Wings,400 S Duff Ave Ste 101,Ames,IA,50010,(515) 232-9464,A+,A+,B+,A-,A,A+,A-,A-,B-,B+,A,B-,A
+220,Buffalo Wild Wings,974 Lawrence St,Burlington,IA,52601,(319) 754-9464,B,C+,C,B,A-,C+,B,B,B+,A-,B+,C-,A-
+221,Buffalo Wild Wings,2020 Edgewood Rd SW,Cedar Rapids,IA,52404,(319) 390-6995,A-,B,B-,B,A,B,B,B,B,A-,A-,C+,A-
+222,Buffalo Wild Wings,2608 2nd Ave,Muscatine,IA,52761,(563) 263-0285,B+,B-,B-,B,A-,B,B+,A-,B+,A-,B-,C+,A-
+223,Buffalo Wild Wings,6925 Mills Civic Pkwy,West Des Moines,IA,50266,(515) 221-9464,A+,A+,C+,A,A,A+,B+,A+,B-,B+,A-,B,B
+224,Buffalo Wild Wings,1100 Blairs Ferry Rd NE,Cedar Rapids,IA,52402,(319) 378-8886,A,A,B-,A-,A,A,B,A-,B,A-,A-,C+,A
+225,Buffalo Wild Wings,3311 SE 14th St,Des Moines,IA,50320,(515) 288-1306,B+,B-,C+,B,A,B+,A,B+,B-,B+,B+,B-,A-
+226,Buffalo Wild Wings,2900 S 25th St,Clinton,IA,52732,(563) 242-3002,A-,B+,B-,B+,A-,B+,B-,B,B,A-,B+,B-,A-
+227,Buffalo Wild Wings,201 S Clinton St Ste 120,Iowa City,IA,52240,(319) 887-9464,A,A,B,B-,A,A,B+,B,B,B,A,B-,A
+228,Buffalo Wild Wings,4175 4th St SW,Mason City,IA,50401,(641) 421-9464,A-,B,B-,B+,A,B+,B-,B,B-,A,B+,B-,A
+229,Buffalo Wild Wings,4860 Utica Ridge Rd,Davenport,IA,52807,(563) 359-0800,A-,B,C,B-,A,A-,B+,B,B,B,A-,A-,B
+230,Buffalo Wild Wings,2500 Corridor Way Ste 1,Coralville,IA,52241,(319) 338-9464,A+,A+,B,A,B+,A+,A-,A,B,B+,A,B-,A
+231,Buffalo Wild Wings,3701 Metro Dr Ste 100,Council Bluffs,IA,51501,(712) 366-0067,B,C+,C+,B-,A,B,B,B-,B-,A-,B,A-,A-
+232,Buffalo Wild Wings,5001 Sergeant Rd Ste 355,Sioux City,IA,51106,(712) 266-9464,B+,B,B-,A-,A,B+,B,B+,C+,A-,B,C,B
+233,Buffalo Wild Wings,2909 5th Ave S,Fort Dodge,IA,50501,(515) 573-1182,B+,C+,C,B+,A,B,B,B-,B-,A,B+,B-,A-
+234,Buffalo Wild Wings,218 S 3rd St,Bismarck,ND,58504,(701) 323-9464,B+,B-,B-,A-,A-,B,B,A,C-,A-,A-,C-,B
+235,Buffalo Wild Wings,1501 42nd St S,Fargo,ND,58103,(701) 356-9464,A,B+,B-,B-,A+,A-,B,A-,C-,B+,A,B+,A
+236,Buffalo Wild Wings,417 Reiger Dr,Williston,ND,58801,(701) 609-5445,B,C,B-,A-,A,C+,B,A+,C-,A-,C+,D+,A-
+237,Buffalo Wild Wings,3545 W Ridge Dr,Dickinson,ND,58601,(701) 761-2382,B+,C,B+,B+,A-,B-,B-,A+,C-,A-,B+,C-,A-
+238,Buffalo Wild Wings,2717 S Columbia Rd,Grand Forks,ND,58201,(701) 775-9464,A,A-,B-,B,A,A-,B,B+,C-,B+,A-,B,A-
+239,Buffalo Wild Wings,1515 19th Ave N,Fargo,ND,58102,(701) 280-9464,A,B+,B-,B,A,A-,B,A-,C-,B+,A-,B+,A
+240,Buffalo Wild Wings,3820 S Broadway,Minot,ND,58701,(701) 838-9464,B,B-,C+,B,A,C+,B,A,C-,B+,B+,D,B
+241,Buffalo Wild Wings,518 Highway 17 N,North Myrtle Beach,SC,29582,(843) 281-9464,A-,A-,C-,C,A-,B-,B,B-,B+,B-,A-,A-,A
+242,Buffalo Wild Wings,109 Grandview Dr Ste 1,Summerville,SC,29483,(843) 851-9242,A-,A-,C+,B,A,A-,A-,B,B+,B+,B+,A-,A-
+243,Buffalo Wild Wings,1990 Oakheart Rd,Myrtle Beach,SC,29579,(843) 236-6868,B+,A-,C-,B,A,B,B+,B-,B+,B,B+,B-,C+
+244,Buffalo Wild Wings,4959 Centre Pointe Dr Ste 104,North Charleston,SC,29418,(843) 529-5394,B+,B,C,C+,A,B-,A,B-,B+,B,A-,B-,A-
+245,Buffalo Wild Wings,4500 Devine St,Columbia,SC,29205,(803) 738-8090,A+,A-,C-,B-,A,A-,A-,B-,A-,B-,A-,B+,A
+246,Buffalo Wild Wings,10056 Two Notch Rd,Columbia,SC,29223,(803) 865-5222,A,A,C-,B+,A-,A-,A,B-,A-,B,A-,B+,B+
+247,Buffalo Wild Wings,1000 Bower Pkwy,Columbia,SC,29212,(803) 407-3431,A+,A,C+,A,A-,A,A-,A-,A-,B+,A-,B+,B
+248,Buffalo Wild Wings,2599 David H Mcleod Blvd,Florence,SC,29501,(843) 292-8995,A,B,C-,B,A,B+,A,B-,A-,B+,B+,B,A-
+249,Buffalo Wild Wings,5570 Sunset Blvd Ste A,Lexington,SC,29072,(803) 957-2999,A+,A+,C+,A,A-,A+,B,A-,A-,B+,B+,A-,B+
+250,Buffalo Wild Wings,121 Robert Smalls Pkwy,Beaufort,SC,29906,(843) 525-0142,B+,C,C+,C+,B+,B-,A,B-,A-,B+,A,B,B+
+251,Buffalo Wild Wings,1460 Meeting Blvd Ste 119,Rock Hill,SC,29730,(803) 328-9464,B+,B,C+,B-,A-,B,A,C+,A-,B+,A-,B-,B+
+252,Buffalo Wild Wings,2625 Broad St,Sumter,SC,29150,(803) 469-7400,B+,C,C,C+,A,B,A,C+,A-,B+,B+,B+,A-
+253,Buffalo Wild Wings,1125 Woodruff Rd Ste 1300,Greenville,SC,29607,(864) 286-3843,A+,A-,C+,B+,A,A,A,B,B+,B+,A,A-,A-
+254,Buffalo Wild Wings,1494 Wo Ezell Blvd,Spartanburg,SC,29301,(864) 576-0257,A-,A-,C+,B,A,B+,A,B,B+,B+,B+,C+,A-
+255,Buffalo Wild Wings,7030 W 105th St,Overland Park,KS,66212,(913) 341-9464,A+,A,B,A-,A,A+,B+,A-,B,B+,A+,A-,B
+256,Buffalo Wild Wings,3236 N Rock Rd Ste 190,Wichita,KS,67226,(316) 636-9464,A,C+,C,B,A-,B,A-,A-,B+,B+,B+,C+,B
+257,Buffalo Wild Wings,1918 N Rock Rd,Derby,KS,67037,(316) 788-9464,A,B,C,A-,A-,A-,B,A-,B+,A-,A-,B,B+
+258,Buffalo Wild Wings,12110 S Strang Line Rd,Olathe,KS,66062,(913) 393-0638,A+,A,B,A,A-,A+,B+,A,B,B+,A,A-,A-
+259,Buffalo Wild Wings,1231 Moro St,Manhattan,KS,66502,(785) 323-9464,A+,A,NG,B,A,A+,B+,B,B,B,A,B+,A
+260,Buffalo Wild Wings,1227 SW Wanamaker Rd Ste 400,Topeka,KS,66604,(785) 783-2999,A,B,C-,B,A,B+,B+,B,B,A-,B+,B+,A-
+261,Buffalo Wild Wings,101 W 29th St Ste A,Pittsburg,KS,66762,(620) 232-5737,A-,B,B+,B,A,B+,B,B,B+,A-,B+,C+,A-
+262,Buffalo Wild Wings,2626 Iowa St,Lawrence,KS,66046,(785) 865-1616,A+,A,NG,B,A,A,NG,B,B,B,A-,A-,A
+263,Buffalo Wild Wings,2588 S 9th St,Salina,KS,67401,(785) 452-9829,A-,B-,C+,B,A,B+,B+,B,B,A-,A-,B+,A-
+264,Buffalo Wild Wings,2413 N Maize Rd,Wichita,KS,67205,(316) 722-9464,A,B+,C,A-,B+,A,B-,A,B+,B+,B+,B,B-
+265,Buffalo Wild Wings,1710 N Waldron St,Hutchinson,KS,67502,(620) 664-9022,B+,B-,B,B+,B+,B,B-,B+,B,A-,B,C,B
+266,Buffalo Wild Wings,1530 LaRue St Ste 100 Schulman Crossing Shopping Center,Garden City,KS,67846,(620) 272-0322,B+,B,B,B+,A-,B,A,B+,C,A-,B,D,A-
+267,Buffalo Wild Wings,5041 S 4th St. Trafficway,Leavenworth,KS,66048,(913) 250-0510,A-,B,C+,B+,A-,B+,A-,B+,B,A-,B+,B,A-
+268,Buffalo Wild Wings,13749 Metcalf Ave,Overland Park,KS,66223,(913) 227-4688,A+,A+,B,A,A,A+,B+,A,B,B,A+,A-,B
+269,Buffalo Wild Wings,1012 Massachusetts St,Lawrence,KS,66044,(785) 838-9464,A,B+,NG,C+,A,B+,B,B-,B,B,A,B-,A
+270,Buffalo Wild Wings,2303 Clover Basin Dr,Longmont,CO,80503,(303) 485-9464,A+,A,B,B,B-,A+,B,A-,C+,C,A+,A,A-
+271,Buffalo Wild Wings,404 Marshall Rd,Superior,CO,80027,(303) 497-9464,A+,A,B,B+,A-,A+,B,A,C+,C,A+,A+,A
+272,Buffalo Wild Wings,10090 Grant St,Thornton,CO,80229,(720) 929-9464,B,C,B-,C+,A,B-,A,B,C+,C+,A-,A-,A-
+273,Buffalo Wild Wings,2025 Prairie Center Pkwy,Brighton,CO,80601,(303) 655-9464,B,C-,B-,C+,A,B-,A,B+,C+,C+,A,A-,A-
+274,Buffalo Wild Wings,7425 N Academy Blvd,Colorado Springs,CO,80920,(719) 594-9464,A+,A,C+,B+,A-,A,B+,B+,B-,C+,A+,A-,B+
+275,Buffalo Wild Wings,5821 N Elizabeth St,Pueblo,CO,81008,(719) 543-9464,B,C+,C-,B-,A-,C+,A,B-,B,B-,A-,C,B
+276,Buffalo Wild Wings,150 E Harmony Rd,Fort Collins,CO,80525,(970) 266-9464,A+,A,B,B,A,A,B,B+,C+,C,A+,A,A-
+277,Buffalo Wild Wings,2905 Geyser Dr,Colorado Springs,CO,80906,(719) 219-1500,A,A,C+,C+,A,B+,A-,B-,B-,C,A+,B,A-
+278,Buffalo Wild Wings,16540 Washington St,Thornton,CO,80023,(303) 524-3800,A+,A-,A-,B,A-,A+,B,A,C+,C-,A,A,A-
+279,Buffalo Wild Wings,15570 W 64th Ave,Arvada,CO,80007,(303) 467-2999,A,B+,C+,B,B+,A,C+,A-,C+,C,A,A-,A-
+280,Buffalo Wild Wings,10500 Garden Dr,Aurora,CO,80012,(720) 213-1100,A,A-,C+,B-,A,A-,A+,C+,C+,C+,A+,A,A
+281,Buffalo Wild Wings,1505 Rocky Mountain Ave,Loveland,CO,80538,(970) 461-1999,A-,B,B,B-,A-,B+,B,B+,C+,C+,A+,B+,A-
+282,Buffalo Wild Wings,7607 E 36th Ave,Denver,CO,80238,(303) 322-0551,A+,B,C,B,A,A,B,A,C+,C,A+,A,A-
+283,Buffalo Wild Wings,980 Sgt Jon Stiles Dr,Highlands Ranch,CO,80129,(303) 471-5492,A+,A-,B+,B+,B,A+,B,A+,C+,C,A+,A,A-
+284,Buffalo Wild Wings,2412 Highway 6 And 50,Grand Junction,CO,81505,(970) 242-3151,B,C+,C+,C+,A-,B-,B,B-,B-,C+,A,B-,B
+285,Buffalo Wild Wings,4711 29th St Unit A,Greeley,CO,80634,(970) 330-9988,A-,C+,B,B,A-,B+,A-,A-,C+,B-,A,A,A-
+286,Buffalo Wild Wings,8255 S Chester St Ste 200,Englewood,CO,80112,(303) 768-9464,A+,A,C+,B+,A,A,B+,A,C+,C,A+,A-,A-
+287,Buffalo Wild Wings,3900 River Point Pkwy,Englewood,CO,80110,(303) 789-9280,B+,C+,C+,C,A,B-,A,B-,C+,C+,A+,A,A
+288,Buffalo Wild Wings,6100 S Main St,Aurora,CO,80016,(720) 870-4475,A,A,C+,B,A-,A+,B+,A,C+,C,A+,A,B+
+289,Buffalo Wild Wings,10436 Town Center Dr Ste 100,Broomfield,CO,80021,(303) 465-2999,A,B+,C+,B,A,A-,B+,B+,C+,C+,A+,A,A-
+290,Buffalo Wild Wings,8350 W 80th Ave,Arvada,CO,80005,(303) 424-2999,A,B+,C+,B+,B-,A,B,A-,C+,C+,A,A,A-
+291,Buffalo Wild Wings,415 S Wadsworth Blvd,Lakewood,CO,80226,(720) 963-9464,A,B+,C+,C+,A,B+,A,B-,C+,C,A+,A,A
+292,Buffalo Wild Wings,5138 S Wadsworth Blvd,Littleton,CO,80123,(303) 978-9424,A,B+,C+,B,A,A-,B+,B+,C+,C,A+,A,A-
+293,Buffalo Wild Wings,715 Mountain View Rd,Rapid City,SD,57702,(605) 721-9464,A,B,C+,B,A-,B+,B,A,C+,B+,A,B-,A-
+294,Buffalo Wild Wings,2700 9th Ave SE,Watertown,SD,57201,(605) 878-3777,A-,A-,B,B+,A-,A-,B-,B+,C-,A-,A-,B,A-
+295,Buffalo Wild Wings,2601 S Louise Ave Ste 100,Sioux Falls,SD,57106,(605) 274-2382,A,B+,C+,B+,A,A-,B,A-,C,B+,A-,B+,A-
+296,Buffalo Wild Wings,1801 6th St,Brookings,SD,57006,(605) 592-9049,A+,A,A-,B+,A,A,B-,A-,C,B+,A-,B-,A
+297,Buffalo Wild Wings,909 N West Ave,Sioux Falls,SD,57104,(605) 334-2711,A-,B+,C+,B,A,B+,A-,B,C,A-,A-,B,A
+298,Buffalo Wild Wings,32 W Joyce Blvd,Fayetteville,AR,72703,(479) 251-9464,A,A,C+,B,A,A-,B+,B,B+,B,A-,C+,A
+299,Buffalo Wild Wings,4104 Central Ave,Hot Springs National Park,AR,71913,(501) 525-9453,B+,B+,C-,B-,A-,B,B,B-,B,B+,B,B,A-
+300,Buffalo Wild Wings,6938 W Sunset Ave,Springdale,AR,72762,(479) 419-5374,A,A,C+,A-,A-,A,A-,A-,B+,B+,A-,B,B+
+301,Buffalo Wild Wings,14800 Cantrell Rd,Little Rock,AR,72223,(501) 868-5279,A-,C,C-,B-,A-,B,A-,A-,B+,B,B,B-,B
+302,Buffalo Wild Wings,675 Amity Rd,Conway,AR,72032,(501) 205-1940,A-,A-,C+,B+,A,B+,A-,B,B,A-,B+,C+,B+
+303,Buffalo Wild Wings,6550 Rogers Ave,Fort Smith,AR,72903,(479) 222-6700,A,A,C,B,A,A-,A-,B,B+,B+,B+,B+,B+
+304,Buffalo Wild Wings,4600 Silver Creek Dr,Sherwood,AR,72120,(501) 819-0192,B+,C,C-,B,A-,C+,A-,B+,B+,A-,B+,C+,B
+305,Buffalo Wild Wings,2212 Skyline Dr,Russellville,AR,72802,(479) 967-1288,B+,B,C+,B+,A-,B,B,B,B,A-,B+,C+,C+
+306,Buffalo Wild Wings,1503 Red Wolf Blvd,Jonesboro,AR,72401,(870) 336-3920,B+,B,C+,B-,A,B,A-,B-,B+,B+,B,C+,A-
+307,Buffalo Wild Wings,1195 Hometown Cmns,Mountain Home,AR,72653,(870) 492-9465,B,B,A,B,A-,B,C+,B-,B+,A-,B,C+,A-
+308,Buffalo Wild Wings,7206 Alcoa Rd,Benton,AR,72015,(501) 778-9464,B+,B,B-,B+,A-,B,B,B+,B,A-,B,C+,B+
+309,Buffalo Wild Wings,3990 N Steele Blvd,Fayetteville,AR,72703,(479) 251-9464,A,A,C+,B,A,A-,B+,B,B+,B,A-,C+,A
+310,Buffalo Wild Wings,2212 E Parkway Dr,Russellville,AR,72802,(479) 967-1288,B+,B,C+,B+,A-,B,B,B,B,A-,B+,C+,C+
+311,Buffalo Wild Wings,2707 SE Moberly Ln,Bentonville,AR,72712,(479) 254-9464,A+,A+,B,A+,A-,A+,A-,A,B+,A-,A-,B+,A-
+312,Buffalo Wild Wings,23 W Union St,Athens,OH,45701,(740) 594-9464,A,B+,B+,C,A,A-,B-,C,B-,B,B+,B+,A
+313,Buffalo Wild Wings,1283 N Memorial Dr,Lancaster,OH,43130,(740) 689-2533,B+,B,B,B,A-,B+,B-,B,B-,A-,B+,A-,A-
+314,Buffalo Wild Wings,3920 E Broad St,Columbus,OH,43213,(614) 453-9464,B+,C,C,C,A,B-,A,C+,B-,B+,A-,A-,A-
+315,Buffalo Wild Wings,6340 Prentiss School Pl,Canal Winchester,OH,43110,(614) 837-8080,A,A-,B,B+,A-,A,A-,B+,C+,B+,B,A-,B
+316,Buffalo Wild Wings,2386 Taylor Square Dr,Reynoldsburg,OH,43068,(614) 860-9464,A-,B+,C,B,A-,A-,A,B+,B-,B+,A-,A-,B
+317,Buffalo Wild Wings,1352 Brandywine Blvd,Zanesville,OH,43701,(740) 454-9464,B,B,B-,B,A-,B+,B-,B-,B-,A-,B-,B+,A-
+318,Buffalo Wild Wings,215 Upper River Rd,Gallipolis,OH,45631,(740) 446-7891,B,B-,B-,B+,A-,B,B-,B,A-,A-,C+,B-,B
+319,Buffalo Wild Wings,61333 Southgate Rd,Cambridge,OH,43725,(740) 421-9464,B,B-,C+,B,A-,B,C+,B,B-,A-,B-,B,B
+320,Buffalo Wild Wings,2386 Taylor Park Dr,Reynoldsburg,OH,43068,(614) 860-9464,A-,B+,C,B,A-,A-,A,B+,B-,B+,A-,A-,B
+321,Buffalo Wild Wings,1001 Ironton Hills Dr,Ironton,OH,45638,(740) 533-9299,B,B-,B,B+,A-,B-,C+,B,A-,A,B-,B-,B-
+322,Buffalo Wild Wings,475 N Houk Rd,Delaware,OH,43015,(740) 363-9464,A,A-,A-,B+,A-,A+,B-,A,B-,B+,A,A-,A-
+323,Buffalo Wild Wings,6595 Perimeter Loop Rd,Dublin,OH,43017,(614) 766-9464,A+,A+,C,A,A-,A+,B+,A,B-,B,A-,A-,B+
+324,Buffalo Wild Wings,630 Claremont Ave,Ashland,OH,44805,(419) 281-9464,A-,B,B+,B+,A-,A,C+,B+,C+,A-,B+,A-,A-
+325,Buffalo Wild Wings,50633 Valley Frontage Rd,Saint Clairsville,OH,43950,(740) 695-2800,B+,B,B+,A-,B,B,B,B+,C+,A,B-,C+,A-
+326,Buffalo Wild Wings,968 W 5th Ave,Columbus,OH,43212,(614) 298-9464,A+,B,C,B,A+,A-,B,A-,B-,B-,A,A-,A
+327,Buffalo Wild Wings,8465 Pearl Rd,Strongsville,OH,44136,(440) 243-9464,A,A,C-,A-,A-,A,B,B+,C,B+,A-,A-,A-
+328,Buffalo Wild Wings,200 Biggs Blvd,Harrison,OH,45030,(513) 202-9464,B+,B-,C-,B+,A-,B,C+,B+,C+,A-,A-,A-,B-
+329,Buffalo Wild Wings,3555 Navarre Ave Ste 1,Oregon,OH,43616,(419) 691-9453,B+,B+,C-,B,A-,B+,B,B,C+,A-,B,A-,A-
+330,Buffalo Wild Wings,9062 State Route 14,Streetsboro,OH,44241,(330) 626-1515,B+,B,B+,B,A-,B+,B,B+,C-,B+,B+,B-,B-
+331,Buffalo Wild Wings,2082 S Alex Rd,Dayton,OH,45449,(937) 847-2999,B,C+,C,C+,A,B-,B+,B-,B-,B+,B+,A-,A-
+332,Buffalo Wild Wings,2137 Polaris Pkwy,Columbus,OH,43240,(614) 985-3164,A+,A+,A-,A,A+,A+,A-,A,B-,B,A-,A-,C+
+333,Buffalo Wild Wings,5433 Mayfield Rd,Cleveland,OH,44124,(440) 605-9464,A,A,C-,B+,A-,A,B+,B+,D+,B+,A-,A-,A-
+334,Buffalo Wild Wings,5240 Bethel Center Mall,Columbus,OH,43220,(614) 459-2999,A+,A,C,B,A,A+,B+,A-,B-,B,A,A-,A-
+335,Buffalo Wild Wings,1690 Georgesville Square Dr,Columbus,OH,43228,(614) 870-8220,A-,B+,C,B-,A,B+,A,B-,B-,B+,A-,B+,A-
+336,Buffalo Wild Wings,235 Lincoln Way W,Massillon,OH,44647,(330) 837-2999,B,A-,C+,A-,A-,B+,C+,B,C+,A,B-,B+,B
+337,Buffalo Wild Wings,18865 Giles Rd,Aurora,OH,44202,(330) 562-2150,A,A,B+,B+,A-,A+,B,A-,C-,B,A-,A-,B
+338,Buffalo Wild Wings,1960 N Bechtle Ave,Springfield,OH,45504,(937) 390-9464,B+,B-,C-,B,A,B,B-,B-,B-,A-,B,B+,A
+339,Buffalo Wild Wings,200 Calhoun St,Cincinnati,OH,45219,(513) 281-9464,B+,B,C-,C-,A,B-,B,C-,B-,B,A-,A,A
+340,Buffalo Wild Wings,3878 Attucks Dr,Powell,OH,43065,(614) 766-5371,A+,A+,A-,A,A-,A+,B,A+,B-,B,A-,A-,B+
+341,Buffalo Wild Wings,461 S Randall Rd,Algonquin,IL,60102,(708) 971-0584,A,A-,A-,B+,A-,A+,B,B,C+,B-,A-,A,A-
+342,Buffalo Wild Wings,301 E Euclid Ave,Mount Prospect,IL,60056,(224) 202-6897,A,A+,C-,B,A-,A,A,B,B-,B-,A,A,A
+343,Buffalo Wild Wings,2540 N Sutton Rd,Hoffman Estates,IL,60192,(708) 552-0310,A,A+,C-,B+,B-,A,A-,A-,C+,C+,A,B+,B
+344,Buffalo Wild Wings,4999 Old Orchard Ctr Unit D-150,Skokie,IL,60077,(872) 395-5338,A+,A+,C-,B-,A,A,A+,B-,B-,C+,A,A-,A
+345,Buffalo Wild Wings,1018 Willow Rd,Northbrook,IL,60062,(847) 979-5659,A+,A+,C-,B,B,A+,B+,B+,B-,C,A,A,A
+346,Buffalo Wild Wings,5755 Northwest Hwy,Crystal Lake,IL,60014,(224) 338-6813,A,A,A-,B,A,A+,B,B+,C+,B-,A,A,A-
+347,Buffalo Wild Wings,461 S Randall Rd,Algonquin,IL,60102,(847) 458-2333,A,A-,A-,B+,A-,A+,B,B,C+,B-,A-,A,A-
+348,Buffalo Wild Wings,361 W Townline Rd,Vernon Hills,IL,60061,(630) 474-8777,A+,A+,B,B+,B,A+,A,B+,C+,C+,A,A,A-
+349,Buffalo Wild Wings,1435 E Main St,Carbondale,IL,62901,(618) 529-4686,A-,B+,C,C-,A,B-,A-,D+,B,B-,A-,C+,A
+350,Buffalo Wild Wings,15888 S La Grange Rd,Orland Park,IL,60462,(708) 364-9464,A,A+,C-,B+,A-,A,B,B+,B-,B,A,A-,A-
+351,Buffalo Wild Wings,833 W Camp St,East Peoria,IL,61611,(309) 699-9464,B+,B,B,B+,A,B,B-,B+,B-,A-,B,B,A-
+352,Buffalo Wild Wings,1724 E Jackson St,Macomb,IL,61455,(309) 833-5707,A,B,B,B,A,B,B,B-,B,B+,B+,C-,A
+353,Buffalo Wild Wings,6450 Route 53,Woodridge,IL,60517,(630) 969-9464,A+,A,A-,B,A,A+,A,B+,B-,B-,A,A,A-
+354,Buffalo Wild Wings,4420 Wabash Ave,Springfield,IL,62711,(217) 546-9453,A,B+,C,A-,B+,A-,B-,A,B,B+,A-,C+,B+
+355,Buffalo Wild Wings,3961 Fountain Square Pl,Waukegan,IL,60085,(847) 473-3194,B+,B-,B,C,A,B+,A,C+,C+,B,A-,A,A-
+356,Buffalo Wild Wings,1424 Central Park Cir,O Fallon,IL,62269,(618) 624-6464,A+,A+,C-,A-,A,A+,B+,B,B,B+,B+,A-,A-
+357,Buffalo Wild Wings,249 Harvard Dr,Edwardsville,IL,62025,(618) 656-9464,A,A,B-,A-,A,A,B,B+,B,B+,B+,B-,A-
+358,Buffalo Wild Wings,402 Randall Rd,South Elgin,IL,60177,(847) 697-5736,A,A+,B,B+,A-,A+,B+,B+,B-,B,A,A,A-
+359,Buffalo Wild Wings,124 Dettro Dr,Mattoon,IL,61938,(217) 258-9464,B+,B-,B,B,A,B+,C+,B-,A-,A-,B+,A-,A-
+360,Buffalo Wild Wings,1513 W Lane Rd Unit 1,Machesney Park,IL,61115,(815) 633-7928,B-,B-,C-,B-,A,B,B-,C+,C+,B+,C+,A,B+
+361,Buffalo Wild Wings,2683 N Seminary St,Galesburg,IL,61401,(309) 341-1244,A-,B,B-,B,A,B+,B+,B-,B-,A,A-,B-,A
+362,Buffalo Wild Wings,550 W 79th St,Chanhassen,MN,55317,(952) 934-9453,A+,A+,A-,A,B,A+,B-,A+,C,B,A,A,A-
+363,Buffalo Wild Wings,3458 55th St NW,Rochester,MN,55901,(507) 536-0717,A+,A-,B,A,A-,A+,B+,A,C+,A-,A,A-,A
+364,Buffalo Wild Wings,1280 Promenade Pl,Saint Paul,MN,55121,(651) 414-6200,A+,A+,B,A,A,A+,A-,A,C,B+,A,A,A-
+365,Buffalo Wild Wings,7551 Egan Dr,Savage,MN,55378,(952) 226-1600,A+,A-,B+,A-,A-,A+,B,A,C,B,A,A,A-
+366,Buffalo Wild Wings,778 Freeport Ave NW,Elk River,MN,55330,(763) 241-9464,A-,B+,A-,B+,B,A,C+,A-,C,B+,A-,A-,A-
+367,Buffalo Wild Wings,8346 3rd St N,Saint Paul,MN,55128,(651) 734-9464,A,B,B+,B+,B,A,A-,B+,C+,B+,A,A,A-
+368,Buffalo Wild Wings,9221 Cedar St,Monticello,MN,55362,(763) 295-9464,A,A-,A,A-,A-,A,B-,A,C,B+,B+,B+,A-
+369,Buffalo Wild Wings,14658 Cedar Ave,Saint Paul,MN,55124,(952) 997-2271,A+,A+,B,A,A-,A+,B,A-,C+,B+,A,A,A-
+370,Buffalo Wild Wings,3395 River Rapids Dr. Riverdale Village,Minneapolis,MN,55448,(763) 253-2999,A-,B+,B,B+,A-,A,B,B+,C,B+,B,A,A-
+371,Buffalo Wild Wings,11580 Theatre Dr N,Champlin,MN,55316,(763) 427-9464,A,A-,C+,A-,B,A,B,A-,C+,B+,A,A,A-
+372,Buffalo Wild Wings,5590 W Broadway Ave,Minneapolis,MN,55428,(763) 531-2356,A-,B-,C+,C+,A-,B+,A,B,C+,B,A,A,A-
+373,Buffalo Wild Wings,1307 Miller Trunk Hwy,Duluth,MN,55811,(218) 722-5100,A-,B,B-,B,A,B,B-,B,C-,B+,A-,B-,A-
+374,Buffalo Wild Wings,1100 W Frontage Rd,Owatonna,MN,55060,(507) 455-2700,A-,B-,B,B+,A-,B+,B,A-,C+,A-,A-,B-,A-
+375,Buffalo Wild Wings,301 Saint Andrews Dr,Mankato,MN,56001,(507) 385-9464,A,A-,B-,B,A,A,B,B,C+,B+,A-,A-,A
+376,Buffalo Wild Wings,3505 Vicksburg Ln N,Minneapolis,MN,55447,(763) 551-9464,A+,A+,C+,A,B,A+,B,A-,C+,B,A,A,A-
+377,Buffalo Wild Wings,80 Snelling Ave N,Saint Paul,MN,55104,(651) 644-0000,A+,B,C,B-,A,A,A,B-,C+,B,A,A,A
+378,Buffalo Wild Wings,1540 109th Ave NE,Minneapolis,MN,55449,(763) 783-4515,A,B+,B,A-,A-,A+,B,A-,C,B,A,A-,A-
+379,Buffalo Wild Wings,2001 University Ave SE,Minneapolis,MN,55414,(612) 617-9464,A,C+,C+,D+,A+,B,B+,B-,C,C+,A,A,A+
+380,Buffalo Wild Wings,18425 Orchard Trl,Lakeville,MN,55044,(952) 898-2999,A+,A,B,A-,B,A+,B-,A,C+,B,A,A,A-
+381,Buffalo Wild Wings,1777 County Road B2 W,Saint Paul,MN,55113,(651) 636-0926,A+,A-,C,B+,A,A,A-,B+,C+,B+,A,A,A
+382,Buffalo Wild Wings,2685 Southdale Ctr A,Minneapolis,MN,55435,(952) 920-9066,A+,A+,C+,A-,B,A+,A,A-,C,B,A+,A,A
+383,Buffalo Wild Wings,3085 White Bear Ave N,Saint Paul,MN,55109,(651) 770-9464,A-,B,C,B-,A,B+,A-,B-,C+,B+,A,A,A-
+384,Buffalo Wild Wings,5991 Norwich Ave N,Stillwater,MN,55082,(651) 351-9464,A,A,B+,B+,A-,A+,B-,A-,C+,B,A,A,A-
+385,Buffalo Wild Wings,3701 W Division St Ste 111,Saint Cloud,MN,56301,(320) 656-9464,A,B-,B-,B-,A,B+,B+,B,C,B+,A-,B+,A
+386,Buffalo Wild Wings,2201 1st Ave N,Moorhead,MN,56560,(218) 512-0400,A,B,B,B+,A,A-,B,B+,C-,A-,A-,B+,A
+387,Buffalo Wild Wings,1040 Highway 15 S,Hutchinson,MN,55350,(320) 234-9453,A-,B,A,B+,A-,A-,C+,B,C,A-,A-,B+,A-
+388,Buffalo Wild Wings,225 Paul Bunyan Dr NW,Bemidji,MN,56601,(218) 444-9464,A,B+,C,B,A,A-,NG,B,C-,B+,B+,A-,A-
+389,Buffalo Wild Wings,14643 Edgewood Dr Ste 100,Baxter,MN,56425,(218) 828-8900,B+,B+,B,B+,B-,A-,C+,B+,C-,B+,B+,B+,B
+390,Buffalo Wild Wings,150 Whalon St,Fitchburg,MA,01420,(978) 343-9464,B,C+,B-,C,A,B,A,C,C+,B-,B+,A,A-
+391,Buffalo Wild Wings,180 Main St,Saugus,MA,01906,(781) 941-2901,B,B-,B-,C,B,B,B-,B-,B-,C+,A-,A,A-
+392,Buffalo Wild Wings,100 Independence Way Ste D14,Danvers,MA,01923,(978) 646-9464,A-,B+,B-,C,A-,A-,B-,B-,B-,C,A,A,A-
+393,Buffalo Wild Wings,186 N Dartmouth Mall,North Dartmouth,MA,02747,(508) 992-1438,B,B+,B-,C+,A,B,B,C+,B-,C+,B,A-,B+
+394,Buffalo Wild Wings,321 School St,Mansfield,MA,02048,(508) 339-4035,A,A-,B-,B,A-,A-,B-,B,C+,C+,B,B,A-
+395,Buffalo Wild Wings,476 Boston Tpke,Shrewsbury,MA,01545,(508) 845-2999,A+,A+,B-,B+,A-,A+,A-,B+,C+,C+,A,A,A-
+396,Buffalo Wild Wings,500 Westgate Dr,Brockton,MA,02301,(508) 559-1409,B,B-,B-,D,A-,B,A+,C-,C+,C,A-,A,A
+397,Buffalo Wild Wings,480 Memorial Dr,Chicopee,MA,01020,(413) 331-5041,B,B,C,B-,A-,B,B+,B-,C+,B,B+,A,B
+398,Buffalo Wild Wings,S Shore Plz Suite 1025B,Braintree,MA,02184,(781) 843-0753,A,A,B+,B-,A,A,B,B,C+,C,A+,A,A-
+399,Buffalo Wild Wings,1775 Washington St,Hanover,MA,02339,(781) 826-2614,A-,A,B-,B-,B,A,C+,B+,C+,C,A-,A-,B+
+400,Buffalo Wild Wings,15 South Ave,Burlington,MA,01803,(781) 365-1907,A-,A,B+,C+,B,A,B+,B,C+,C,A-,A,A-
+401,Buffalo Wild Wings,120 Highland Ave,Seekonk,MA,02771,(508) 336-6153,B,B+,B-,B-,B,B+,C+,B-,B-,C+,B,A-,A-
+402,Buffalo Wild Wings,250 S Shore Plz,Braintree,MA,02184,(781) 843-0753,A,A,B+,B-,A,A,B,B,C+,C,A+,A,A-
+403,Buffalo Wild Wings,13967 S Virginia St,Reno,NV,89511,(775) 853-9464,A,A,C,B-,A-,A-,B,B,B,C,A,A-,A-
+404,Buffalo Wild Wings,190 W Craig Rd,North Las Vegas,NV,89032,(702) 642-0055,B,C,C-,C+,A-,B-,A+,B-,A-,B-,A,A-,A-
+405,Buffalo Wild Wings,150 E Centennial Pkwy Ste 101,North Las Vegas,NV,89084,(702) 649-3054,A-,C+,C-,B,A-,B,A+,A-,A-,C+,A-,A-,B+
+406,Buffalo Wild Wings,65 E Horizon Ridge Pkwy,Henderson,NV,89002,(702) 564-5795,B+,B-,C-,B,A-,B-,B+,B,A-,C+,A-,A-,A-
+407,Buffalo Wild Wings,4280 S Hualapai Way Ste 108,Las Vegas,NV,89147,(702) 251-3911,B+,B-,C-,C,A,B-,A+,B-,A,C+,A,B+,A-
+408,Buffalo Wild Wings,6640 N Durango Dr Ste 110,Las Vegas,NV,89149,(702) 395-2455,B+,B-,C-,C+,A,B,A,B,A-,C+,A-,B+,A-
+409,Buffalo Wild Wings,7345 S Durango Dr Ste 118,Las Vegas,NV,89113,(702) 260-4800,A-,B-,C-,B-,A,B-,A+,B+,A-,C+,A,B+,A-
+410,Buffalo Wild Wings,10271 S Eastern Ave Ste 121,Henderson,NV,89052,(702) 492-1880,A-,B,C-,C,A-,B,A,B+,A,C,A,A-,A-
+411,Buffalo Wild Wings,150 E Centennial Pkwy,Las Vegas,NV,89115,(702) 649-3054,B-,C,C-,C,A,C+,A,C,A-,B-,B,A-,A
+412,Buffalo Wild Wings,7430 Las Vegas Blvd S Ste 120,Las Vegas,NV,89123,(702) 614-0238,A-,B-,C-,B-,A,B,A,B,A-,C+,A,A-,A-
+413,Buffalo Wild Wings,1560 E Lincoln Way,Sparks,NV,89434,(775) 737-9741,B+,B+,C,B-,A-,B-,A,C+,B+,C+,A,B,A-
+414,Buffalo Wild Wings,3815 S Carson St,Carson City,NV,89701,(775) 283-9453,A-,B+,NG,B-,A-,A-,A-,C-,B+,B-,A,A,A-
+415,Buffalo Wild Wings,3663 Las Vegas Blvd S Ste 600,Las Vegas,NV,89109,(702) 734-0096,A-,C+,C-,C-,A+,B-,A+,B-,A-,C,A,A-,A
+416,Buffalo Wild Wings,65 W Horizon Ridge Pkwy,Henderson,NV,89012,(702) 564-5795,A-,B,C-,B-,A-,B,A-,B+,A-,C+,A,A-,A-
+417,Buffalo Wild Wings,617 Mall Ring Cir,Henderson,NV,89014,(702) 456-1237,A-,B,C-,C+,A,B+,A,B-,A-,C+,A,A-,A-
+418,Buffalo Wild Wings,2710 Mcfarland Blvd E,Tuscaloosa,AL,35405,(205) 523-0273,B+,B,C,B,B+,B+,A,B,B,B+,B+,B+,B-
+419,Buffalo Wild Wings,5915 Trussville Crossings Pkwy,Birmingham,AL,35235,(205) 655-2521,B,C+,C-,B,A-,B-,A,B-,B,B+,B,B,B-
+420,Buffalo Wild Wings,2772 John Hawkins Pkwy Ste 100,Hoover,AL,35244,(205) 983-9464,A+,A-,B,A-,A,A+,A-,A-,B,B,A-,B,C+
+421,Buffalo Wild Wings,840 Colonial Promenade Pkwy,Alabaster,AL,35007,(205) 664-0040,A-,A-,B,A-,B,A-,A-,B+,B,B+,A-,C+,B-
+422,Buffalo Wild Wings,5901 University Dr NW Ste T1,Huntsville,AL,35806,(256) 890-8500,A+,A-,C,A-,A,A,A,A-,B+,B+,A-,A-,B-
+423,Buffalo Wild Wings,4507 Riverview Pkwy Ste 108,Birmingham,AL,35242,(205) 991-1955,A,B,B,B+,A-,A,B+,A-,B,B,A-,B-,B+
+424,Buffalo Wild Wings,2257 Tiger Town Pkwy,Opelika,AL,36801,(334) 741-0989,B+,B+,C+,B-,B,B,A,B+,B,B+,B+,C+,B+
+425,Buffalo Wild Wings,2870 Florence Blvd,Florence,AL,35630,(256) 740-8464,A,A-,C+,B,A,A-,B+,B,A-,A-,A-,B+,A-
+426,Buffalo Wild Wings,3400 Montgomery Hwy,Dothan,AL,36303,(334) 671-0198,A-,B,C+,B,A-,B+,A,C+,A-,A-,B+,B+,A-
+427,Buffalo Wild Wings,2505 Caufield Dr,Gardendale,AL,35071,(205) 631-7646,B,B-,C-,B,B-,B-,B,B,B,B+,B+,C+,B-
+428,Buffalo Wild Wings,945 Wimberly Dr SW,Decatur,AL,35603,(256) 301-5454,B+,B,C+,B+,B-,A-,B+,B-,B,A-,B,B,C+
+429,Buffalo Wild Wings,1414 Taylor Rd,Montgomery,AL,36117,(334) 272-5547,A-,C-,C-,B-,A,B,A,A-,B,B+,B+,B,B
+430,Buffalo Wild Wings,1700b 2nd Ave SW,Cullman,AL,35055,(256) 736-1499,B,B,B,B,B,B,B-,B+,B-,A-,B,C+,A-
+431,Buffalo Wild Wings,2475 Cobbs Ford Rd,Prattville,AL,36066,(334) 285-7192,B+,B+,B-,B+,B,B+,A-,B,B,B+,B,C+,C
+432,Buffalo Wild Wings,290 Vaughn Spur,Pell City,AL,35125,(205) 814-7177,B-,B,B,B+,A-,B-,B-,B+,B,A-,B,C+,C
+433,Buffalo Wild Wings,7042 Highway 72 W,Huntsville,AL,35806,(256) 890-8500,A+,A-,C,A-,A,A,A,A-,B+,B+,A-,A-,B-
+434,Buffalo Wild Wings,22099 Us Highway 72,Athens,AL,35613,(256) 998-5300,A-,B,B+,A,B-,B+,B+,A,B+,A-,B-,C+,B
+435,Buffalo Wild Wings,2750 Carl T Jones Dr SE Ste 1500,Huntsville,AL,35802,(256) 650-4115,A+,A+,C,A,A-,A+,B+,A-,B,B+,A-,B+,A-
+436,Buffalo Wild Wings,400 Bald Hill Rd,Warwick,RI,02886,(401) 739-1392,B+,C,B+,C+,A,B+,B-,B-,B-,B-,A,A,B
+437,Buffalo Wild Wings,51 Dowling Village Blvd,North Smithfield,RI,02896,(401) 765-2806,B,B,B-,C+,B+,B,C+,B,C+,B-,A-,A-,B
+438,Buffalo Wild Wings,1721 E Stone Dr,Kingsport,TN,37660,(423) 230-0015,B,B,C+,B-,A-,B,B-,B-,B+,A-,B,B+,B+
+439,Buffalo Wild Wings,2035 Hamilton Pl,Johnson City,TN,37604,(423) 434-0492,A,A-,C+,B,A,A-,B,B,B+,B+,B+,A-,A-
+440,Buffalo Wild Wings,430 Sam Ridley Pkwy W,Smyrna,TN,37167,(615) 459-0070,A-,A-,C+,B+,A-,A-,A-,A,B-,B+,B,B+,B+
+441,Buffalo Wild Wings,3448 Poplar Ave,Memphis,TN,38111,(901) 324-9225,A-,B-,C-,C+,A,B,A,C,B+,B,B,B+,A
+442,Buffalo Wild Wings,1109 Nashville Pike,Gallatin,TN,37066,(615) 230-9464,A-,B+,B,B,A-,A-,B+,A-,B-,B+,A-,B+,A-
+443,Buffalo Wild Wings,224 Hamilton Crossing Dr,Alcoa,TN,37701,(865) 983-5677,B,B+,B-,B,B,B+,B+,B,B,B+,B-,B+,B
+444,Buffalo Wild Wings,1018 Crossings Blvd,Spring Hill,TN,37174,(931) 499-7115,A-,B+,B-,B+,A-,A,B-,A-,B-,B,B,B+,B
+445,Buffalo Wild Wings,6816 Charlotte Pike Ste 110,Nashville,TN,37209,(615) 352-9963,A-,B-,C-,B-,A,B-,A,B,B,B-,B,B-,A-
+446,Buffalo Wild Wings,100 Adams Ln,Mount Juliet,TN,37122,(615) 773-9001,A-,A-,B-,A-,A-,A-,B-,A,B,B,B,C+,B
+447,Buffalo Wild Wings,207 Stones River Mall Blvd Ste B,Murfreesboro,TN,37129,(615) 907-6004,A,A-,C+,A-,A-,A,B,A,B-,B+,B+,B+,B+
+448,Buffalo Wild Wings,310 Indian Lake Blvd,Hendersonville,TN,37075,(615) 824-2199,A-,A-,B,B+,A-,A,B,A-,B-,B,A-,B+,B
+449,Buffalo Wild Wings,120 Market St,Chattanooga,TN,37402,(423) 634-0468,B,C,C-,C-,A+,C+,B-,C-,B,B+,A-,A,A+
+450,Buffalo Wild Wings,5744 Highway 153,Hixson,TN,37343,(423) 877-3338,B+,B-,C-,B+,A-,B,B,B+,B,B+,A-,B-,B+
+451,Buffalo Wild Wings,8385 Us Highway 64 Ste 101,Memphis,TN,38133,(901) 380-9294,B+,B+,C-,B+,A-,B+,A,B,B+,B,B,B,C+
+452,Buffalo Wild Wings,11431 Parkside Dr,Knoxville,TN,37934,(865) 966-7300,A,A,C-,A,A-,A+,B-,A,B,B,B+,B+,C
+453,Buffalo Wild Wings,1430 Hurley Dr,Sevierville,TN,37862,(865) 286-2999,B-,B-,C+,C,A-,B-,B,B,B,B,C+,B-,B
+454,Buffalo Wild Wings,110 S Hampton Pl,Clarksville,TN,37040,(931) 552-5327,A-,A-,C+,B,A,A-,A,B-,B-,B+,B+,B+,A-
+455,Buffalo Wild Wings,625 Paul Huff Pkwy NW,Cleveland,TN,37312,(423) 472-3288,B+,B+,C,B,A-,B,B,B,B,B+,B,B-,B
+456,Buffalo Wild Wings,320 Spring Creek Dr,Franklin,TN,37067,(615) 771-7724,A+,A+,B+,A-,A-,A+,B,A,B-,B-,A,A-,A-
+457,Buffalo Wild Wings,1242 Vann Dr,Jackson,TN,38305,(731) 984-8517,A-,C+,C-,B,A-,B+,A,B+,B+,B+,B+,B+,B+
+458,Buffalo Wild Wings,1385 Interstate Dr,Cookeville,TN,38501,(931) 520-0872,B,B,B-,C,A,B,B-,C,B-,B,B+,B,B-
+459,Buffalo Wild Wings,1142 Vann Dr,Jackson,TN,38305,(731) 984-8517,A-,C+,C-,B,A-,B+,A,B+,B+,B+,B+,B+,B+
+460,Buffalo Wild Wings,5215 Old Hickory Blvd,Hermitage,TN,37076,(615) 885-6700,A-,B-,C-,B,A,B,A,B+,B,B,B+,A-,B+
+461,Buffalo Wild Wings,3770 Hacks Cross Rd,Memphis,TN,38125,(901) 737-9463,B+,C+,C-,B-,A-,B,B+,B-,B+,B+,B,B+,B-
+462,Buffalo Wild Wings,2843 W Andrew Johnson Hwy,Morristown,TN,37814,(423) 587-9784,B+,A-,B-,B,B,A-,B+,B-,B,B+,B,B+,B
+463,Buffalo Wild Wings,1705 N Jackson St,Tullahoma,TN,37388,(931) 393-2709,B+,B-,B,B,A-,B+,B,B+,B-,A-,B,B,B-
+464,Buffalo Wild Wings,112 Redstone Dr,Fayetteville,TN,37334,(931) 438-5457,B,B,C,B+,B,B,B,B+,B-,A-,B-,C,B+
+465,Buffalo Wild Wings,99 Thornton Dr,Dickson,TN,37055,(615) 740-9943,B-,B,C+,B-,A-,B-,B,B,B-,B+,B-,C+,B
+466,Buffalo Wild Wings,8544 Us Highway 51 N Ste 101,Millington,TN,38053,(901) 872-3800,B,B-,C-,B,A-,B-,A,C+,B+,B+,B,B+,B+
+467,Buffalo Wild Wings,1986 Middle Country Rd,Centereach,NY,11720,(631) 737-9464,B+,B+,A-,C,A-,A-,B+,B-,B,C-,A,A,A-
+468,Buffalo Wild Wings,1612 Clark Street Rd,Auburn,NY,13021,(315) 252-2999,B+,B-,B,B-,A,B,B-,B,C-,B,A-,B,A-
+469,Buffalo Wild Wings,1290 Arsenal St,Watertown,NY,13601,(315) 779-9464,B,B-,B-,C+,A,B,B+,C+,D+,B-,B+,A-,A-
+470,Buffalo Wild Wings,139 Flatbush Ave,Brooklyn,NY,11217,(718) 943-9453,A+,B,NG,C-,A+,A,A+,B,B,C-,A,A,A
+471,Buffalo Wild Wings,1112 Deer Park Ave,North Babylon,NY,11703,(631) 242-9464,B+,B+,A-,C,A-,B+,B+,B-,B,C-,B+,A,A-
+472,Buffalo Wild Wings,780 Jefferson Rd,Rochester,NY,14623,(585) 475-1240,A,B+,C,B-,A,B+,A-,B,C-,B-,A,A,A
+473,Buffalo Wild Wings,1701 Sunrise Hwy,Bay Shore,NY,11706,(631) 968-9464,B+,B-,A-,C-,A-,B,A+,C+,B,C-,A,B,A
+474,Buffalo Wild Wings,1631 County Route 64,Horseheads,NY,14845,(607) 739-9464,A-,B+,B-,B+,A-,A-,B-,B+,C,B,B,A-,A-
+475,Buffalo Wild Wings,22 Clifton Country Rd Ste 130,Clifton Park,NY,12065,(518) 371-9464,A+,A,B+,B+,A-,A+,B,A,C+,B-,A,A,B
+476,Buffalo Wild Wings,410 Elmira Rd Ste 3,Ithaca,NY,14850,(607) 273-0340,A+,A,B,C+,A,A,A,B+,C,C,A-,A,A
+477,Buffalo Wild Wings,3540 Mckinley Pkwy Ste 8,Buffalo,NY,14219,(716) 826-3429,B+,A-,C,B,A,B+,B-,B-,C-,B,B+,A-,A-
+478,Buffalo Wild Wings,1 Mamaroneck Ave,White Plains,NY,10601,(914) 385-9453,A+,A+,B,C+,A,A,A+,B-,B-,C-,A+,A,B+
+479,Buffalo Wild Wings,5671 E Circle Dr,Cicero,NY,13039,(315) 452-9464,B,B,C,B,A-,B,C+,B+,C-,B,B+,B-,C+
+480,Buffalo Wild Wings,1594 Military Rd # 100,Niagara Falls,NY,14304,(716) 297-1144,B,B,C,B,A,B,B,B,C-,B,B+,A-,B
+481,Buffalo Wild Wings,1620 Niagara Falls Blvd,Tonawanda,NY,14150,(716) 833-3111,A-,B+,C,B,A,B+,B-,B+,C-,B,A,A-,A-
+482,Buffalo Wild Wings,358 Broadway Mall,Hicksville,NY,11801,(516) 937-9453,A,A,B+,C+,A,A,A,B,B,C-,A,A,A
+483,Buffalo Wild Wings,567 Route 211 E,Middletown,NY,10941,(845) 673-1062,B+,B+,B-,C,A-,B+,A+,C+,B-,C,B+,A,A-
+484,Buffalo Wild Wings,737 Merrick Ave,Westbury,NY,11590,(516) 794-9453,A-,B+,B+,C-,A,A-,A+,B-,B,C-,A,A,A-
+485,Buffalo Wild Wings,1447 Richmond Ave,Staten Island,NY,10314,(718) 983-6912,B+,B,NG,C-,A-,B+,A,B-,B,C,A-,A,A-
+486,Buffalo Wild Wings,1080 Broadhollow Rd,Farmingdale,NY,11735,(631) 465-9464,A-,A,A-,C,A,A,A-,B-,B,C-,A-,A,A-
+487,Buffalo Wild Wings,1794 South Rd,Wappingers Falls,NY,12590,(845) 218-9453,A-,B+,B,C+,A-,A-,A-,B-,B-,C+,A,A,A-
+488,Buffalo Wild Wings,10716 71st Ave,Forest Hills,NY,11375,(718) 544-9453,A+,B,NG,C,A,A,A,B+,B,C-,A,A,A
+489,Buffalo Wild Wings,1761 Old Country Rd,Riverhead,NY,11901,(631) 369-9464,B,B,A-,D+,A,B,A,C,B,C-,A,A,A
+490,Buffalo Wild Wings,200 Consumer Sq,Plattsburgh,NY,12901,(518) 310-3536,B+,B-,A-,B-,A,B+,B-,B-,C-,B-,B+,B+,A
+491,Buffalo Wild Wings,253 W 47th St,New York,NY,10036,(212) 265-9453,A+,B,NG,C-,A+,A-,A+,B-,B,C-,A+,A,A
+492,Buffalo Wild Wings,4640 Palisades Center Dr,West Nyack,NY,10994,(845) 480-7344,A+,A,B+,B,A-,A+,B+,A-,B-,C,A,A,A-
+493,Buffalo Wild Wings,44 Westchester Ave,Port Chester,NY,10573,(914) 690-9453,B+,B,B,D-,A,B,A,C-,B-,D+,A+,A,A
+494,Buffalo Wild Wings,33 Lecount Pl,New Rochelle,NY,10801,(914) 637-9453,A-,A,B,D,A,B+,A+,C-,B-,D+,A+,A,A
+495,Buffalo Wild Wings,632 Gateway Dr,Brooklyn,NY,11239,(718) 235-9453,B,B,NG,C-,B,B,A,C,B,B-,B,A,B+
+496,Buffalo Wild Wings,1500 W Ridge Rd,Rochester,NY,14615,(585) 865-4134,B,C,C,C,A,B-,A,C+,C-,B-,A,A-,B+
+497,Buffalo Wild Wings,18965 Bear Valley Rd,Apple Valley,CA,92308,(760) 961-1500,B-,B-,C,C-,A-,C+,A,C,C,C+,A-,B-,B
+498,Buffalo Wild Wings,12411 Limonite Ave Ste 650,Mira Loma,CA,91752,(951) 360-6086,B,B+,C+,C-,A,B,A,C,A-,C-,A,A,A-
+499,Buffalo Wild Wings,3160 Chino Ave,Chino Hills,CA,91709,(909) 591-9035,A-,A-,C,C-,A-,A-,A+,B-,A,D+,A-,A,A-
+500,Buffalo Wild Wings,23600 Rockfield Blvd,Lake Forest,CA,92630,(949) 588-9464,A,A,B-,C-,A-,A-,A,B-,A,D+,A+,A+,A-
+501,Buffalo Wild Wings,8301b On The Mall,Buena Park,CA,90620,(714) 538-9464,A-,B,B-,C-,A,B,A+,B-,A,C-,A,A,A-
+502,Buffalo Wild Wings,27741 Crown Valley Pkwy Ste 303,Mission Viejo,CA,92691,(949) 582-2660,A,A+,B-,C-,A,A-,A-,B-,A,D+,A+,A,A-
+503,Buffalo Wild Wings,2548 E Workman Ave,West Covina,CA,91791,(626) 967-9888,B+,A-,C,D+,B,B,A+,C,A,D+,A+,A,A-
+504,Buffalo Wild Wings,14110 Culver Dr,Irvine,CA,92604,(949) 872-2999,A+,A+,B-,C,B+,A+,A,B-,A,D+,A+,A,A-
+505,Buffalo Wild Wings,3575 W Stetson Ave,Hemet,CA,92545,(951) 925-6111,B-,C+,C+,C-,B,C,A,C,B+,C,A-,B,A-
+506,Buffalo Wild Wings,3939 Crenshaw Blvd,Los Angeles,CA,90008,(323) 596-4955,B-,C-,C,D-,A-,C,A-,C-,A+,C-,A-,A,A
+507,Buffalo Wild Wings,72920 Highway 111,Palm Desert,CA,92260,(760) 779-9464,B+,B-,C+,D+,A-,B-,A,B-,B-,C-,A,A-,A-
+508,Buffalo Wild Wings,12450 Day St,Moreno Valley,CA,92553,(951) 653-9464,B-,C-,C+,C-,A,C+,A,C-,B+,C,A,A,A-
+509,Buffalo Wild Wings,240 S Brea Blvd,Brea,CA,92821,(714) 582-1590,A,A,B-,C-,A,A,A,B-,A,D+,A+,A,A-
+510,Buffalo Wild Wings,193 Stonewood St,Downey,CA,90241,(562) 923-9464,B,B+,C,D+,A,B,A-,C,A,C-,A+,A,A-
+511,Buffalo Wild Wings,1600 E Gonzales Rd,Oxnard,CA,93036,(805) 988-9464,B,C+,B-,D-,A,C+,A-,C,A+,D+,A+,A,A-
+512,Buffalo Wild Wings,5677 Gosford Rd,Bakersfield,CA,93313,(661) 664-4550,B-,B,C,C+,A-,C+,A,C+,B-,C+,B+,C+,A-
+513,Buffalo Wild Wings,11255 183rd St,Cerritos,CA,90703,(562) 865-9464,A,A+,C,C-,A-,A,A,B-,A,D+,A+,A,A-
+514,Buffalo Wild Wings,7060 Hollywood Blvd,Los Angeles,CA,90028,(323) 466-1721,A,C,C,C,A+,C+,A,C,A+,C-,A+,A,A
+515,Buffalo Wild Wings,26711 Aliso Creek Rd Ste 100b,Aliso Viejo,CA,92656,(949) 461-2652,A+,A+,B-,C+,B,A+,A,B,A,C-,A+,A,A-
+516,Buffalo Wild Wings,20 City Blvd W Ste 901,Orange,CA,92868,(714) 939-9151,B+,C+,B-,D-,A,B-,A,C-,A,D+,A+,A,A
+517,Buffalo Wild Wings,1000 S Fair Oaks Ave,Pasadena,CA,91105,(626) 993-6400,A+,B,C,C-,A,A-,A,B,A,D+,A+,A,A
+518,Buffalo Wild Wings,1576 S Azusa Ave,City Of Industry,CA,91748,(626) 810-6479,A-,A-,C,C-,A,B,A,C+,A,D+,A+,A,A
+519,Buffalo Wild Wings,6314 E Pacific Coast Hwy,Long Beach,CA,90803,(562) 493-3458,A,B,C,C-,A,B+,A-,B-,A,C-,A+,A,A-
+520,Buffalo Wild Wings,7811 Edinger Ave,Huntington Beach,CA,92647,(714) 898-8300,A-,A-,B-,C-,A,B+,A,C+,A,D+,A+,A,A
+521,Buffalo Wild Wings,555 Broadway,Chula Vista,CA,91910,(619) 407-6205,B+,A-,B-,C-,A,B,A,C-,A,C-,A+,A,A
+522,Buffalo Wild Wings,3525 W Carson St Ste 163,Torrance,CA,90503,(310) 542-3400,A,A+,C,C-,A,A,A+,B-,A+,D+,A+,A,A-
+523,Buffalo Wild Wings,4678 Daneland St,Lakewood,CA,90712,(562) 220-2760,B+,B,C,C-,A,B,A+,B-,A,C-,A,A,A-
+524,Buffalo Wild Wings,254 Town Center Pkwy,Santee,CA,92071,(619) 596-4625,B+,A,B-,C,A-,B+,A-,C+,A-,C-,A+,A-,A-
+525,Buffalo Wild Wings,3712 Dublin Blvd,Dublin,CA,94568,(925) 361-0447,A+,A+,C,C+,A,A,A,B+,A-,C-,A+,A,A
+526,Buffalo Wild Wings,9810 NE Cascades Pkwy,Portland,OR,97220,(503) 281-0351,B+,C+,C,C-,A,B-,A,C+,B,C,A+,A,A
+527,Buffalo Wild Wings,22849 NE Glisan St,Wood Village,OR,97060,(503) 328-9475,B,C,C,C,A,B-,A-,C+,B-,C+,A,A+,A
+528,Buffalo Wild Wings,11995 SW Beaverton Hillsdale Hwy,Beaverton,OR,97005,(503) 352-9503,A,A,B,C-,A+,A-,A,C+,B+,C-,A+,A,A
+529,Buffalo Wild Wings,8505 SW Tualatin Sherwood Rd,Tualatin,OR,97062,(503) 486-5295,A,A-,B,B-,A-,A,A-,B,B,C,A+,A+,A
+530,Buffalo Wild Wings,1200 NE Broadway St Ste 20,Portland,OR,97232,(503) 432-8179,A+,A-,C,C+,A+,A-,B+,B,B,C-,A+,A,A
+531,Buffalo Wild Wings,3892 Center St NE,Salem,OR,97301,(503) 967-6049,B+,C,B-,C-,A,B-,A,C,B,B-,A,A,A
+532,Buffalo Wild Wings,1820 NW 9th St,Corvallis,OR,97330,(541) 207-3066,A+,A,B,C,A,A,B+,B-,B-,C,A+,A,A
+533,Buffalo Wild Wings,2770 Gateway St,Springfield,OR,97477,(541) 393-6606,B+,C+,C+,C-,A,C+,B+,C,A+,C+,A,A-,A
+534,Buffalo Wild Wings,1700 Delta Waters Rd,Medford,OR,97504,(541) 973-2189,B+,B-,C+,C-,A-,B-,B,B-,B+,C,A,A-,A
+535,Buffalo Wild Wings,327 SW Morrison St,Portland,OR,97204,(503) 224-1309,B,A,C,D,A,C,NG,D-,B,C+,A+,A+,A-
+536,Buffalo Wild Wings,2219 NW Allie Ave Ste 1440,Hillsboro,OR,97124,(503) 645-9424,A,B,B,B-,A,A,A,B+,B,C+,A+,A,A
+537,Buffalo Wild Wings,2099 Interchange Rd,Erie,PA,16509,(814) 868-9464,A-,B,C+,B+,A,B+,B-,B+,C+,B,B+,B,A-
+538,Buffalo Wild Wings,970 E Pittsburgh St,Greensburg,PA,15601,(724) 850-9464,A-,B+,B,B+,A,A-,B-,B+,C,B,A-,B+,A-
+539,Buffalo Wild Wings,9701 Roosevelt Blvd,Philadelphia,PA,19114,(215) 552-0025,B,C-,C-,C,A-,C+,A-,C+,B-,B-,A-,A,A-
+540,Buffalo Wild Wings,103 Quarry Rd,Downingtown,PA,19335,(610) 269-1157,A+,A,B,B,A-,A+,B,A-,C+,C+,A,A,A-
+541,Buffalo Wild Wings,20215 Route 19 Unit 107,Cranberry Township,PA,16066,(724) 742-9464,A+,A-,A-,A,A-,A+,C+,A,C,B-,A,A-,B
+542,Buffalo Wild Wings,2763 E Lincoln Hwy,Langhorne,PA,19047,(215) 946-2080,A,A-,B+,B-,A,A,B,B-,B-,C,A,A,A-
+543,Buffalo Wild Wings,3798 Dryland Way,Easton,PA,18045,(610) 330-6950,A-,B,B,B-,A-,B+,B+,B+,C+,C+,B+,A-,A-
+544,Buffalo Wild Wings,3469 William Penn Hwy,Pittsburgh,PA,15235,(412) 824-1720,A-,C,C+,B-,A,B,A,B,C,B,B+,B+,A-
+545,Buffalo Wild Wings,9996 Mountain View Dr,West Mifflin,PA,15122,(412) 653-3460,B+,B-,C+,B,A-,B-,B,B,C+,B+,A,B+,A-
+546,Buffalo Wild Wings,920 Baltimore Pike,Glen Mills,PA,19342,(484) 840-9150,A,A+,C+,C+,B-,A,B,B,B,C-,A,A,A-
+547,Buffalo Wild Wings,81 Wilson Ave,Hanover,PA,17331,(717) 630-8056,B+,B+,C+,B-,A-,B+,B-,B,B-,B-,A-,A,A-
+548,Buffalo Wild Wings,4600 Jonestown Rd,Harrisburg,PA,17109,(717) 526-6183,A-,B,C+,C+,A,B+,A,C+,B,B-,A-,A-,A-
+549,Buffalo Wild Wings,105 N Northern Way,York,PA,17402,(717) 751-1712,A,A,C+,B,A,A-,B+,B+,B-,B-,A-,A-,A-
+550,Buffalo Wild Wings,6385 Carlisle Pike,Mechanicsburg,PA,17050,(717) 697-2142,A+,A,A-,A-,B,A+,B,A-,B,B-,A,A-,A-
+551,Buffalo Wild Wings,500 Grandview Crossing Dr,Gibsonia,PA,15044,(724) 443-2999,A-,A,C+,B+,A-,A-,C+,A-,C,B-,B+,C+,B+
+552,Buffalo Wild Wings,6215 State Route 30,Greensburg,PA,15601,(724) 834-2867,A-,B+,B,B+,A,A-,B-,B+,C,B,A-,B+,A-
+553,Buffalo Wild Wings,25 Liberty Ln,Williamsport,PA,17701,(570) 321-5613,B+,B+,B-,B-,A,B,B,C+,B+,B,A-,B,A
+554,Buffalo Wild Wings,1225 Grape St,Whitehall,PA,18052,(610) 266-0527,B+,B+,B-,B-,A-,B+,A-,B,C+,B-,B+,A-,A-
+555,Buffalo Wild Wings,2065 Fruitville Pike,Lancaster,PA,17601,(717) 553-5472,A,A,B,B,A-,A,B+,B+,B,B-,A,A,A-
+556,Buffalo Wild Wings,3100 Shenango Valley Fwy,Hermitage,PA,16148,(724) 347-2013,A-,A-,B-,B+,A-,A-,B-,B+,C,B,B+,B+,B
+557,Buffalo Wild Wings,100 Viewmont Mall,Scranton,PA,18508,(570) 344-9224,B-,C,B,C,A,B-,B+,C+,B-,B,B+,A,B+
+558,Buffalo Wild Wings,50 Old Mill Blvd,Washington,PA,15301,(724) 225-1201,B+,B,B,B+,A-,B+,B-,B+,C,B+,A-,B+,B
+559,Buffalo Wild Wings,1510 Egypt Rd,Phoenixville,PA,19460,(610) 676-0136,A+,A+,B,B+,A,A+,B,B+,B-,C+,A,A,A-
+560,Buffalo Wild Wings,201 Easton Rd. Ste. 118,Warrington,PA,18976,(215) 343-2375,A,A+,B+,B,B,A+,B,B,B-,C,A,A,B
+561,Buffalo Wild Wings,320 Town Center Dr,York,PA,17408,(717) 767-8984,B+,B+,C+,B,B,B,B-,B,B-,B-,B+,A-,A-
+562,Buffalo Wild Wings,501 Marketplace Blvd,Selinsgrove,PA,17870,(570) 743-1402,A-,B+,B-,B+,A,B+,B-,A,B,B,B,A-,A-
+563,Buffalo Wild Wings,540 Walker Rd,Chambersburg,PA,17201,(717) 261-0632,B+,B-,B-,C+,A,B,A-,B-,B,B-,A-,A-,A
+564,Buffalo Wild Wings,1225 Whitehall Mall,Whitehall,PA,18052,(610) 266-0527,B+,B+,B-,B-,A-,B+,A-,B,C+,B-,B+,A-,A-
+565,Buffalo Wild Wings,4600 Colonial Park Mall,Harrisburg,PA,17109,(717) 526-6183,A-,B,C+,C+,A,B+,A,C+,B,B-,A-,A-,A-
+566,Buffalo Wild Wings,119 Indian Creek Dr,Wilkes Barre,PA,18702,(570) 820-7139,B+,C+,B-,C+,A,B,A-,B-,B-,B,B+,B+,A
+567,Buffalo Wild Wings,913 Pearson Dr,Hudson,WI,54016,(715) 381-6531,A+,A,B+,A-,A,A+,C+,A,C,B,A-,A,A-
+568,Buffalo Wild Wings,6544 Monona Dr,Monona,WI,53716,(608) 237-8686,A,B+,B-,B,A,A,B,B+,C,B,A,A,A
+569,Buffalo Wild Wings,2635 N Mayfair Rd,Milwaukee,WI,53226,(414) 302-1900,A,A-,C-,B,A,A,B,B+,C+,B,A-,A,A
+570,Buffalo Wild Wings,4612 Keystone Xing,Eau Claire,WI,54701,(715) 858-9453,A,A,B,B+,A,A,B,B+,C,B+,A-,A-,A
+571,Buffalo Wild Wings,2929 Milton Ave,Janesville,WI,53545,(608) 741-9464,B+,B+,B-,B,A,B,B,B,C+,B+,B+,B-,A-
+572,Buffalo Wild Wings,705 W Paradise Dr,West Bend,WI,53095,(262) 334-2999,A-,A-,A-,B,A-,A-,B-,A-,C+,B+,A-,B-,A-
+573,Buffalo Wild Wings,240 E Towne Mall,Madison,WI,53704,(608) 268-0802,A+,B+,B-,B,A,A,A-,B,C,B,A,A,A
+574,Buffalo Wild Wings,3201 E Calumet St,Appleton,WI,54915,(920) 733-9464,A+,A,A,A-,A,A+,B,A-,C,A-,A-,A,A-
+575,Buffalo Wild Wings,2101 S Oneida St Ste 100,Green Bay,WI,54304,(920) 429-9464,A-,B+,B-,B,A,A-,B+,B,C,B+,A-,A-,A-
+576,Buffalo Wild Wings,2950 S 108th St,Milwaukee,WI,53227,(414) 431-1100,B+,B-,C-,C,A,B-,B,B-,C+,B,A-,A-,A-
+577,Buffalo Wild Wings,1123 N Water St,Milwaukee,WI,53202,(414) 277-0293,A,C-,C-,C,A+,B-,B+,B,C+,B-,A-,A,A
+578,Buffalo Wild Wings,590 W Northshore Dr. N-145 Bayshore Town Center,Milwaukee,WI,53217,(262) 369-1600,A+,A+,C-,A-,A,A+,B,A-,C+,B-,A-,A-,A
+579,Buffalo Wild Wings,1180 W Sunset Dr Ste 106,Waukesha,WI,53189,(262) 832-2999,A,A,A-,B+,A-,A+,B-,B+,C+,B,A,A,A-
+580,Buffalo Wild Wings,5370 Us Highway 10 E Ste H,Stevens Point,WI,54482,(715) 344-3287,A-,A-,B+,A-,B+,A,C+,B,B-,A-,B,B+,A-
+581,Buffalo Wild Wings,4601 W College Ave,Appleton,WI,54914,(920) 830-4169,A,A-,B,B+,A,A,B+,B+,C,B+,A-,A-,A-
+582,Buffalo Wild Wings,3636 S 27th St,Milwaukee,WI,53221,(414) 755-0088,B,C-,C-,C,A-,B-,A,B-,C+,B,B-,A,A
+583,Buffalo Wild Wings,789 University Ave,Madison,WI,53715,(608) 255-9464,A,A+,B-,C-,A+,A-,B-,C,C,C,A+,A,A+
+584,Buffalo Wild Wings,500 S Koeller St,Oshkosh,WI,54902,(920) 426-8358,A-,A-,B,B+,A,A-,B-,B,C+,A-,B-,B+,A
+585,Buffalo Wild Wings,16750 W Bluemound Rd Ste G,Brookfield,WI,53005,(262) 641-8956,A+,A+,A-,A,A-,A+,B-,A-,C+,B-,A,A,B+
+586,Buffalo Wild Wings,5880 Durand Ave,Racine,WI,53406,(262) 598-0960,A-,C+,C+,B-,A-,B+,A-,B,B-,B+,A-,A,A-
+587,Buffalo Wild Wings,4140 Harbor Town Ln,Manitowoc,WI,54220,(920) 652-9033,A-,A-,B,B,A-,B+,B,B,C+,A-,B+,B-,A-
+588,Buffalo Wild Wings,7114 118th Ave,Kenosha,WI,53142,(262) 857-9992,A-,B+,B-,B,A,A,B+,B,B-,B+,A-,A-,A-
+589,Buffalo Wild Wings,4005 State Road 28,Sheboygan Falls,WI,53085,(920) 458-1935,B+,B,B,B,A-,B,B-,B,C+,A-,B,B-,A-
+590,Buffalo Wild Wings,6227 Mckee Rd,Fitchburg,WI,53719,(608) 268-0025,A+,A+,B-,A-,A,A+,A-,A-,C+,B,A+,A,A-
+591,Buffalo Wild Wings,N96W17990 County Line Rd,Germantown,WI,53022,(262) 251-1780,A,A-,A-,B+,A-,A+,B-,A-,C+,B,B+,A-,A-
+592,Buffalo Wild Wings,2747 Milwaukee Rd,Beloit,WI,53511,(608) 362-1520,B+,B,B-,B-,A,B+,A-,B-,C+,B+,B+,A-,A-
+593,Buffalo Wild Wings,2394 Costco Way,Green Bay,WI,54311,(920) 468-5251,A-,A-,B-,B,A-,A-,B,B+,C,B+,B+,A-,A-
+594,Buffalo Wild Wings,15306 W Beloit Rd,New Berlin,WI,53151,(262) 432-0100,A,A-,A-,B+,A-,A,B-,A-,C+,B,A,A,B+
+595,Buffalo Wild Wings,1819 Stewart Ave,Wausau,WI,54401,(715) 845-9464,A,A-,B,B+,A,A,B,B,C,B+,A-,B+,A-
+596,Buffalo Wild Wings,1273 Capitol Dr,Pewaukee,WI,53072,(262) 695-3900,A+,A+,A-,B+,A-,A+,B-,B+,C+,B,A,A-,A-
+597,Buffalo Wild Wings,320 Adams Dr,Weatherford,TX,76086,(817) 598-0432,B+,B+,B,B,B+,B+,B+,A-,B+,B+,B+,C+,B+
+598,Buffalo Wild Wings,4325 Franklin Ave,Waco,TX,76710,(254) 751-9696,A-,C+,C+,B-,A,B,A,B+,A,B+,A-,B+,A-
+599,Buffalo Wild Wings,19075 Interstate 45 S Ste 100,Shenandoah,TX,77385,(936) 273-7777,A,A,C+,A,A-,A,A-,A,B+,B,A-,B+,B
+600,Buffalo Wild Wings,2017 S Main St,Keller,TX,76248,(817) 741-9464,A+,A+,C+,A-,A-,A+,B,A+,A-,B-,A,B-,B+
+601,Buffalo Wild Wings,115 SW Loop 410,San Antonio,TX,78245,(210) 523-9464,B+,A-,C,B+,A-,B+,A-,B+,B+,B+,A-,C+,B
+602,Buffalo Wild Wings,17195 State Highway 249 Ste 4a,Houston,TX,77064,(281) 955-7800,A,A,C-,B+,A,A,A+,A,B+,B,A,A-,A-
+603,Buffalo Wild Wings,903 University Dr E,College Station,TX,77840,(979) 691-8453,A,A+,B-,C-,A,A-,B,C+,A-,C+,A,A-,A
+604,Buffalo Wild Wings,5908 Quebec St,Fort Worth,TX,76135,(817) 237-0098,B+,C+,C+,B-,A-,B,A,B+,A-,B+,A-,B-,B+
+605,Buffalo Wild Wings,2948 Interstate 45 N,Conroe,TX,77303,(936) 760-9995,B,B+,C+,B+,B,B,A-,B+,B+,B+,B-,C+,B+
+606,Buffalo Wild Wings,4241 N Grandview Ave,Odessa,TX,79762,(432) 366-9453,A-,C,C,B,A,B,A,A+,B+,B+,B+,B,A-
+607,Buffalo Wild Wings,1909 W Expressway 83,Weslaco,TX,78596,(956) 968-3596,B,C+,B-,B,A-,B-,B-,B,B+,A-,A-,C,B
+608,Buffalo Wild Wings,5416 S Coulter St,Amarillo,TX,79119,(806) 359-4386,A-,A,A-,A-,B,A-,B,A+,B+,B,A-,D,C+
+609,Buffalo Wild Wings,5125 N President George Bush Hwy Ste 100,Garland,TX,75040,(972) 414-2999,A-,B+,C,B,B,A-,A+,B,A-,B,B+,B+,A-
+610,Buffalo Wild Wings,1525 William D Tate Ave,Grapevine,TX,76051,(817) 481-9464,A+,A+,C+,B+,A-,A,A-,A,A-,B-,A-,C+,A-
+611,Buffalo Wild Wings,3900 Pavillion Ct,Mesquite,TX,75150,(972) 279-9464,A-,B,C,B-,A,B+,A+,B,A-,B,A-,A-,A-
+612,Buffalo Wild Wings,2401 E Central Texas Expy,Killeen,TX,76543,(254) 690-1523,B+,B,C,B-,A,B+,A+,C+,B+,B+,B+,B,B+
+613,Buffalo Wild Wings,1716 Highway 287 N,Mansfield,TX,76063,(817) 453-1748,A,A,C+,B+,A-,A,A,A,A-,B,A-,B+,B+
+614,Buffalo Wild Wings,3320 E Hebron Pkwy Ste 100,Carrollton,TX,75010,(972) 695-2001,A+,A+,B,A-,A,A+,A+,A+,A-,B,A-,C+,B
+615,Buffalo Wild Wings,4140 Lemmon Ave Ste 176,Dallas,TX,75219,(214) 520-7067,A+,B-,C,C+,A+,B,A+,A-,A-,B-,A,B+,A
+616,Buffalo Wild Wings,25704 Highway 290,Cypress,TX,77429,(281) 373-2120,A+,A+,C-,A,A-,A+,A-,A+,B+,B,A,B+,A-
+617,Buffalo Wild Wings,9415 Broadway St Ste 123,Pearland,TX,77584,(281) 854-2929,A+,A,B,A-,A-,A+,A+,A+,B+,B,A-,B+,B-
+618,Buffalo Wild Wings,2001 S Padre Island Dr,Corpus Christi,TX,78416,(361) 814-9464,B-,C,C,B-,A-,C+,B-,B,A-,A-,B-,B-,A-
+619,Buffalo Wild Wings,5520 W Grand Pkwy S,Richmond,TX,77406,(281) 232-7024,A+,A,B-,A,A-,A,A-,A+,B+,B,A-,C+,B+
+620,Buffalo Wild Wings,4424 N 10th St,Mcallen,TX,78504,(956) 668-9677,A,B+,B-,B+,A,A-,B+,A-,B+,B+,A-,C,B+
+621,Buffalo Wild Wings,2727 Mercantile Dr.,Rosenberg,TX,77471,(281) 342-9464,A-,B,B-,B-,A-,B+,A,A-,B+,B+,A,B+,A-
+622,Buffalo Wild Wings,10497 Gateway Blvd W,El Paso,TX,79925,(915) 594-9464,A-,B+,B-,B,A,B+,B+,B,A,B+,A,C+,A-
+623,Buffalo Wild Wings,3651 Weslayan St,Houston,TX,77027,(713) 581-7955,A+,B+,C-,C,A+,B+,A-,A-,B+,C,A,A-,A-
+624,Buffalo Wild Wings,18410 Us Highway 281 N,San Antonio,TX,78259,(210) 545-9464,A+,A+,C,A-,A-,A+,A,A,B+,B,A-,C+,B-
+625,Buffalo Wild Wings,1500 W Harrison Ave,Harlingen,TX,78550,(956) 425-2525,B,C,B-,B-,A,C+,B,B-,A-,A-,A,C-,A-
+626,Buffalo Wild Wings,5875 Fairmont Pkwy,Pasadena,TX,77505,(281) 487-0400,A,A-,C-,B+,A,B+,A,A,B+,B+,A-,B-,A-
+627,Buffalo Wild Wings,763 Nalles Mill Rd,Culpeper,VA,22701,(540) 827-1180,B,B,B-,C+,B,B,A-,B-,B,B,A-,B-,B
+628,Buffalo Wild Wings,4335 Starkey Rd,Roanoke,VA,24018,(540) 725-9464,A+,A,B,A-,B,A+,B,A-,B+,B,A-,A-,B+
+629,Buffalo Wild Wings,1156 Temple Ave,Colonial Heights,VA,23834,(804) 526-9464,A-,B,NG,B-,B+,A-,A-,B+,A-,B,A,B+,B+
+630,Buffalo Wild Wings,1090 Virginia Center Pkwy,Glen Allen,VA,23059,(804) 553-9998,A,B+,B,B+,B-,A+,A-,A,B+,B-,A,A,B
+631,Buffalo Wild Wings,1638 Carl D Silver Pkwy,Fredericksburg,VA,22401,(540) 548-8048,A,B+,NG,C-,A,A,A,C,B,C+,A,A,A
+632,Buffalo Wild Wings,4300 Pouncey Tract Rd,Glen Allen,VA,23060,(804) 360-8888,A+,B+,NG,B+,B,A+,A,A-,B+,B,A,A-,A-
+633,Buffalo Wild Wings,1308 Greenbrier Pkwy,Chesapeake,VA,23320,(757) 263-4090,A,B+,NG,B-,B+,A,A,B-,B+,B-,A,A,A-
+634,Buffalo Wild Wings,216 Carmichael Way,Chesapeake,VA,23322,(757) 432-1326,A-,A,NG,B,B,A,B+,B,B+,C+,A-,B,A-
+635,Buffalo Wild Wings,12056 Southshore Pointe Rd,Midlothian,VA,23112,(804) 739-9266,A+,A,NG,A-,A-,A+,B+,A,B+,B,A,A-,A-
+636,Buffalo Wild Wings,1501 E Cary St,Richmond,VA,23219,(804) 648-8900,A-,C-,NG,C-,A,B-,A,C-,B+,C+,B,A-,A
+637,Buffalo Wild Wings,5 Weems Ln,Winchester,VA,22601,(540) 723-6900,A,B,NG,C+,A,A-,A,B-,B,B-,A,A-,A
+638,Buffalo Wild Wings,1403 S Main St,Farmville,VA,23901,(434) 315-5522,A-,C,B+,C+,A,B,A-,C+,B+,B+,A-,A-,A-
+639,Buffalo Wild Wings,21980 Colorado Dr,Sterling,VA,20166,(703) 444-3048,A+,A+,B+,B+,A,A+,A+,A-,B,C+,A,A-,B
+640,Buffalo Wild Wings,4918 Courthouse St,Williamsburg,VA,23188,(757) 229-6099,A+,A,NG,B,B,A+,A-,A-,A-,B-,A,A,A-
+641,Buffalo Wild Wings,4802 Valley View Blvd NW,Roanoke,VA,24012,(540) 366-9464,A-,B,NG,B-,A,A-,A-,B-,B+,B+,B,A-,B
+642,Buffalo Wild Wings,7230 Bell Creek Rd,Mechanicsville,VA,23111,(804) 746-5025,A-,B+,B,B+,B-,A-,B,A-,B+,B,A,A-,B-
+643,Buffalo Wild Wings,12150 Jefferson Ave,Newport News,VA,23602,(757) 249-3999,A,B,NG,B-,A,A,A,B-,B+,B,B+,A-,A-
+644,Buffalo Wild Wings,7801 W Broad St Ste 10,Henrico,VA,23294,(804) 672-8733,A+,B-,NG,B-,A+,A,A,B,B+,B,A,A-,A-
+645,Buffalo Wild Wings,437 Tiffany Dr Ste A,Waynesboro,VA,22980,(540) 943-9464,B+,B-,NG,B,B,B,B,B,B+,B+,A-,B-,A-
+646,Buffalo Wild Wings,2133 Upton Dr Ste 100,Virginia Beach,VA,23454,(757) 430-1086,A,A,NG,B-,B+,A+,A-,B-,B+,C+,A,A,A-
+647,Buffalo Wild Wings,1050 Stafford Market Pl,Stafford,VA,22556,(540) 288-0580,A-,A,NG,B,B,A,A,B+,B,B-,B+,B-,B
+648,Buffalo Wild Wings,14466 Potomac Mills Rd,Woodbridge,VA,22192,(703) 492-9464,A+,A-,A,B+,A-,A+,A+,A,B,C+,A,A,A-
+649,Buffalo Wild Wings,2450 Crystal Dr Suite R-015,Arlington,VA,22202,(703) 413-0160,A+,A,NG,C,A+,A+,A-,B+,B,C,A+,A,A
+650,Buffalo Wild Wings,211 Prices Fork Rd,Blacksburg,VA,24060,(540) 552-9464,A+,A,A-,C+,A,A+,B+,B-,B,C+,A,A,A
+651,Buffalo Wild Wings,10107 Tiny Point Dr,Fredericksburg,VA,22407,(540) 891-0870,A-,B+,NG,B,A-,A-,A,A-,B,B-,B,B,A-
+652,Buffalo Wild Wings,10063 Market Cir,Manassas,VA,20110,(703) 335-2672,A-,B-,NG,C+,B+,A-,A+,B-,B,C+,A,A-,A-
+653,Buffalo Wild Wings,950 N Glebe Rd,Arlington,VA,22203,(703) 243-7525,A+,A+,NG,C+,A,A+,A,B,B,C,A+,A,A
+654,Buffalo Wild Wings,524 Fort Evans Rd,Leesburg,VA,20176,(703) 779-4646,A+,A,B+,B,A-,A+,A,A,B,C+,A,A,A-
+655,Buffalo Wild Wings,356 Laskin Rd,Virginia Beach,VA,23451,(757) 321-7337,A,A,NG,C,A,A+,A-,B-,B+,C,A,A,A-
+656,Buffalo Wild Wings,4201 Kilgore Ave,Hampton,VA,23666,(757) 826-4809,B+,C+,NG,C+,A,B,A,C,B+,B,A-,B,A-
+657,Buffalo Wild Wings,1778 Ala Moana Blvd Ste 214,Honolulu,HI,96815,(808) 983-3933,A-,B-,NG,C-,A+,B-,NG,C+,A+,C-,A,A,A
+658,Buffalo Wild Wings,1000 Kamehameha Hwy Ste 227,Pearl City,HI,96782,(808) 260-9464,B,B-,NG,D+,A,C+,NG,C+,A+,C-,A,A-,A
+659,Buffalo Wild Wings,91-1061 Keaunui Dr,Ewa Beach,HI,96706,(808) 685-0494,B-,C+,NG,C-,B,B-,NG,C+,A+,C-,A,A,A-
+660,Buffalo Wild Wings,46-056 Kamehameha Hwy,Kaneohe,HI,96744,(808) 236-0838,B+,C+,NG,D,A-,B-,NG,C+,A+,C-,A,A,A-
+661,Buffalo Wild Wings,3050 Alpine Ave NW,Grand Rapids,MI,49544,(616) 784-9464,B+,B-,C+,B,B,B,B,B+,C-,A-,A,B,B
+662,Buffalo Wild Wings,44375 W 12 Mile Rd Ste G-149,Novi,MI,48377,(248) 344-4019,A+,A-,B,B+,A,A,A,B+,C+,B,A-,A-,B-
+663,Buffalo Wild Wings,29287 Mound Rd,Warren,MI,48092,(586) 573-9164,A-,B-,B-,B,A,B+,A-,B+,B-,B+,B,A-,A-
+664,Buffalo Wild Wings,2121 Celebration Dr NE Ste 100,Grand Rapids,MI,49525,(616) 364-2999,A,A-,C+,A-,B,A,B,A-,C-,A-,A,A,A-
+665,Buffalo Wild Wings,15745 15 Mile Rd,Clinton Township,MI,48035,(586) 293-9500,B+,B-,B-,B-,A-,B,A-,B-,C+,B+,A-,B+,A-
+666,Buffalo Wild Wings,5648 Harvey St,Muskegon,MI,49444,(231) 799-2999,B+,B,C,B,A,B+,A,C,C-,A-,B+,A-,A-
+667,Buffalo Wild Wings,1766 N Telegraph Rd,Monroe,MI,48162,(734) 240-2999,B,C,B+,B,A-,B,B-,B-,C+,A-,B,A-,A-
+668,Buffalo Wild Wings,48 Market St,Mount Clemens,MI,48043,(586) 469-0725,B+,D+,B-,C+,A,B-,A-,B-,C+,A-,B+,B+,A
+669,Buffalo Wild Wings,4355 24th Ave Ste 1,Fort Gratiot,MI,48059,(810) 385-2730,B,C,B-,B,B,B,B-,B,B-,A-,A-,B+,A-
+670,Buffalo Wild Wings,8251 Trillium Circle Ave,Grand Blanc,MI,48439,(810) 603-1299,A,A-,C,A-,A-,A,B+,B+,C,A-,B+,B+,B+
+671,Buffalo Wild Wings,37651 6 Mile Rd,Livonia,MI,48152,(734) 469-4400,A,A-,C-,B+,A,A-,B,B+,C+,B+,A-,A-,B+
+672,Buffalo Wild Wings,1264 Perry Ave,Big Rapids,MI,49307,(231) 796-9464,A-,B-,B+,B,A,A-,B-,B-,C-,A-,B,A-,A
+673,Buffalo Wild Wings,41980 Ford Rd,Canton,MI,48187,(734) 844-9464,A+,A+,C-,A-,A,A+,A-,B+,C+,B+,B+,A-,B+
+674,Buffalo Wild Wings,3190 W Silver Lake Rd,Fenton,MI,48430,(810) 629-0099,A,B+,A-,B+,A-,A,B-,B+,C,B+,A-,B+,B+
+675,Buffalo Wild Wings,22216 Michigan Ave,Dearborn,MI,48124,(313) 359-1800,A,B+,C-,B+,A-,A-,B-,B+,C+,B+,A-,A-,A-
+676,Buffalo Wild Wings,44671 Mound Rd,Sterling Heights,MI,48314,(586) 997-2999,A,B+,B-,B+,A,A,B+,A-,C+,B+,A-,A-,B+
+677,Buffalo Wild Wings,1234 Walton Blvd,Rochester,MI,48307,(248) 651-3999,A+,A+,B,A-,A,A+,B+,A-,C+,B,A,A-,B+
+678,Buffalo Wild Wings,6728 Eastman Ave,Midland,MI,48642,(989) 633-9464,A,A,A-,A,B-,A+,B,B+,B-,A-,B,B+,A-
+679,Buffalo Wild Wings,4050 Wilder Rd,Bay City,MI,48706,(989) 671-3377,B+,B-,B-,B+,A-,B-,B-,B,B,A-,A-,C+,A-
+680,Buffalo Wild Wings,205 S State St,Ann Arbor,MI,48104,(734) 997-9143,A+,A+,B,C+,A+,A+,B+,B-,C+,C,A+,A,A
+681,Buffalo Wild Wings,2899 W Shore Dr,Holland,MI,49424,(616) 399-9461,A,A,B,A,A-,A,A-,A,C-,A-,A,B,A-
+682,Buffalo Wild Wings,704 E Chicago St,Coldwater,MI,49036,(517) 924-0770,B+,B-,B,B,A-,B,B-,B,B,A-,B+,B-,A-
+683,Buffalo Wild Wings,2500 Us Highway 41 W,Marquette,MI,49855,(906) 226-0699,A,B+,B+,B,A,A-,B-,B,C-,B+,A,B,A
+684,Buffalo Wild Wings,51346 Gratiot Ave,Chesterfield,MI,48051,(586) 349-9464,B,C+,B-,B+,A,B,B,B,C+,B+,B,B,B
+685,Buffalo Wild Wings,3209 Stadium Dr,Kalamazoo,MI,49008,(269) 353-9464,A+,A-,C,B+,A,A,A-,B+,C,B+,A,A,A
+686,Buffalo Wild Wings,3480 S Airport Rd W Ste A,Traverse City,MI,49684,(231) 421-2417,A-,B+,B,B,A,B+,B-,B,C,B+,A-,B,A-
+687,Buffalo Wild Wings,2690 Tittabawassee Rd,Saginaw,MI,48604,(989) 401-5300,A-,B-,C+,B,A,B,A-,B-,C+,A-,B+,B+,A
+688,Buffalo Wild Wings,8 Ionia Ave SW,Grand Rapids,MI,49503,(616) 454-9464,A,C,C+,B-,A+,B+,A,B-,C-,B+,A,A,A
+689,Buffalo Wild Wings,900 S Latson Rd,Howell,MI,48843,(517) 545-2100,A-,B,A-,B+,A-,A,C+,B+,C+,B+,B+,B+,B+
+690,Buffalo Wild Wings,216 James L Hart Pkwy,Ypsilanti,MI,48197,(734) 480-7410,A,B-,B,B-,A,A,A,B,C+,B,A,A,A
+691,Buffalo Wild Wings,718 Glynn Isle,Brunswick,GA,31525,(912) 554-1203,B+,B,C-,B-,B,B-,A,B-,A-,B+,A-,B-,A-
+692,Buffalo Wild Wings,120 Robert C Daniel Jr Pkwy,Augusta,GA,30909,(706) 736-1778,A-,C-,B+,B-,A,B,A,B-,A-,B,B+,B,A-
+693,Buffalo Wild Wings,442 Northside Dr E,Statesboro,GA,30458,(912) 243-9260,B+,B,C+,C-,A,B-,A,C,A-,B-,B+,C+,A
+694,Buffalo Wild Wings,7700 Abercorn St,Savannah,GA,31406,(912) 355-6937,A-,C,C-,C,A,B-,A,B-,A-,B,A,B+,A-
+695,Buffalo Wild Wings,1323 Benton Blvd,Pooler,GA,31322,(912) 748-4424,A-,C-,C-,B-,A,B-,A,B+,A-,B,A-,B-,B+
+696,Buffalo Wild Wings,2375 Mansell Rd,Alpharetta,GA,30022,(678) 352-4599,A+,A,C-,A-,A-,A+,A,A-,B,B-,A+,A-,B
+697,Buffalo Wild Wings,1553 Baytree Rd,Valdosta,GA,31602,(229) 241-7246,A-,B,C+,C+,A,B,A,C+,A,B,A-,B,A-
+698,Buffalo Wild Wings,2926 Watson Blvd,Centerville,GA,31028,(478) 953-2147,B,B+,C,B-,B-,B-,A-,B+,A-,B,B+,C+,C+
+699,Buffalo Wild Wings,7322 Stonecrest Concourse,Lithonia,GA,30038,(770) 482-9453,B,C-,C+,B-,B,B,C+,C+,B+,B,A-,A-,B
+700,Buffalo Wild Wings,2822 Nottingham Way,Albany,GA,31707,(229) 888-3374,B,C,C-,C,A,C,A,C-,A-,B,B+,C+,B
+701,Buffalo Wild Wings,1185 Dawsonville Hwy,Gainesville,GA,30501,(770) 718-1020,A-,B-,C,C+,B+,B+,A,B+,B+,B+,A,A-,A-
+702,Buffalo Wild Wings,125 Barrett Creek Pkwy,Marietta,GA,30066,(678) 354-9464,A+,A,C+,A-,B,A+,A-,A-,B,B,A,A-,B+
+703,Buffalo Wild Wings,169 Tom Hill Sr Blvd,Macon,GA,31210,(478) 475-1286,A,C-,NG,B-,A,A-,A,B+,A-,B,A-,B+,C+
+704,Buffalo Wild Wings,6790 Douglas Blvd,Douglasville,GA,30135,(678) 391-8470,A-,B,C,B+,A-,A-,A,B,B+,B+,A-,B+,B+
+705,Buffalo Wild Wings,6000 N Terminal Pkwy,Atlanta,GA,30320,(404) 763-0770,,,,,,,,,,,,,
+706,Buffalo Wild Wings,1636 Cumberland Mall SE,Atlanta,GA,30339,(770) 435-4275,A+,A-,C+,B+,A,A+,A,A,B+,B-,A+,A-,A-
+707,Buffalo Wild Wings,37 Parkway Dr,Fort Oglethorpe,GA,30742,(706) 858-4911,B,B,C+,B,B,B+,B,B-,B,A-,B-,A-,B
+708,Buffalo Wild Wings,2472 N Columbia St,Milledgeville,GA,31061,(478) 804-0022,B,C-,C+,C+,A,C+,A,C+,A-,B+,B+,B+,B+
+709,Buffalo Wild Wings,1301 Us Highway 82 W,Tifton,GA,31793,(229) 386-5334,B,B-,C-,B+,B-,B-,A-,B,A,A-,C+,C+,B
+710,Buffalo Wild Wings,355 Bullsboro Dr,Newnan,GA,30263,(770) 502-0750,B+,B+,C+,B-,B,B+,A,B+,B,B,A-,B+,B-
+711,Buffalo Wild Wings,5555 Brookstone Centre Pkwy,Columbus,GA,31904,(706) 507-2110,A-,B,C-,B-,A,B-,A,C+,B+,B,A-,C+,A-
+712,Buffalo Wild Wings,3333 Mall Of Georgia Blvd,Buford,GA,30519,(770) 271-9023,A,A+,C+,A-,B,A,A,A-,B+,B,A-,B-,B
+713,Buffalo Wild Wings,5000 Jimmy Lee Smith Pkwy,Hiram,GA,30141,(770) 439-3744,B,C+,B-,B,B,B,A-,A-,B,B,B+,B+,B
+714,Buffalo Wild Wings,5555 Whittlesey Blvd Ste F,Columbus,GA,31909,(706) 507-2110,A-,B,C-,B,A,B+,A,B,B+,B,A-,B,B-
+715,Buffalo Wild Wings,231 N Main St,Sikeston,MO,63801,(573) 481-2999,B,B-,C,B+,A-,B-,B+,B,B,A,C+,C+,B+
+716,Buffalo Wild Wings,1429 N Westwood Blvd,Poplar Bluff,MO,63901,(573) 785-9464,B,C+,C,B,A-,C+,B-,B,B+,A-,B,C+,B
+717,Buffalo Wild Wings,615 Maple Valley Dr,Farmington,MO,63640,(573) 756-9464,B+,B+,B-,B+,A-,B,B-,A-,B,A-,B,B-,A-
+718,Buffalo Wild Wings,2725 N Kansas Expy,Springfield,MO,65803,(417) 865-2999,B+,B,C-,B,A-,B,B-,B,B,A-,A-,B+,A-
+719,Buffalo Wild Wings,2136 William St Ste 120,Cape Girardeau,MO,63703,(573) 334-9464,B+,B+,C+,C+,A,B-,B+,C,B,B+,B+,B,A
+720,Buffalo Wild Wings,900 E Battlefield St,Springfield,MO,65807,(417) 881-9464,A-,B-,C-,B-,A,B,B,B,B,B+,A,A-,A
+721,Buffalo Wild Wings,1111 Branson Landing Blvd,Branson,MO,65616,(417) 334-0004,A-,A-,C,B-,A,B+,B,B,B,B+,B+,A-,A-
+722,Buffalo Wild Wings,179 Mid Rivers Mall Dr,Saint Peters,MO,63376,(636) 278-1771,A,A-,B+,A-,A,A,B-,A-,B,B+,A,A-,B+
+723,Buffalo Wild Wings,1465 Bass Pro Dr,Saint Charles,MO,63301,(636) 916-5353,A,A-,B+,B+,A,A-,B,B+,B,B+,A,B-,A-
+724,Buffalo Wild Wings,707 Stoneridge Blvd,Jefferson City,MO,65109,(573) 635-5600,A,B,C+,A-,A-,A-,B,A-,B-,A-,A-,B-,B+
+725,Buffalo Wild Wings,1285 W Pearce Blvd,Wentzville,MO,63385,(636) 887-4895,A,A,B+,A-,A-,A,B-,A-,B,B+,A,B+,B+
+726,Buffalo Wild Wings,1244 S Kirkwood Rd,Saint Louis,MO,63122,(314) 821-9464,A+,A+,C+,A,A-,A+,B-,A,B,B,A,A-,A-
+727,Buffalo Wild Wings,12653 Olive Blvd,Saint Louis,MO,63141,(314) 579-9464,A+,A+,C+,A,A-,A+,A-,A,B,B,A,A-,B
+728,Buffalo Wild Wings,1210 Strassner Dr,Saint Louis,MO,63144,(314) 645-9464,A+,A+,C+,A,A,A+,B,A,B,B,A-,A-,A-
+729,Buffalo Wild Wings,136 Old Route 66,Saint Robert,MO,65584,(573) 451-3030,A-,A-,B-,B+,A,A-,A,C,B,B+,C+,B-,B
+730,Buffalo Wild Wings,17276 Chesterfield Airport Rd,Chesterfield,MO,63005,(636) 536-9464,A+,A+,C+,A-,A-,A+,C+,A,B,B,A,B-,B+
+731,Buffalo Wild Wings,2352 Highway K,O Fallon,MO,63368,(636) 379-3994,A+,A,B+,A,A-,A+,B,A,B,B+,A-,B+,B+
+732,Buffalo Wild Wings,1811 N Bishop Ave,Rolla,MO,65401,(573) 341-0303,A,A-,B-,B+,A,A,B,B+,B,A-,B-,B+,A-
+733,Buffalo Wild Wings,200 Kestrel Ct,Lake Ozark,MO,65049,(573) 693-1060,B+,B+,B-,B-,A-,B+,C+,B-,B,B+,A-,B-,C+
+734,Buffalo Wild Wings,15425 Manchester Rd Ste 46,Ballwin,MO,63011,(636) 207-9464,A+,A+,C+,A,A-,A+,B,A,B,B,A,A-,B+
+735,Buffalo Wild Wings,303 E Cooper Blvd Ste A,Warrensburg,MO,64093,(660) 422-3369,A-,B+,B,B,A,A-,B,C+,B,B+,B,C,A-
+736,Buffalo Wild Wings,570 S County Center Way,Saint Louis,MO,63129,(314) 845-7878,A,A-,C+,A-,A-,A,B-,A-,B,B+,A,B+,B
+737,Buffalo Wild Wings,2352 Old Highway 79,O Fallon,MO,63366,(636) 379-3994,A,A,B+,A-,A-,A,B-,B+,B,B+,A,B+,B+
+738,Buffalo Wild Wings,200 Kestrel Ln,Lake Ozark,MO,65049,(573) 693-1060,B+,B+,B-,B-,A-,B+,C+,B-,B,B+,A-,B-,C+
+739,Buffalo Wild Wings,505 E Nifong Blvd,Columbia,MO,65201,(573) 441-2244,A,A-,C+,C,A,B+,B,B-,B-,B-,A,B-,A
+740,Buffalo Wild Wings,150 Gravois Bluffs Cir,Fenton,MO,63026,(636) 326-5000,A,A-,C+,A-,A-,A,B-,B+,B,A-,A,B,B-
+741,Buffalo Wild Wings,1121 E North Ave,Belton,MO,64012,(816) 318-9464,B+,B-,B-,B,A-,B,B,B+,B,A-,B+,C+,B-
+742,Buffalo Wild Wings,5403 N Belt Hwy,Saint Joseph,MO,64506,(816) 387-8320,A-,B-,C,B+,A,B+,B,B,B,A-,B+,B+,A-
+743,Buffalo Wild Wings,9207 NE Highway 152,Kansas City,MO,64158,(816) 415-9525,A,A,B-,B+,B,A,B+,A-,B,B+,A,B+,C+
+744,Buffalo Wild Wings,20110 E Jackson Dr,Independence,MO,64057,(816) 795-6200,A-,A,C-,B+,A,A-,B+,A-,B,A-,B+,B+,B+
+745,Buffalo Wild Wings,7704 NE 5th Ave,Vancouver,WA,98665,(360) 597-3486,B+,B-,B-,C,A,B,A-,B,B,C+,A-,A,A
+746,Buffalo Wild Wings,4219 S Steele St,Tacoma,WA,98409,(253) 473-7699,B,B-,C,C,A,B-,NG,C+,B,C+,A-,A,A-
+747,Buffalo Wild Wings,18508 33rd Ave W,Lynnwood,WA,98037,(425) 672-8029,A-,A-,B-,C,B+,A-,A,B-,B,C,A-,A,A
+748,Buffalo Wild Wings,13215 Meridian E,Puyallup,WA,98373,(253) 845-5672,B,B,C,C,A,B,A-,C+,B,C+,A,A,B
+749,Buffalo Wild Wings,2005 S 320th St,Federal Way,WA,98003,(253) 529-7862,B+,B-,C+,C-,A,B,A+,C+,B,C,A+,A,A-
+750,Buffalo Wild Wings,17020 Twin Lakes Ave Ste 105,Marysville,WA,98271,(360) 652-5349,B-,C,B-,C,A-,C+,NG,B-,B,C+,A,A-,A-
+751,Buffalo Wild Wings,14702 E Indiana Ave,Spokane Valley,WA,99216,(509) 891-0289,B,B-,C,C,A,B-,B-,C+,C+,C+,A-,A,A-
+752,Buffalo Wild Wings,225 Tukwila Pkwy,Tukwila,WA,98188,(206) 243-1219,B,C+,C+,D+,B+,B-,A+,C,B,C,A+,A,A
+753,Buffalo Wild Wings,1614 Black Lake Blvd SW,Olympia,WA,98502,(360) 943-0718,A-,B+,B-,C+,A,B+,B+,B-,B-,C,A,B,A
+754,Buffalo Wild Wings,1624 4th Ave,Seattle,WA,98101,(206) 467-2743,A+,A,C+,C,A+,B+,A,B-,B,C-,A+,A+,A
+755,Buffalo Wild Wings,295 Tukwila Pkwy,Tukwila,WA,98188,(206) 243-1219,B,C+,C+,D+,B+,B-,A+,C,B,C,A+,A,A
+756,Buffalo Wild Wings,6 Bellis Fair Pkwy,Bellingham,WA,98226,(360) 671-5963,A-,B-,B,C-,A-,B,A-,B-,A+,C,A,A,A
+757,Buffalo Wild Wings,10315 Silverdale Way NW,Silverdale,WA,98383,(360) 698-5397,A,A-,B-,C+,A,A-,NG,B-,A,C,A,A,A-
+758,Buffalo Wild Wings,2529 Main St,Union Gap,WA,98903,(509) 453-1215,B-,B,C,B-,A-,B-,A,B-,C,B-,B,B-,B
+759,Buffalo Wild Wings,4750 N Division St,Spokane,WA,99207,(509) 484-7062,B,B-,C,C,A,B-,B+,C,C,B-,A-,A,A
+760,Buffalo Wild Wings,1402 SE Everett Mall Way Ste 410,Everett,WA,98208,(425) 265-0668,A-,B+,B-,C+,B,A-,A,B,B-,C,A,A,A-
+761,Buffalo Wild Wings,8551 W Gage Blvd,Kennewick,WA,99336,(509) 735-6892,B+,B,B,C+,A,B+,A,B-,B-,B-,A,A-,A-
+762,Buffalo Wild Wings,10315 Kitsap Mall Blvd NW,Silverdale,WA,98383,(360) 698-5397,A,A-,B-,C+,A,A-,NG,B-,A,C,A,A,A-
+763,Buffalo Wild Wings,10601 Martin Luther King Jr Hwy,Bowie,MD,20720,(301) 464-9292,A-,C,C+,B-,B,B+,A-,A-,B-,C+,B+,B+,B
+764,Buffalo Wild Wings,2337 Forest Dr,Annapolis,MD,21401,(410) 573-0331,A,B,C,C,A,B+,A,B+,B,C,A,A-,A
+765,Buffalo Wild Wings,33 Maryland Ave Unit C,Rockville,MD,20850,(301) 251-9393,A+,A+,B-,C+,A,A+,A,B,B,C,A+,A,A
+766,Buffalo Wild Wings,11215 Mall Cir,Waldorf,MD,20603,(301) 885-0614,A-,B,B-,B-,A-,B+,A,B,B,C+,B+,B-,A-
+767,Buffalo Wild Wings,46370 Lexington Village Way,Lexington Park,MD,20653,(240) 237-8144,A-,B,NG,B-,B,A,A,B,B+,B-,A-,A-,B
+768,Buffalo Wild Wings,7000 Arundel Mills Cir Ste R3,Hanover,MD,21076,(410) 379-0333,A,B,C,B,A,A-,A,A-,B,C+,B+,A-,A-
+769,Buffalo Wild Wings,668 Clopper Rd,Gaithersburg,MD,20878,(301) 330-7300,A+,A+,B-,B,A-,A+,A,B+,B,C+,A+,A,A-
+770,Buffalo Wild Wings,2734 N Salisbury Blvd Ste 5b,Salisbury,MD,21801,(443) 736-7540,A-,B,C,B-,A,B+,A,B-,B+,B,B+,A-,A-
+771,Buffalo Wild Wings,6191 Columbia Crossing Cir,Columbia,MD,21045,(443) 546-4383,A+,A,NG,B+,A,A+,A+,A-,B,B-,A+,A-,A-
+772,Buffalo Wild Wings,14724 Baltimore Ave,Laurel,MD,20726,(240) 456-0382,,,,,,,,,,,,,
+773,Buffalo Wild Wings,10240 Baltimore Ave,College Park,MD,20740,(301) 486-0333,A-,C-,C+,C-,A,B-,A+,B-,B,C,A,A,A
+774,Buffalo Wild Wings,230 Railway Ln,Hagerstown,MD,21740,(301) 766-7250,B+,B,C,C+,A,B,A-,C+,B-,B,A-,A-,A-
+775,Buffalo Wild Wings,404 Englar Rd,Westminster,MD,21157,(410) 386-3550,A-,A-,B,B-,A-,A-,B,B,B-,B-,A,A,A-
+776,Buffalo Wild Wings,3335 Worthington Blvd,Ijamsville,MD,21754,(240) 699-0313,A,A+,B-,B+,B-,A+,B-,A,B,B-,A-,A-,B
+777,Buffalo Wild Wings,5 Bel Air South Pkwy Ste 1649,Bel Air,MD,21015,(443) 512-8220,A,A,B-,B,A-,A,B,B+,B+,B-,A,A-,B
+778,Buffalo Wild Wings,8200 Perry Hall Blvd Ste 3100,Nottingham,MD,21236,(410) 933-3311,A,B+,NG,B,A,A,A-,B,B,B,A-,A-,A-
+779,Buffalo Wild Wings,10391 Reisterstown Rd,Owings Mills,MD,21117,(410) 581-6850,A,B-,NG,B-,B,A,A+,B,B-,B-,A-,A-,A-
+780,Buffalo Wild Wings,210 Shorebird St,Frederick,MD,21701,(301) 662-1333,A,A,B-,B,A,A,A-,B+,B,B-,A,A,A
+781,Buffalo Wild Wings,12107 Winchester Rd SW,Cumberland,MD,21502,(240) 362-7515,B+,B-,C+,B-,A,B,B,C+,B+,B+,A-,A,A-
+782,Buffalo Wild Wings,3400 C St,Anchorage,AK,99503,(907) 563-9464,C+,A-,C-,C-,A,C-,NG,C-,NG,C,B+,D-,A
+783,Buffalo Wild Wings,555 Shelburne Rd,Burlington,VT,05401,(802) 489-5083,A,A-,A-,C-,A+,A-,B,C,C-,C-,A+,A,A
+784,Buffalo Wild Wings,92 N 1200 E,Lehi,UT,84043,(801) 766-8402,A,B+,A-,B+,A-,A+,B-,A,C+,C+,A+,A,A-
+785,Buffalo Wild Wings,695 Layton Hills Mall,Layton,UT,84041,(801) 547-9464,A,B,A-,B+,A,A,B+,A-,B-,B-,A+,A,A
+786,Buffalo Wild Wings,11332 S River Heights Dr,South Jordan,UT,84095,(801) 826-2999,A,B+,C+,B,A-,A-,B-,A-,C+,C,A+,A,A-
+787,Buffalo Wild Wings,702 W Riverdale Rd,Ogden,UT,84405,(801) 392-2337,A-,B-,B-,B,A,B+,B,A-,B-,B-,A+,A,A-
+788,Buffalo Wild Wings,2927 S 5600 W,West Valley City,UT,84120,(801) 964-6700,B,C+,C+,C+,B,B,A,B,C+,B-,A,A,A-
+789,Buffalo Wild Wings,985 E Fort Union Blvd,Midvale,UT,84047,(801) 566-0144,A-,B+,C+,B-,A,B+,A-,B,C,C+,A+,A,A-
+790,Buffalo Wild Wings,11266 S State St,Sandy,UT,84070,(801) 523-3809,A-,B+,C+,B,A,A-,B,B+,C,B-,A+,A,A
+791,Buffalo Wild Wings,43 E 1400 N,Logan,UT,84341,(435) 753-0465,A+,A-,A-,B,A,A+,B+,B+,C-,B-,A+,A,A
+792,Buffalo Wild Wings,270 S River Rd,Saint George,UT,84790,(435) 673-4902,A-,B+,B+,B-,B,A-,B,A-,C,C+,A+,B+,A-
+793,Buffalo Wild Wings,2120 S Highland Dr,Salt Lake City,UT,84106,(801) 484-1775,A,B,C+,B-,A,A-,B+,B+,C+,C+,A+,A,A
+794,Buffalo Wild Wings,50 Fox Run Rd,Newington,NH,03801,(603) 433-3022,A,A,B+,B-,A,A,B,B,C,C,A,B,A
+795,Buffalo Wild Wings,8 Loudon Rd,Concord,NH,03301,(603) 715-9340,B+,B,B+,C+,B,A-,B-,B-,C,C+,A,A,A-
+796,Buffalo Wild Wings,160 Washington St,Rochester,NH,03839,(603) 335-3455,C+,C-,B,C-,B,C+,C+,B-,C+,C+,C+,A-,A-
+797,Buffalo Wild Wings,1500 S Willow St,Manchester,NH,03103,(603) 836-3138,B,C,B-,C-,A,B-,A-,C+,C,C+,A-,A,A-
+798,Buffalo Wild Wings,310 Daniel Webster Hwy,Nashua,NH,03060,(603) 888-9464,B,B-,B-,C-,B+,B,A-,C,C,C,A,A,A-
+799,Buffalo Wild Wings,3223 E Louise Dr,Meridian,ID,83642,(208) 288-5485,A,B-,B,B,A-,A,B,A-,B-,B-,A+,A,A-
+800,Buffalo Wild Wings,2101 N Cassia St,Nampa,ID,83651,(208) 463-9453,B,C,B-,B-,A,B,A-,B,B-,B-,A-,A-,A-
+801,Buffalo Wild Wings,1430 Milligan Rd,Idaho Falls,ID,83402,(208) 528-9453,B+,C+,B-,B,A-,B-,B,B+,C-,B,A-,C+,A
+802,Buffalo Wild Wings,4200 Pole Line Rd,Pocatello,ID,83201,(208) 238-5708,A-,B,B-,B,A,A-,B,B,C,B,A,A-,A
+803,Buffalo Wild Wings,4200 Poleline Rd,Pocatello,ID,83202,(208) 238-5708,B+,B,B-,B,A-,B,NG,B,C,B,A,B,A
+804,Buffalo Wild Wings,407 W Neider Ave,Coeur D Alene,ID,83815,(208) 667-0042,B+,B-,B,C+,A-,B+,B-,B,B-,B-,A,A,B+
+805,Buffalo Wild Wings,1239 Pole Line Rd E Ste B5,Twin Falls,ID,83301,(208) 736-9453,B,C,B-,B-,A-,C+,B+,B+,C,B,A,C,A
+806,Buffalo Wild Wings,1710 W Pullman Rd,Moscow,ID,83843,(208) 882-7630,A,A-,B+,C+,A,A-,B-,B-,B-,C+,A,B,A
+807,Buffalo Wild Wings,1045 Hanes Mall Blvd,Winston Salem,NC,27103,(336) 760-9233,A,A-,C,B,A,A,A,B-,B+,B+,A,B+,A-
+808,Buffalo Wild Wings,289 George Bay Ct,Concord,NC,28027,(704) 782-9464,A,A-,B-,B+,A,A,A,B+,B+,B+,B+,B+,B+
+809,Buffalo Wild Wings,2049 Catawba Valley Blvd SE,Hickory,NC,28602,(828) 327-9464,A-,B+,C,B,A-,B+,A-,B-,B+,A-,B+,B+,A-
+810,Buffalo Wild Wings,2530 Sardis Rd N,Charlotte,NC,28227,(704) 849-9464,A,B+,C,B,A-,B+,A+,B+,B+,B,A-,B+,A-
+811,Buffalo Wild Wings,148 Shenstone Ln,Garner,NC,27529,(919) 661-5238,A,A-,B+,B+,A-,A,A,A-,B+,B+,A,B+,B+
+812,Buffalo Wild Wings,2097 Skibo Rd,Fayetteville,NC,28314,(910) 868-1561,B+,B-,C,B-,A,B,A+,C+,B+,B+,B-,B,B+
+813,Buffalo Wild Wings,6700 Knightdale Blvd,Knightdale,NC,27545,(919) 217-2559,A,B,B+,B+,A-,A,A+,A-,B,B+,A,B+,C+
+814,Buffalo Wild Wings,422 Cox Rd,Gastonia,NC,28054,(704) 349-4060,B+,C+,C+,C+,B,B,A,C+,A-,B+,B+,B+,A-
+815,Buffalo Wild Wings,5533 Carolina Beach Rd,Wilmington,NC,28412,(910) 392-7224,A,A-,C-,B,A-,B+,B+,B-,B+,B,A,B+,A-
+816,Buffalo Wild Wings,2800 Raleigh Road Pkwy W,Wilson,NC,27896,(252) 234-9464,B+,B-,C,B,B,B,A,B,B+,B+,B,C+,B+
+817,Buffalo Wild Wings,400 E Martin Luther King Blvd,Charlotte,NC,28202,(704) 971-9464,A+,B,C,B+,A+,A-,A,A,A-,B,A,B+,A
+818,Buffalo Wild Wings,6709 Fayetteville Rd,Durham,NC,27713,(919) 206-4497,A+,B-,C-,B+,B,A,A+,A-,B,B,A,B,A-
+819,Buffalo Wild Wings,1300 Village Market Pl,Morrisville,NC,27560,(919) 469-7872,A+,A+,B+,A,A,A+,A,A,B+,B,A,B+,A-
+820,Buffalo Wild Wings,2410 Us Highway 70 SE,Hickory,NC,28602,(828) 323-1016,A-,B+,C,B,A-,B+,A-,B-,B+,A-,B+,B+,A-
+821,Buffalo Wild Wings,14157 Steele Creek Rd,Charlotte,NC,28273,(704) 588-8137,A,B,C,B,B+,A-,A+,B,A-,B,A-,B+,A-
+822,Buffalo Wild Wings,4175 Western Blvd,Jacksonville,NC,28546,(910) 378-7215,A-,B-,B,C+,A,B+,A,C+,B+,B,A-,B+,A-
+823,Buffalo Wild Wings,479 River Hwy,Mooresville,NC,28117,(704) 799-1458,A,A-,B,B,A-,A,B,B+,B+,B-,A,B+,A-
+824,Buffalo Wild Wings,121 Grand Hill Pl,Holly Springs,NC,27540,(919) 577-0407,A+,A-,B+,A,B-,A+,B+,A,B+,B,A,B,B-
+825,Buffalo Wild Wings,1640 Us Highway 1 S,Southern Pines,NC,28387,(910) 684-8005,A,B+,B-,B-,A-,B+,A-,B-,B+,B,A,B+,A-
+826,Buffalo Wild Wings,2109 W Roosevelt Blvd,Monroe,NC,28110,(704) 283-5546,B+,A-,B-,B,B,B+,A,B+,B+,B+,A,B-,B
+827,Buffalo Wild Wings,3098 S Horner Blvd,Sanford,NC,27332,(919) 718-6846,B,B-,C,B,B,B-,A,C+,B,B+,A-,C+,B
+828,Buffalo Wild Wings,140 Hays Ln Ste B15,Wilmington,NC,28411,(910) 338-4690,A,A-,C-,B+,A-,A-,B,B+,B+,B,A,A-,B
+829,Buffalo Wild Wings,9402 Northlake W Dr. Ste. 103 Northlake Plaza,Charlotte,NC,28216,(704) 392-6452,A-,C,C,B-,A,B,A,B,A-,B,A,B+,A-
+830,Buffalo Wild Wings,130 S Equity Dr,Smithfield,NC,27577,(919) 938-1250,B,B,C+,C+,A-,B-,A,B-,B,B+,B,B-,B
+831,Buffalo Wild Wings,215 Ring Rd,Rocky Mount,NC,27804,(252) 446-0164,B,C+,C,C+,B,B-,A,C,B,B+,B+,C+,B
+832,Buffalo Wild Wings,206 Old Eastwood Rd,Wilmington,NC,28403,(910) 798-9464,A-,A-,C-,C-,A,B,B+,C,B+,C+,A,A,A
+833,Buffalo Wild Wings,5136 Hwy 70 W,Morehead City,NC,28557,(252) 727-9191,A-,A-,B-,B-,A-,B+,B+,B-,A-,B,A,B-,A-
+834,Buffalo Wild Wings,426 E Arlington Blvd Ste B,Greenville,NC,27858,(252) 758-9191,A,B+,C+,B-,A,B+,A-,B-,A-,B,A-,B-,A
+835,Buffalo Wild Wings,3102 M L King Jr Blvd,New Bern,NC,28562,(252) 635-9464,A-,B,C+,B-,A-,B,A-,C+,A-,B,B+,B-,B+
+836,Buffalo Wild Wings,4 Tunnel Rd,Asheville,NC,28805,(828) 251-7384,A,B+,C,B-,A-,B+,B,B+,B+,B,A,A-,B+
+837,Buffalo Wild Wings,680 S Bay Rd,Dover,DE,19901,(302) 346-9464,A-,B,C+,C+,A,B+,A,C+,B,B,B+,A-,A
+838,Buffalo Wild Wings,19930 Lighthouse Plaza Blvd,Rehoboth Beach,DE,19971,(302) 727-5946,A,A,B-,B-,A,A-,B,B,A,B-,B+,A,A
+839,Buffalo Wild Wings,540 W Main St,Middletown,DE,19709,(302) 285-0000,A-,A-,C-,B,A-,A-,A-,B+,B,B,A-,A-,A-
+840,Buffalo Wild Wings,2062 Limestone Rd,Wilmington,DE,19808,(302) 999-9211,A-,B-,C-,B-,A-,B+,A-,B+,B,B,A,A,A-
+841,Buffalo Wild Wings,1887 Pulaski Hwy,Bear,DE,19701,(302) 832-3900,A-,B,C-,B-,B,B+,A,B,B,B-,B+,A-,A-
+842,Buffalo Wild Wings,100 S Main St,Newark,DE,19711,(302) 731-3145,A,B-,C-,B-,A,B+,A-,B+,B,B-,A,A,A
+843,Buffalo Wild Wings,4 Northridge Dr,Buckhannon,WV,26201,(304) 472-9464,B-,D+,B+,B+,A-,C+,C+,C+,B-,A,B-,B-,C+
+844,Buffalo Wild Wings,214 Crossroads Dr,Mount Hope,WV,25880,(304) 252-8712,C+,C-,C-,B-,A-,C-,B-,B-,B+,A,B-,B,C+
+845,Buffalo Wild Wings,45 Betten Ct,Bridgeport,WV,26330,(304) 808-6453,A-,B,B+,A,A-,A-,B-,A-,B+,A-,B+,B-,C+
+846,Buffalo Wild Wings,6 Walmart Dr,Moundsville,WV,26041,(304) 810-4079,B,C+,B+,B+,A-,B-,C+,A-,C+,A,B,C+,A-
+847,Buffalo Wild Wings,2501 Mountaineer Blvd,South Charleston,WV,25309,(304) 744-0801,B+,B,C-,A-,A-,B-,B,B,B+,A,B+,B-,B
+848,Buffalo Wild Wings,70 Nitro Market Pl,Charleston,WV,25313,(304) 776-9180,B+,C+,C-,B+,A,B-,B-,B+,A-,A-,B,B-,B
+849,Buffalo Wild Wings,1099 Suncrest Town Centre Dr,Morgantown,WV,26505,(304) 598-3430,A,A,B-,C,A+,A,B,B-,C+,B-,A-,A-,A
+850,Buffalo Wild Wings,796 Foxcroft Ave Ste 205,Martinsburg,WV,25401,(304) 264-9453,B,B-,C+,C,A,B,B+,C+,B,B,B+,A-,B
+851,Buffalo Wild Wings,970 Mall Rd,Barboursville,WV,25504,(304) 733-0909,B,C,C+,B,A,C+,B-,B,A-,A-,B+,B-,B
+852,Buffalo Wild Wings,8735 University Town Centre Dr,Morgantown,WV,26501,(304) 554-2150,A,B+,B-,A-,A,A-,B-,A-,C+,B+,B,A-,A
+853,Buffalo Wild Wings,100 Lakeview Ctr,Parkersburg,WV,26101,(304) 422-9646,B,B-,C+,B-,A,B-,C+,C,A-,A-,B+,B+,A-
+854,Buffalo Wild Wings,2047 Oak St,Bozeman,MT,59718,(406) 922-9464,A,A,B,B,A,A-,B-,B+,D+,C,A+,B,A-
+855,Buffalo Wild Wings,3190 N Sanders St,Helena,MT,59602,(406) 495-9464,B+,B-,C+,B,B+,B,C+,B+,C,B-,A-,B,A-
+856,Buffalo Wild Wings,2615 Radio Way,Missoula,MT,59808,(406) 829-9464,B+,A-,C+,B,A,B,B-,B,C-,B-,A,C+,A
+857,Buffalo Wild Wings,117 Northwest Byp,Great Falls,MT,59404,(406) 551-9464,B,B,C+,B,A-,B-,B-,B+,C,B,B,C+,A-
+858,Buffalo Wild Wings,3745 Harrison Ave,Butte,MT,59701,(406) 494-9464,B+,B-,NG,B-,A,B,B-,B-,C-,B,A-,B-,A-
+859,Buffalo Wild Wings,115 Hutton Ranch Rd,Kalispell,MT,59901,(406) 407-7500,B,B,B,C+,A-,B,B-,B,C,C+,A,B,A-
+860,Buffalo Wild Wings,411 S 24th St W,Billings,MT,59102,(406) 294-9464,B+,B-,C+,B-,A,B,B-,B+,C-,B-,A,B+,A
+861,Buffalo Wild Wings,1307 E Osceola Pkwy,Kissimmee,FL,34744,(407) 348-8900,B+,B,C+,C+,A-,B,A,B,A+,B-,A-,A-,B+
+862,Buffalo Wild Wings,20505 S Dixie Hwy,Cutler Bay,FL,33189,(305) 238-8850,B+,C+,C,C,B,B,A,B-,A,B-,A,A-,A-
+863,Buffalo Wild Wings,1625 E 7th Ave,Tampa,FL,33605,(813) 247-9453,B+,B-,C,C,A,B,A-,C,A,B+,B+,A,A
+864,Buffalo Wild Wings,3290 Tamiami Trl E,Naples,FL,34112,(239) 732-9464,A,A-,B+,B+,A-,A-,A-,A-,A+,B,A,A,A
+865,Buffalo Wild Wings,392 S Magnolia Dr,Tallahassee,FL,32301,(850) 309-0065,A,B,C-,B-,A,A-,A,C,A-,B,A,A,A
+866,Buffalo Wild Wings,25271 Chamber Of Commerce Dr,Bonita Springs,FL,34134,(239) 390-9460,A-,B,C+,C,B+,B,C+,B+,A+,C+,A,A+,B
+867,Buffalo Wild Wings,4075 Park Blvd N,Pinellas Park,FL,33781,(727) 545-4570,B+,C+,C,C+,A,B-,A-,B-,A,B,A,A-,A-
+868,Buffalo Wild Wings,18379 Tamiami Trl,North Port,FL,34287,(941) 429-9722,A,A,B-,A-,A-,A-,B,B,A+,B+,A,A,A-
+869,Buffalo Wild Wings,26725 State Road 56,Wesley Chapel,FL,33544,(813) 994-8812,A,B+,C,B+,A-,A-,A,A-,A,B-,A-,B+,B-
+870,Buffalo Wild Wings,2465 W Us Highway 90,Lake City,FL,32055,(386) 758-7714,B,B-,C-,B,A-,B,A-,C+,A-,A-,B-,B+,B+
+871,Buffalo Wild Wings,6419 W Newberry Rd Ste B1,Gainesville,FL,32605,(352) 331-9685,A+,A-,C+,A-,B,A+,A-,A,A-,B+,A,A,A
+872,Buffalo Wild Wings,2938 Tyrone Blvd N,Saint Petersburg,FL,33710,(727) 202-6311,A-,B-,C,B,A-,B,B+,B,A,B,A,A-,A-
+873,Buffalo Wild Wings,4120 14th St W,Bradenton,FL,34205,(941) 345-4883,A-,B-,C,C+,A,B,A-,B-,A,B+,A,A-,A
+874,Buffalo Wild Wings,307 SW Pine Island Rd,Cape Coral,FL,33991,(239) 424-8024,B,B+,C+,B-,B-,B+,B+,B,A+,B-,B+,A,C+
+875,Buffalo Wild Wings,6401 W Newberry Rd. The Oaks Mall,Gainesville,FL,32605,(352) 331-9685,A+,A-,C+,A-,B,A+,A-,A,A-,B+,A,A,A
+876,Buffalo Wild Wings,99 Eglin Pkwy,Fort Walton Beach,FL,32548,(850) 301-9464,A-,A-,C+,B,A,A-,A-,B-,B-,B,A-,A,A-
+877,Buffalo Wild Wings,23 Pine Lake Ave,La Porte,IN,46350,(219) 324-9464,B+,B,C+,B,A-,B+,B,B-,C+,A-,B+,B+,A-
+878,Buffalo Wild Wings,1310 Indianapolis Rd,Greencastle,IN,46135,(765) 653-6486,B+,B-,NG,B+,A,B+,B,B+,B-,A-,C+,B+,B+
+879,Buffalo Wild Wings,6129 Crawfordsville Rd Ste B,Indianapolis,IN,46224,(317) 241-9464,B+,B,C-,C+,A,B,A,C,B-,A-,B,B+,A-
+880,Buffalo Wild Wings,3900 Lexington Rd Ste 100,Logansport,IN,46947,(574) 516-1011,B+,B-,B,B+,A-,B+,B+,B-,B-,A,B-,B+,A-
+881,Buffalo Wild Wings,326 W Ireland Rd,South Bend,IN,46614,(574) 232-2293,B+,C-,C-,B,A-,B,B+,B+,C+,A-,B+,A-,A-
+882,Buffalo Wild Wings,4343 Grape Rd,Mishawaka,IN,46545,(574) 272-9464,A,B+,C-,B,A,A-,B+,B-,B-,A-,A-,A-,A-
+883,Buffalo Wild Wings,2715 S Creasy Ln,Lafayette,IN,47905,(765) 477-9325,A,A-,C+,A-,A,A-,B+,B+,B,A-,A-,C+,A-
+884,Buffalo Wild Wings,2683 E Main St Ste 117,Plainfield,IN,46168,(317) 837-2770,A,A,B,A,A,A,B,A-,B-,A-,B,B+,B
+885,Buffalo Wild Wings,1807 S US Highway 231 Suite A,Crawfordsville,IN,47933,(765) 362-6400,B+,B-,B,B+,A-,B+,B-,B,B-,A,B,B+,A-
+886,Buffalo Wild Wings,1623 E Michigan Rd,Shelbyville,IN,46176,(317) 604-5167,B+,B,B-,B+,A-,B+,B-,B-,B-,A-,B+,B,A-
+887,Buffalo Wild Wings,2747 E 62nd St,Indianapolis,IN,46220,(317) 257-2999,A+,A-,C-,A-,A,A,B+,A-,B-,B+,A-,B,A-
+888,Buffalo Wild Wings,2470 N Lebanon St,Lebanon,IN,46052,(765) 481-2500,A-,B+,B+,A-,A-,A-,C+,A,B-,A-,B+,B+,B+
+889,Buffalo Wild Wings,1715 S Memorial Dr,New Castle,IN,47362,(765) 388-2800,B+,B-,NG,A-,A-,B+,B-,B-,B-,A,B+,B,B
+890,Buffalo Wild Wings,8020 Us 31 S,Indianapolis,IN,46227,(317) 881-7500,B+,B,C-,B-,A,B,A-,B-,B,B+,B+,B,A-
+891,Buffalo Wild Wings,5901 S Scatterfield Rd,Anderson,IN,46013,(765) 640-2999,B-,C+,C+,B,A-,C+,B-,C+,B-,A,B,C,C+
+892,Buffalo Wild Wings,6537 Whitestown Pkwy,Zionsville,IN,46077,(317) 344-6120,A+,A+,B+,A,B,A+,B-,A+,B-,B,A-,A-,B+
+893,Buffalo Wild Wings,522 E Windsor Ave,Elkhart,IN,46514,(574) 226-0311,B+,C+,C-,B,A-,B,B+,B+,B,A-,B+,B+,A-
+894,Buffalo Wild Wings,2942 Carlson Dr,Hammond,IN,46323,(219) 844-2600,B,C,C,B-,A,B,A,B-,B-,A-,C+,A-,B+
+895,Buffalo Wild Wings,6530 Us Highway 6,Portage,IN,46368,(219) 762-2121,A-,B,A-,B+,A,A-,A-,B,B-,B+,B+,A-,A-
+896,Buffalo Wild Wings,10524 Maysville Rd,Fort Wayne,IN,46835,(260) 486-9464,A-,C+,C,A-,A-,B,B,A-,B,A,A-,C+,A-
+897,Buffalo Wild Wings,5519 Coventry Ln,Fort Wayne,IN,46804,(260) 459-3407,A+,A,C,A,A,A,B,A-,B,A-,A,B,B+
+898,Buffalo Wild Wings,1077 N Emerson Ave,Greenwood,IN,46143,(317) 859-2999,A,A-,B-,A-,B,A,B,A-,B,A-,A-,B+,B+
+899,Buffalo Wild Wings,10625 Pendleton Pike Ste A12,Indianapolis,IN,46236,(317) 826-4833,A,B,C-,A-,A-,A-,B+,A-,B-,B+,B+,B,C+
+900,Buffalo Wild Wings,2514 Lake Circle Dr,Indianapolis,IN,46268,(317) 872-9464,A-,B,C-,B-,A,B,A+,B-,B-,B+,A-,C+,A-
+901,Buffalo Wild Wings,1112 Veterans Pkwy,Clarksville,IN,47129,(812) 283-9464,B+,B-,B-,B,A,B,B,B,B,A-,B,B+,A-
+902,Buffalo Wild Wings,814 Crossings Rd,Sandusky,OH,44870,(419) 624-9464,A-,B-,B-,B,A,B+,A-,B-,B-,A-,A-,B,A-
+903,Buffalo Wild Wings,239 Midway Blvd,Elyria,OH,44035,(440) 324-5544,A-,B,B,B,A,A-,B+,B-,C+,A-,A-,A-,A-
+904,Buffalo Wild Wings,603 Hebron Rd,Heath,OH,43056,(740) 522-2999,B-,B-,B,B-,B,B-,B-,B-,B-,B+,B,B-,B
+905,Buffalo Wild Wings,6210 Wilmington Pike,Dayton,OH,45459,(937) 848-2999,A+,A+,C,A-,A-,A+,B,B+,B-,B+,A-,A-,A-
+906,Buffalo Wild Wings,425 W Dussel Dr,Maumee,OH,43537,(419) 893-9464,A,A,C-,A-,A,A,B,B+,C+,A-,B+,A-,B+
+907,Buffalo Wild Wings,32914 Walker Rd,Avon Lake,OH,44012,(440) 933-7325,A+,A+,B,A,A-,A+,B-,A-,C+,B,A,A-,A-
+908,Buffalo Wild Wings,1380 Cherry Bottom Rd,Columbus,OH,43230,(614) 478-7972,A+,A,C,A-,A,A+,B+,A-,B-,B+,A-,A-,A-
+909,Buffalo Wild Wings,9566 Diamond Centre Dr,Mentor,OH,44060,(440) 352-2999,A,A+,B,A-,A-,A,C+,B+,C+,A-,A-,A-,A-
+910,Buffalo Wild Wings,1120 Hotel Dr,Defiance,OH,43512,(419) 784-9464,A-,B+,B+,A-,A-,A-,B,B,B-,A-,B,B+,A-
+911,Buffalo Wild Wings,950 Great East Plz,Niles,OH,44446,(330) 505-2999,B+,B-,C+,B,A,B+,B-,B-,C,A,B,A-,A-
+912,Buffalo Wild Wings,2016 W 4th St,Ontario,OH,44906,(419) 525-2933,B+,B,C+,B,A-,B+,B,B-,C,A-,B+,A-,B
+913,Buffalo Wild Wings,6710 W Central Ave Ste 23,Toledo,OH,43617,(419) 843-2400,A,A,C-,B+,A-,A,B-,B+,C+,B+,B,A-,B
+914,Buffalo Wild Wings,11363 Montgomery Rd,Cincinnati,OH,45249,(513) 530-9464,A+,A+,C-,A-,B,A+,A-,B+,C+,B-,A-,A-,B
+915,Buffalo Wild Wings,7714 Montgomery Rd,Cincinnati,OH,45236,(513) 891-9453,A,B+,C-,B,A,A,A-,B,C+,B+,A,A-,A-
+916,Buffalo Wild Wings,3011 Westgate Mall,Cleveland,OH,44126,(440) 331-9464,A,B+,C-,B,A-,A-,B-,B,C,B+,A-,A,A-
+917,Buffalo Wild Wings,4122 Burbank Rd,Wooster,OH,44691,(330) 264-2299,A,B+,B-,B+,A-,A-,B-,A-,C+,A-,A-,A-,A-
+918,Buffalo Wild Wings,2151 N High St,Columbus,OH,43201,(614) 291-2362,A-,C,C,D+,A+,C+,B,C,B-,C+,A-,A-,A
+919,Buffalo Wild Wings,1080 N Bridge St Ste 49,Chillicothe,OH,45601,(740) 779-9464,B,B-,C,B,A-,B,B,B-,B-,A-,B,B+,A-
+920,Buffalo Wild Wings,2080 Michigan St,Sidney,OH,45365,(937) 492-2282,B,B-,B,B,A-,B+,B-,B,B-,A-,B,A-,B
+921,Buffalo Wild Wings,2313 W Main St,Troy,OH,45373,(937) 440-9016,A-,A-,B,B+,A-,A-,B-,B,B-,A-,B+,B-,A-
+922,Buffalo Wild Wings,5062 Dressler Rd NW,Canton,OH,44718,(330) 491-2999,A+,A+,C+,A-,A-,A+,B,A-,C+,B+,A-,A-,A-
+923,Buffalo Wild Wings,1900 Brown St,Dayton,OH,45409,(937) 222-9464,A,B+,C,B,A,A-,B-,B,B-,B+,A-,B+,A
+924,Buffalo Wild Wings,3417 Princeton Rd Ste 100,Hamilton,OH,45011,(513) 737-2999,A-,B+,C+,B+,A-,A,B+,B+,C+,B+,A-,A-,B+
+925,Buffalo Wild Wings,1248 Columbus Ave,Lebanon,OH,45036,(513) 228-2120,A,A,A-,A-,A-,A+,B,B+,C+,B+,B+,A-,B
+926,Buffalo Wild Wings,6000 Mahoning Ave,Youngstown,OH,44515,(330) 779-0201,B+,B+,C+,B+,A,B+,B-,B,C+,A,B,B+,B
+927,Buffalo Wild Wings,175 Rivers Edge,Milford,OH,45150,(513) 248-9464,A,A,B+,B+,A-,A,B-,B+,C+,B+,A-,A-,A-
+928,Buffalo Wild Wings,7875 Waynetowne Blvd,Dayton,OH,45424,(937) 237-7771,A-,B-,C,B,A,B+,A-,B,B-,A-,A-,A-,A-
+929,Buffalo Wild Wings,262 E Stroop Rd,Dayton,OH,45429,(937) 424-3999,A,A+,C,B+,A-,A,B-,B+,B-,B+,A-,B+,A-
+930,Buffalo Wild Wings,442 Fortman Dr,Saint Marys,OH,45885,(419) 300-8580,B+,B,A-,A-,A-,B,C+,B+,B,A-,B+,C-,A-
+931,Buffalo Wild Wings,4550 Glendale Milford Rd,Blue Ash,OH,45242,(513) 563-9464,A+,A+,C-,A-,A-,A+,B+,A-,C+,B,A,A-,A-
+932,Buffalo Wild Wings,2776 Centre Dr,Beavercreek,OH,45324,(937) 431-8555,A-,B,B,B,A,B+,B+,B,B-,A-,B,A-,A-
+933,Buffalo Wild Wings,152 Summit Ave,Circleville,OH,43113,(740) 420-2999,B,B-,B-,B-,A-,B,C+,B,B-,A-,B,A-,B
+934,Buffalo Wild Wings,26200 Harvard Rd,Beachwood,OH,44122,(216) 896-9464,A,B+,C-,B,A-,A,A,B+,C-,B,A-,B,A-
+935,Buffalo Wild Wings,907 Coshocton Ave,Mount Vernon,OH,43050,(740) 392-9464,B+,B-,A-,B,A-,A-,C+,B-,C+,A-,B+,A-,A-
+936,Buffalo Wild Wings,7741 Beechmont Ave,Cincinnati,OH,45255,(513) 231-1424,A,A+,C-,A-,A-,A+,B-,A-,B-,B+,B+,A-,B
+937,Buffalo Wild Wings,10 E Walnut St,Oxford,OH,45056,(513) 524-2999,A,A-,C+,B-,A,B+,C+,B+,C+,B,B,B-,A
+938,Buffalo Wild Wings,1550 E Wooster St,Bowling Green,OH,43402,(419) 353-2999,A,B+,A-,B-,A,A,B,B,C+,B+,A-,B+,A
+939,Buffalo Wild Wings,2200 Sean Dr Ste L,Fremont,OH,43420,(419) 332-2999,B,B-,C+,B,A-,B+,B+,B-,B-,A-,B,B+,B
+940,Buffalo Wild Wings,176 E Main St,Kent,OH,44240,(330) 678-9464,A,A-,B+,B,A,A,B,B,C,B+,A-,A-,A
+941,Buffalo Wild Wings,143 Fairway Dr,Wilmington,OH,45177,(937) 283-9464,B,B-,B,B,A-,B+,B-,C+,B-,A-,B-,B+,A-
+942,Buffalo Wild Wings,5020 Tiedeman Rd,Cleveland,OH,44144,(216) 331-4572,B,C-,C-,C+,A,B-,A-,B-,C,A-,B+,A-,A-
+943,Buffalo Wild Wings,12459 Cedar Rd,Cleveland,OH,44106,(216) 371-3331,B,D+,C-,D,A,C+,A,D+,C,B-,B+,A-,A
+944,Buffalo Wild Wings,949 N Lexington Springmill Rd,Ontario,OH,44906,(419) 525-2933,B+,B,C+,B,A-,B+,B,B-,C,A-,B+,A-,B
+945,Buffalo Wild Wings,1072 W High Ave,New Philadelphia,OH,44663,(330) 339-9464,B+,B,A-,B+,A-,B+,B-,B,B+,A-,B,B+,A-
+946,Buffalo Wild Wings,3660 Stonecreek Blvd,Cincinnati,OH,45251,(513) 245-1457,B,B-,C-,B,B,B+,A-,B,C+,A-,B+,A-,B
+947,Buffalo Wild Wings,1485 Wagner Ave,Greenville,OH,45331,(937) 459-4135,B,B-,B,B,A-,B,C+,B-,B-,A-,B-,B,A-
+948,Buffalo Wild Wings,310 W State St,Alliance,OH,44601,(330) 821-9464,B+,B+,C+,B,A-,B+,B,B-,C+,A-,A-,A,A-
+949,Buffalo Wild Wings,36455 Euclid Ave,Willoughby,OH,44094,(440) 527-8081,A,A-,B,B+,A,A,B-,B,C,B+,A-,A-,A-
+950,Buffalo Wild Wings,807 Polaris Pkwy,Westerville,OH,43082,(614) 523-3855,A+,A,A-,A-,A-,A+,B-,A+,B-,B,A,A-,B+
+951,Buffalo Wild Wings,100 Shaffer Park Dr,Tiffin,OH,44883,(419) 937-9464,A-,B-,B+,B+,A-,A-,B-,B-,C+,A,B+,A,A-
+952,Buffalo Wild Wings,724 Prospect Ave E,Cleveland,OH,44115,(216) 291-7772,C+,D+,C-,D-,A+,C,B-,D-,C,B-,A-,A-,A-
+953,Buffalo Wild Wings,2178 Anderson Ferry Rd,Cincinnati,OH,45238,(513) 922-2999,A-,B,C-,B,A,A-,B+,B-,C+,A-,A-,A-,B+
+954,Buffalo Wild Wings,3429 Towne Blvd,Middletown,OH,45005,(513) 422-6311,B+,B,A-,B,A-,A-,C+,B,B-,A-,A-,A-,B
+955,Buffalo Wild Wings,7714 Kenwood Rd,Cincinnati,OH,45236,(513) 891-9453,A,B+,C-,B,A,A,A-,B,C+,B+,A,A-,A-
+956,Buffalo Wild Wings,3878 Liberty Crossing Dr,Powell,OH,43065,(614) 766-5371,A+,A+,A-,A,A-,A+,B,A+,B-,B,A-,A-,B+
+957,Buffalo Wild Wings,50725 Ohio Valley Place Access Rd,Saint Clairsville,OH,43950,(740) 695-2800,B+,B,B+,A-,B,B,B,B+,C+,A,B-,C+,A-
+958,Buffalo Wild Wings,3011 Westgate,Cleveland,OH,44126,(440) 331-9464,A,B+,C-,B,A-,A-,B-,B,C,B+,A-,A,A-
+959,Buffalo Wild Wings,1830 State Route 96,Ashland,OH,44805,(419) 281-9464,A-,B,B+,B+,A-,A,C+,B+,C+,A-,B+,A-,A-
+960,Buffalo Wild Wings,7401 Market St Rm 801,Youngstown,OH,44512,(330) 726-1313,A,A,C+,A-,B,A,B,B+,C,A-,A-,A-,A-
+961,Buffalo Wild Wings,6050 Snider Rd,Mason,OH,45040,(513) 398-2999,A+,A+,A-,A,A,A+,B+,A,C+,B,A-,A,B+
+962,Buffalo Wild Wings,891 S Main St,Englewood,OH,45322,(937) 836-8555,A-,A-,C,B+,A-,B+,B,B,B-,A-,B+,A-,A-
+963,Buffalo Wild Wings,152 Graceland Blvd,Columbus,OH,43214,(614) 880-9348,A,C,C,B,A,A-,B,A-,B-,B+,A,A-,A
+964,Buffalo Wild Wings,5050 Eastpointe Dr,Medina,OH,44256,(330) 764-9464,A,A-,A-,A-,A-,A+,B-,B+,C+,B+,A-,A,B+
+965,Buffalo Wild Wings,9243 Schulze Dr,West Chester,OH,45069,(513) 942-9464,A+,A+,C+,A-,A-,A+,B+,A-,C+,B+,A-,A-,B+
+966,Buffalo Wild Wings,774 N Main St,Springboro,OH,45066,(937) 748-0401,A+,A,A-,A,A-,A+,B-,A,B-,B+,A-,A-,B
+967,Buffalo Wild Wings,651 Colemans Xing,Marysville,OH,43040,(937) 642-1452,A-,B+,A,B+,A-,A,B-,B+,B-,B+,B+,B+,A-
+968,Buffalo Wild Wings,2948 Allentown Rd,Lima,OH,45805,(419) 991-2999,A-,B+,C,B+,A,A-,B+,C+,B-,A-,B+,B+,A-
+969,Buffalo Wild Wings,15080 Flag City Dr,Findlay,OH,45840,(419) 422-9464,A,B+,B,B+,A,A,B,B+,B-,A-,A-,A-,A-
+970,Buffalo Wild Wings,1573 Marion Mount Gilead Rd,Marion,OH,43302,(740) 725-9464,B,B-,C+,B,A-,B,B,C+,B-,A-,B,A-,A-
+971,Buffalo Wild Wings,2692 Madison Rd Ste A7,Cincinnati,OH,45208,(513) 351-9464,A+,B,C-,B,A,A,B,A-,B-,B,A,A-,A-
+972,Buffalo Wild Wings,26567 Dixie Hwy Ste 142,Perrysburg,OH,43551,(419) 872-9464,A,A,A-,A-,A-,A+,B,A-,C+,B+,A-,B,A-
+973,Buffalo Wild Wings,1611 Chillicothe St,Portsmouth,OH,45662,(740) 355-1299,B,C+,C+,B-,A,C+,C+,C+,A,A,B,C+,A-
+974,Buffalo Wild Wings,207 E Roosevelt Rd,Lombard,IL,60148,(630) 889-9464,A+,A,A-,B,A,A+,A-,B,B-,B-,A,A,A-
+975,Buffalo Wild Wings,6120 Broadway St,Quincy,IL,62305,(217) 228-9288,B+,B-,B-,B+,B+,B,C+,B+,B+,A-,B+,C+,B
+976,Buffalo Wild Wings,3101 N Vermilion St,Danville,IL,61832,(217) 442-9464,B+,C,C+,B-,A,B,A-,C+,A-,A,B+,B+,A-
+977,Buffalo Wild Wings,1460 N Orchard Rd Ste 104,Aurora,IL,60506,(630) 907-2064,A-,B-,B,C+,A-,A-,A+,B-,B-,B,A,A,A-
+978,Buffalo Wild Wings,907 W Marketview Dr,Champaign,IL,61822,(217) 378-4400,A+,B+,C+,B+,A-,A,A-,A-,B+,B,A-,A-,A-
+979,Buffalo Wild Wings,149 N York St,Elmhurst,IL,60126,(630) 832-2999,A+,A+,A-,B+,A,A+,B,B+,B-,C+,A,A,A
+980,Buffalo Wild Wings,2012 N State Route 50,Bourbonnais,IL,60914,(815) 932-9453,A-,B,C+,B,A,B,B+,B,B-,B+,B+,B-,A-
+981,Buffalo Wild Wings,2466 Sycamore Rd,Dekalb,IL,60115,(815) 754-9299,A-,B-,B,C-,A,B+,A,C,C+,B-,A-,A,A
+982,Buffalo Wild Wings,851 S Route 51,Forsyth,IL,62535,(217) 877-8370,A-,B+,C+,B+,B-,A-,B,B+,B,B,B,C+,B
+983,Buffalo Wild Wings,111 Chicago Ridge Mall,Chicago Ridge,IL,60415,(708) 424-9464,B,B+,C-,C,A-,B,A-,C+,B-,B-,A-,A-,A-
+984,Buffalo Wild Wings,777 E Boughton Rd,Bolingbrook,IL,60440,(630) 739-2999,A,A-,B,B-,A,A,A+,B+,B-,B-,A-,A,A-
+985,Buffalo Wild Wings,7111 S Kingery Hwy,Willowbrook,IL,60527,(630) 455-6051,A+,A+,A-,B,B,A+,A,B,B-,C+,A,A,A-
+986,Buffalo Wild Wings,6275 E State St,Rockford,IL,61108,(815) 397-5649,B+,C+,C-,C+,A,B,A-,C+,C+,B+,A-,A-,A-
+987,Buffalo Wild Wings,4408 16th St,Moline,IL,61265,(309) 757-0774,A,B,B-,B+,A,A-,A-,B,B-,A-,A-,A-,A-
+988,Buffalo Wild Wings,2807 Plaza Dr,Peru,IL,61354,(815) 780-8283,A-,B-,B+,B,A,B+,B-,B,B-,A-,B+,B+,A-
+989,Buffalo Wild Wings,1250 Torrence Ave,Calumet City,IL,60409,(708) 782-1020,B-,C-,C-,C-,A-,C+,A-,C,B-,B-,A,A-,A-
+990,Buffalo Wild Wings,2555 W 75th St Ste 103,Naperville,IL,60540,(630) 369-9464,A+,A+,A-,A-,A,A+,A-,B+,B-,B-,A+,A,A
+991,Buffalo Wild Wings,3720 Ridge Rd,Lansing,IL,60438,(708) 895-3300,B+,C+,C-,C,A-,B-,A,C+,B-,B,A,A-,A-
+992,Buffalo Wild Wings,4304 E Lincolnway Ste A,Sterling,IL,61081,(815) 564-9284,A-,B,B,B+,A-,A-,B+,B-,B-,A-,B,B+,A-
+993,Buffalo Wild Wings,2808 N Dirksen Pkwy,Springfield,IL,62702,(217) 670-0048,B,C+,C,B-,A,B-,B+,C+,B,A-,B+,C+,A
+994,Buffalo Wild Wings,227 Potomac Blvd,Mount Vernon,IL,62864,(618) 246-2999,B+,C+,C,B,A-,B,B,B,B,A,B,A-,B+
+995,Buffalo Wild Wings,17510 Halsted St,Homewood,IL,60430,(708) 922-9453,A+,A-,C-,B,A-,A,A,B+,B-,B,A,A-,A
+996,Buffalo Wild Wings,1430 N Meacham Rd,Schaumburg,IL,60173,(847) 885-5870,A+,A+,C-,B,A+,A+,A,B+,C+,C+,A,A-,A
+997,Buffalo Wild Wings,7130 Cermak Rd,Berwyn,IL,60402,(708) 749-2319,B+,C+,C-,C,A,B,A,B-,B-,B,A-,A-,A
+998,Buffalo Wild Wings,140 S Gary Ave,Bloomingdale,IL,60108,(630) 893-6063,A,A,A-,B,A,A,A-,B,C+,C+,A,A,B
+999,Buffalo Wild Wings,1832 N Clybourn Ave,Chicago,IL,60614,(773) 868-9453,A+,C+,C-,C,A+,B+,B+,B+,B-,C,A,A,A
+1000,Buffalo Wild Wings,1001 Avenue Of Mid America Ste 1,Effingham,IL,62401,(217) 540-9464,A-,B,B,B+,A,A-,C+,A,B+,A-,B+,B+,A-
+1001,Buffalo Wild Wings,3343 Shoppers Dr,Mchenry,IL,60051,(815) 344-9069,B+,B,A-,B-,A-,A-,B,B-,C+,B,A-,A,B
+1002,Buffalo Wild Wings,11820 S Route 59,Plainfield,IL,60585,(815) 436-8130,A,A,B,B+,B-,A+,B,A,B-,C+,A-,A,B
+1003,Buffalo Wild Wings,1235 W Morton Ave,Jacksonville,IL,62650,(217) 866-1937,A-,B-,B,B+,A,B+,B,B,B,A-,B+,B,A-
+1004,Buffalo Wild Wings,414 Nelson Rd,New Lenox,IL,60451,(815) 463-9333,A,A-,B,B,A-,A,B-,A-,B-,B,A-,B+,A-
+1005,Buffalo Wild Wings,603 S Main St,Normal,IL,61761,(309) 808-4444,A+,A-,B,B,A,A,B+,B,B-,B,A-,B+,A
+1006,Buffalo Wild Wings,3333 Court St,Pekin,IL,61554,(309) 201-4159,B+,B,B,B+,A-,B,C+,B+,B-,A-,B+,C,A-
+1007,Buffalo Wild Wings,4905 Old Orchard Ctr,Skokie,IL,60077,(847) 674-2034,A+,A+,C-,B-,A,A,A+,B-,B-,C+,A,A-,A
+1008,Buffalo Wild Wings,513 W Taylor St,Chicago,IL,60607,(312) 588-0554,A+,C+,C-,C+,A+,B+,A,B+,B-,C+,A-,A,A
+1009,Buffalo Wild Wings,2650 N Narragansett Ave,Chicago,IL,60639,(773) 622-4392,B-,C+,C-,D,A,C+,B+,C-,B-,C+,A-,A,A
+1010,Buffalo Wild Wings,944 Elk Grove Town Ctr,Elk Grove Village,IL,60007,(847) 640-2327,A,A,C-,B-,A-,A,B+,B,C+,B-,A,A,A-
+1011,Buffalo Wild Wings,2685 Sycamore Dr,Morris,IL,60450,(815) 416-0048,A-,B+,A-,B,A-,A-,B,B-,B-,B,B+,A-,A-
+1012,Buffalo Wild Wings,820 Commons Dr,Geneva,IL,60134,(630) 262-9464,A+,A+,B,B,A-,A+,B-,B+,B-,C+,A,A,A
+1013,Buffalo Wild Wings,6130 Il Route 132,Gurnee,IL,60031,(847) 855-0887,A+,A,B,B+,B,A+,A,B+,C+,B-,A,A-,A-
+1014,Buffalo Wild Wings,1023 Brookforest Ave,Shorewood,IL,60404,(815) 439-3320,A,B+,B,B,A-,A,B+,A-,B-,B-,A-,A-,B+
+1015,Buffalo Wild Wings,1335 Savoy Plaza Ln,Savoy,IL,61874,(217) 356-9464,A+,B+,C+,B,A,A,A,A-,B+,B,A-,B+,A
+1016,Buffalo Wild Wings,28241 Diehl Rd,Warrenville,IL,60555,(630) 836-2999,A+,A+,A-,A-,A,A+,A-,B,B-,B-,A,A,A-
+1017,Buffalo Wild Wings,20596 S La Grange Rd,Frankfort,IL,60423,(815) 806-2223,A,A-,B,B,A-,A,B-,B+,B-,B-,A-,A-,B
+1018,Buffalo Wild Wings,1550 Douglas Rd,Oswego,IL,60543,(630) 554-5658,A,A,A,B,A-,A+,B+,A-,B-,B-,A-,A,B
+1019,Buffalo Wild Wings,74 S Weber Rd,Romeoville,IL,60446,(815) 372-2999,A-,B+,B,B-,A-,A-,A,B+,B-,B-,A-,A,B
+1020,Buffalo Wild Wings,3220 E Empire St,Bloomington,IL,61704,(309) 661-8027,A+,A-,B,A,A,A+,A-,A-,B-,B+,A-,B+,A-
+1021,Buffalo Wild Wings,5600 Belleville Crossing St,Belleville,IL,62226,(618) 222-9003,A-,A,C-,B+,A-,A-,A-,B-,B,B+,B+,A-,B+
+1022,Buffalo Wild Wings,7301 183rd St,Tinley Park,IL,60477,(708) 444-2223,A-,A-,C-,B-,A,B+,B+,B,B-,B-,A,A-,B+
+1023,Buffalo Wild Wings,5121 W American Prairie Dr,Peoria,IL,61615,(309) 691-9453,A,C+,C,B+,A,B+,A-,B,B-,B+,A-,B,B-
+1024,Buffalo Wild Wings,193 W 237th St,Bronx,NY,10463,(718) 549-9453,A,B,NG,C-,A,A-,A+,B-,B,C,A-,A,A
+1025,Buffalo Wild Wings,200 Township Blvd Ste 40,Camillus,NY,13031,(315) 708-0161,A-,A-,C,B+,A-,A,B-,A-,C-,B,A-,A-,B
+1026,Buffalo Wild Wings,1046 Ridge Rd. Towne Center at Webster,Webster,NY,14580,(585) 217-9446,A,A+,C,B+,A-,A,B-,A-,C-,B-,A,A,B+
+1027,Buffalo Wild Wings,13415 20th Ave,College Point,NY,11356,(718) 353-9453,B,B,NG,D,A,B,A+,C,B,C-,A,A,A
+1028,Buffalo Wild Wings,768 State Highway 28,Oneonta,NY,13820,(607) 353-7770,A,B,B,B-,A,A-,B,B-,C-,B-,A,A-,A
+1029,Buffalo Wild Wings,2319 Frederick Douglass Blvd,New York,NY,10027,(212) 665-9453,A,B,NG,C-,A+,A,A+,C+,B,C-,A+,A,A
+1030,Buffalo Wild Wings,3131 Long Beach Rd,Oceanside,NY,11572,(516) 536-9453,A,A+,B+,C+,A-,A,B,B,B,C-,A,A,A-
+1031,Buffalo Wild Wings,385 Route 25a,Miller Place,NY,11764,(631) 473-0282,A-,B+,A-,C+,A-,A,B-,B,B-,C-,A,A-,B
+1032,Buffalo Wild Wings,6 Green Acres Rd,Valley Stream,NY,11581,(516) 561-9453,A,A,B+,C,A,A,A,B-,B,C-,A-,A,A
+1033,Buffalo Wild Wings,750 W Sunrise Hwy,Valley Stream,NY,11581,(516) 561-9453,A,A,B+,C,A,A,A,B-,B,C-,A-,A,A
+1034,Buffalo Wild Wings,1594 La Salle Ave,Niagara Falls,NY,14301,(716) 297-1144,B-,C,C,C-,A,B-,A-,C-,C-,B,A-,A-,A
+1035,Buffalo Wild Wings,3035 Niagara Falls Blvd,Buffalo,NY,14228,(716) 691-5691,A,A+,C,B,A,A,A-,B,C-,C+,A,A-,A-
+1036,Buffalo Wild Wings,1068 N El Camino Real,Encinitas,CA,92024,(760) 942-2945,A+,A+,B-,C+,A,A+,B+,B-,A-,C-,A+,A,A
+1037,Buffalo Wild Wings,1640 Camino Del Rio N,San Diego,CA,92108,(619) 298-7068,A,B+,B-,C,A,B+,A,B-,A,C-,A+,A-,A-
+1038,Buffalo Wild Wings,2670 Tuscany St,Corona,CA,92881,(951) 739-9464,B+,A-,C+,C,A-,B+,A,B-,A-,C-,A,A-,B+
+1039,Buffalo Wild Wings,19252 Soledad Canyon Rd,Canyon Country,CA,91351,(661) 250-9464,B+,A,C,C-,A-,B,A,C,A,C-,A+,A,A-
+1040,Buffalo Wild Wings,6081 Center Dr,Los Angeles,CA,90045,(310) 338-1340,A,C,C,D,A,B-,A+,B-,A+,D+,A+,A,A
+1041,Buffalo Wild Wings,2015 Birch Rd,Chula Vista,CA,91915,(619) 216-6259,A,A,B-,C+,B,A,A,B-,A,C-,A+,A-,A-
+1042,Buffalo Wild Wings,3615 Midway Dr,San Diego,CA,92110,(619) 501-4721,A,B+,B-,C-,A,B+,A,B-,A,C-,A+,A,A
+1043,Buffalo Wild Wings,2685 Vista Way,Oceanside,CA,92054,(760) 966-2605,B+,B,B-,C-,A,B-,A,C,A,C-,A+,B+,A
+1044,Buffalo Wild Wings,9301 Tampa Ave,Northridge,CA,91324,(818) 886-8520,B+,C,C,D-,A,B-,A+,C+,A,D+,A+,A,A
+1045,Buffalo Wild Wings,10033 Whittwood Dr,Whittier,CA,90603,(562) 943-2813,B+,B-,C,C-,A-,B-,A,B-,A,C-,A+,A,A-
+1046,Buffalo Wild Wings,690 E Hospitality Ln,San Bernardino,CA,92408,(909) 380-7692,B-,C,C,D,A,C+,A,C,A-,C-,A,A-,A
+1047,Buffalo Wild Wings,"309 Madonna Rd,Central Coast Plaza Shopping Center",San Luis Obispo,CA,93405,(805) 785-0490,A-,A,B-,D+,A,B,A-,C+,A+,D+,A+,A,A
+1048,Buffalo Wild Wings,3775 Tyler St Suite 3A,Riverside,CA,92503,(951) 351-2463,B,B,C+,C-,A,B,A,C,A-,C-,A,A,A-
+1049,Buffalo Wild Wings,3811 S Bristol St,Santa Ana,CA,92704,(714) 540-1737,B-,B-,B-,D-,A,C+,A-,C,A,D+,A,A,A
+1050,Buffalo Wild Wings,736 E Del Amo Blvd,Carson,CA,90746,(310) 436-7793,B-,D+,C,D+,B,C,A,C,A,C-,A+,A,A-
+1051,Buffalo Wild Wings,142-C South Brand Street,Glendale,CA,91204,(818) 545-3885,B+,A-,C,C-,A,B,A+,C-,A,D+,A+,A,A
+1052,Buffalo Wild Wings,1555 Simi Town Center Way,Simi Valley,CA,93065,(805) 520-5815,B+,B,B-,C-,A-,B,A,C+,A,C-,A+,A,A-
+1053,Buffalo Wild Wings,1010 W San Marcos Blvd,San Marcos,CA,92078,(760) 471-1802,A-,A,B-,C-,A-,B+,A,C+,A-,D+,A+,A-,A-
+1054,Buffalo Wild Wings,1500 E Village Way,Orange,CA,92865,(714) 921-3105,A-,B-,B-,C-,A,B,A,B-,A,C-,A+,A,A
+1055,Buffalo Wild Wings,30123 Haun Rd,Menifee,CA,92584,(951) 246-7148,B-,B-,C+,C,B,B-,A,C+,B,C-,A-,A-,B+
+1056,Buffalo Wild Wings,510 E Danenberg Dr,El Centro,CA,92243,(760) 337-9481,B,B-,B-,C+,A-,B-,B+,C+,C,B-,A,B,A-
+1057,Buffalo Wild Wings,2685 N El Camino Real,Oceanside,CA,92058,(760) 966-2605,B,B,B-,D-,A,B-,A+,C-,A,D+,A+,B,A-
+1058,Buffalo Wild Wings,3525 Del Amo Fashion Sq,Torrance,CA,90503,(310) 542-3400,A,A+,C,C-,A,A,A+,B-,A+,D+,A+,A,A-
+1059,Buffalo Wild Wings,3775 Galleria At Tyler,Riverside,CA,92503,(951) 351-2463,B,B,C+,C-,A,B,A,C,A-,C-,A,A,A-
+1060,Buffalo Wild Wings,795 E Betteravia Rd,Santa Maria,CA,93454,(805) 354-0464,B,B-,C+,D+,A-,C+,A,C,A,C-,A+,B,A
+1061,Buffalo Wild Wings,40484 Murrieta Hot Springs Rd Ste 105,Murrieta,CA,92563,(951) 677-3636,B+,A,C+,C,B,A-,A+,B-,B,C-,A,A,B+
+1062,Buffalo Wild Wings,40155 10th St W,Palmdale,CA,93551,(661) 947-0900,B+,B-,C,C+,A-,B-,A+,B-,A-,C,A+,B,A-
+1063,Buffalo Wild Wings,1620 Saratoga Ave,San Jose,CA,95129,(408) 370-6701,A+,A+,B-,C,A-,A+,A-,B+,A,C-,A+,A,A-
+1064,Buffalo Wild Wings,6301 Sunrise Blvd,Citrus Heights,CA,95610,(916) 729-9464,B+,B,C,C-,A,B-,A-,C,A,C,A,A-,A-
+1065,Buffalo Wild Wings,2759 E Bidwell St,Folsom,CA,95630,(916) 496-8700,A+,A,C,B-,A,A,A,B+,A+,C-,A,A,A-
+1066,Buffalo Wild Wings,4751 Pacific Ave,Stockton,CA,95207,(209) 478-4351,B+,B,C-,C-,A,B,A+,C-,A-,C,A-,A,A
+1067,Buffalo Wild Wings,3065 E Shaw Ave,Fresno,CA,93710,(559) 348-9080,B+,C-,C,C-,A,C+,A+,C,A,C+,A,B+,A
+1068,Buffalo Wild Wings,1601 E Monte Vista Ave,Vacaville,CA,95688,(707) 474-5222,B+,B,C,C,A-,B-,A,C+,A,C-,A,B+,A-
+1069,Buffalo Wild Wings,1350 Travis Blvd Unit 1510a,Fairfield,CA,94533,(707) 422-9964,B+,B-,C,C-,A,B,A+,C,A,C,A,A,A-
+1070,Buffalo Wild Wings,4125 S Mooney Blvd,Visalia,CA,93277,(559) 635-0785,B+,B,C+,C+,B,B,A,B-,A,B-,A,B,A-
+1071,Buffalo Wild Wings,6051 Lone Tree Way,Brentwood,CA,94513,(925) 240-7481,B+,A-,C+,C-,A-,B+,A,B-,B+,C-,A+,A,A-
+1072,Buffalo Wild Wings,3600 N Freeway Blvd,Sacramento,CA,95834,(916) 928-5748,B+,B-,C,C-,B+,B,A+,C+,A,C,A,A-,A-
+1073,Buffalo Wild Wings,200 Montgomery St,San Ramon,CA,94583,(925) 380-6631,A+,A+,C+,C+,A-,A+,A,B,A-,C-,A+,A,A
+1074,Buffalo Wild Wings,859 Blossom Hill Rd,San Jose,CA,95123,(408) 363-1690,A-,B,B-,D+,A-,B+,A+,B-,A,D+,A+,A,A-
+1075,Buffalo Wild Wings,2796 Naglee Rd,Tracy,CA,95304,(209) 833-3819,B-,B,C-,C-,A-,C,A+,C,A-,C-,B+,B,A-
+1076,Buffalo Wild Wings,1553 Fremont Blvd,Seaside,CA,93955,(831) 394-4483,B,B-,C,D-,A,C,A+,C-,A+,C-,A,B+,A
+1077,Buffalo Wild Wings,1988 N Main St,Salinas,CA,93906,(831) 449-2863,C+,C,C,D,B,C+,A-,C-,A+,C-,A,A,A-
+1078,Buffalo Wild Wings,5b Serramonte Ctr,Daly City,CA,94015,(650) 997-3021,A-,B+,B,D+,A,B+,A,B-,A+,D+,A+,A,A
+1079,Buffalo Wild Wings,401 Kenilworth Dr,Petaluma,CA,94952,(707) 765-9464,A,A,B-,C-,A,B+,A-,B-,A,C-,A+,B+,A
+1080,Buffalo Wild Wings,1790 1st St,Livermore,CA,94550,(925) 373-9464,A-,A,C,C-,A-,B,A-,B,A-,C-,A+,B+,A
+1081,Buffalo Wild Wings,32135 Union Lndg,Union City,CA,94587,(510) 471-2329,A-,A-,C,C-,A,B+,A+,B-,A,D+,A,A,A-
+1082,Buffalo Wild Wings,43821 Pacific Commons Blvd,Fremont,CA,94538,(510) 656-1634,A,A,C,C-,A,A-,A+,B,A,D+,A+,A,A
+1083,Buffalo Wild Wings,2739 Countryside Dr,Turlock,CA,95380,(209) 668-3395,B,B+,C,C-,A-,B,A,C-,B,C,A,A-,A-
+1084,Buffalo Wild Wings,1090 Harter Pkwy,Yuba City,CA,95993,(530) 755-9851,B+,B,C+,C+,A-,B-,A+,C+,A,C+,A,B-,A-
+1085,Buffalo Wild Wings,845 East Ave,Chico,CA,95926,(530) 592-3251,A-,A-,C+,C-,A,B+,A-,C,A-,C-,A,A,A
+1086,Buffalo Wild Wings,3331 W Shaw Ave,Fresno,CA,93711,(559) 230-1641,A-,B-,C,C,A-,B-,A,B,A,C,A,B,A-
+1087,Buffalo Wild Wings,24542 Hesperian Blvd,Hayward,CA,94545,(510) 782-6733,B+,C,C,D+,A-,B-,A+,C+,A,C-,A+,A,A-
+1088,Buffalo Wild Wings,2090 Diamond Blvd,Concord,CA,94520,(925) 609-9784,B,B-,C+,D,A,B-,A+,C-,A-,C-,A+,A,A
+1089,Buffalo Wild Wings,1537 S Lower Sacramento Rd Ste 110,Lodi,CA,95242,(209) 365-1693,B,B,C-,C,B-,B-,A,C+,A,C,A,B,A-
+1090,Buffalo Wild Wings,1699 W Lacey Blvd,Hanford,CA,93230,(559) 583-1262,B+,B-,C+,C+,A-,B,A,C+,A-,B-,A,B,A-
+1091,Buffalo Wild Wings,1168 Galleria Blvd,Roseville,CA,95678,(916) 742-5153,A,B+,B,C,A,A-,A,B-,A+,C-,A+,A,A
+1092,Buffalo Wild Wings,6805 Camino Arroyo,Gilroy,CA,95020,(408) 842-1668,B+,B-,B-,D+,A-,B,A,C+,A-,C-,A+,A,A-
+1093,Buffalo Wild Wings,3401 Vintage Faire Mall,Modesto,CA,95356,(209) 530-9464,A-,B+,C,C+,A,B,A+,B-,A,C+,A,B,A-
+1094,Buffalo Wild Wings,3401 Dale Rd,Modesto,CA,95356,(209) 530-9464,A-,B+,C,C+,A,B,A+,B-,A,C+,A,B,A-
+1095,Buffalo Wild Wings,480 Home Dr,Pittsburgh,PA,15275,(412) 788-9464,,,,,,,,,,,,,
+1096,Buffalo Wild Wings,3450 William Penn Hwy,Pittsburgh,PA,15235,(412) 829-2444,A-,C,C+,B-,A,B,A,B,C,B,B+,B+,A-
+1097,Buffalo Wild Wings,8171 S Howell Ave Ste 100,Oak Creek,WI,53154,(414) 570-9464,A-,A-,C-,B-,A,A-,B+,B,C+,B,B,A,B+
+1098,Buffalo Wild Wings,421 N Casaloma Dr,Appleton,WI,54913,(920) 735-2999,A,A-,B,A-,A-,A,B-,A-,C,B+,A-,A-,B+
+1099,Buffalo Wild Wings,121 N Pioneer Rd,Fond Du Lac,WI,54935,(920) 907-1960,A-,B-,B,B,A,A-,B,B,C+,A-,A-,A-,A-
+1100,Buffalo Wild Wings,3132 Market Pl,Onalaska,WI,54650,(608) 781-9453,A,A,B,B+,A-,A,B,B+,C+,B+,A-,A-,A-
+1101,Buffalo Wild Wings,14215 Fm 2920 Rd,Tomball,TX,77377,(281) 255-3000,A,A,C-,A-,A-,A,A,A,B+,B,A-,B+,B+
+1102,Buffalo Wild Wings,2315 W Interstate 20,Grand Prairie,TX,75052,(972) 641-9464,A-,B-,C,B,B,A-,A+,B+,A-,B,B+,B+,B-
+1103,Buffalo Wild Wings,5601 S Hulen St,Fort Worth,TX,76132,(817) 423-2999,A-,C+,C+,C-,A,B,A,B+,B+,B-,B+,B-,A-
+1104,Buffalo Wild Wings,1635 N Highway 77,Waxahachie,TX,75165,(972) 937-8936,A-,A-,B,B+,B,A-,A,A-,A-,B+,B+,B-,A-
+1105,Buffalo Wild Wings,13000 N Interstate 35 Bldg 4,Austin,TX,78753,(512) 339-0772,A-,A-,C+,C+,A,B+,A,B,A-,B-,A,B+,A-
+1106,Buffalo Wild Wings,3625 Central Expy,Plano,TX,75023,(469) 467-9464,A+,A+,B+,A,A-,A+,A,A,B+,B,A,B-,A-
+1107,Buffalo Wild Wings,3939 Washington Ave,Houston,TX,77007,(832) 356-2980,A+,B,C-,B+,A+,A,A,A+,B+,B-,A,A-,A-
+1108,Buffalo Wild Wings,3111 Midwestern Pkwy Ste 180,Wichita Falls,TX,76308,(940) 696-9464,A,B+,C+,B,A,B+,A-,B+,B+,B+,A-,C+,B
+1109,Buffalo Wild Wings,7604 N Interstate 35,Austin,TX,78752,(512) 323-9061,A-,B+,C+,C,A,B+,A,B-,A-,B-,A,B+,A
+1110,Buffalo Wild Wings,5411 W Loop 1604 N,San Antonio,TX,78253,(210) 520-4127,A,A-,C,A-,A-,B+,A,A,B+,B,A-,C-,B-
+1111,Buffalo Wild Wings,901 Little Texas Ln,Austin,TX,78745,(512) 912-1147,A,B+,C+,B,A,A-,A,A-,A-,B-,A+,A-,A
+1112,Buffalo Wild Wings,2002 Ruben Torres Sr Blvd,Brownsville,TX,78526,(956) 541-9777,B+,B+,B-,B+,A-,B,B-,B,A-,B+,A-,C-,B+
+1113,Buffalo Wild Wings,3211 Preston Rd Ste 8,Frisco,TX,75034,(972) 668-9100,A+,A+,B,A,A-,A+,A,A+,B+,B-,A,B-,B+
+1114,Buffalo Wild Wings,7823 S Zarzamora St,San Antonio,TX,78224,(210) 923-0700,B-,C+,C,B-,B,C+,B-,B,B+,A-,A-,C+,B
+1115,Buffalo Wild Wings,1400 S Loop 288 Ste 110,Denton,TX,76205,(940) 387-0924,A,A-,B,C+,A,B+,A,B,A-,B-,A,B-,A
+1116,Buffalo Wild Wings,11803 Westheimer Rd Ste 780,Houston,TX,77077,(281) 497-9464,A+,A-,C-,B,A,A,A+,A-,B+,B-,A-,B+,A-
+1117,Buffalo Wild Wings,5805 Highway 6 N,Houston,TX,77084,(281) 200-9464,A,A+,C-,B+,A,A,A+,A-,B+,B,A,B+,A-
+1118,Buffalo Wild Wings,1617 Pleasonton Rd,El Paso,TX,79906,(915) 566-2999,B+,B,B-,C-,A,B,A,C+,A,C+,B-,C,A
+1119,Buffalo Wild Wings,9511 E Interstate 40,Amarillo,TX,79118,(806) 335-2200,B+,A,A-,A-,A-,B+,A-,A,B+,B+,B-,D,B
+1120,Buffalo Wild Wings,7916 S Broadway Ave,Tyler,TX,75703,(903) 939-0698,A,A-,B-,B,A,A-,A-,B+,A,B,A-,B+,B
+1121,Buffalo Wild Wings,7905 N Navarro St Ste 300,Victoria,TX,77904,(361) 575-9464,A-,C+,C+,B+,A-,B-,A,A,A+,B+,B+,C-,B
+1122,Buffalo Wild Wings,655 Sunland Park Dr,El Paso,TX,79912,(915) 584-3241,A+,B+,B-,B,A,A,A,B+,A,B,A,B,A-
+1123,Buffalo Wild Wings,19910 Park Row Dr,Katy,TX,77449,(281) 579-7541,A,A+,C-,B+,A-,A,A,B+,B+,B,A-,B+,B+
+1124,Buffalo Wild Wings,3780 Justin Rd,Lewisville,TX,75077,(972) 966-0800,A+,A,B,A-,A-,A+,B+,A+,A-,B,A,B-,B
+1125,Buffalo Wild Wings,1401 Highway 6 Ste B,Sugar Land,TX,77478,(281) 313-9464,A+,A+,B-,A-,A,A+,A,A+,B+,B-,A+,A-,A-
+1126,Buffalo Wild Wings,3939 Dowlen Rd Ste 11,Beaumont,TX,77706,(409) 924-8646,A,B,C-,B,A,A-,A,B+,B+,B+,B+,B+,B
+1127,Buffalo Wild Wings,8845 Memorial Blvd Ste 200,Port Arthur,TX,77640,(409) 724-0046,B,C,C-,B-,A-,C+,A,C+,A,A-,C+,B-,A-
+1128,Buffalo Wild Wings,6604 Garth Rd,Baytown,TX,77521,(281) 421-7606,A-,B,C-,B,A-,B+,A+,B+,B,B+,A,A-,A-
+1129,Buffalo Wild Wings,4320 Saint Michael Dr,Texarkana,TX,75503,(903) 334-9455,A-,A,C,B+,B,A-,A-,B+,A-,B,B+,B,B
+1130,Buffalo Wild Wings,510 Gray St Ste C,Houston,TX,77002,(713) 650-0002,A,B,C-,B-,A+,C+,A+,B+,B+,B-,A,A-,A
+1131,Buffalo Wild Wings,511 W Commerce St,Brownwood,TX,76801,(325) 641-1400,B+,B,B-,B,A-,B,A-,B+,A-,A-,B+,D+,A-
+1132,Buffalo Wild Wings,1933 Airport Fwy,Bedford,TX,76021,(817) 283-9464,A,A+,C+,B+,A-,A,A-,A,A-,B,A-,C+,B+
+1133,Buffalo Wild Wings,300 Highway 332 E,Lake Jackson,TX,77566,(979) 297-3614,A,B,B,A-,B,A,A,A,A-,B+,A-,A-,B
+1134,Buffalo Wild Wings,951 E Interstate 30,Rockwall,TX,75087,(972) 722-5100,A,A,B+,A-,B,A+,B+,A+,B+,B,A-,B+,B
+1135,Buffalo Wild Wings,8450 N Interstate 35,San Antonio,TX,78239,(210) 599-2835,B+,B-,C,B,B,B,A+,B+,A-,B+,A-,C+,B
+1136,Buffalo Wild Wings,203 Interstate 45 S,Huntsville,TX,77340,(936) 291-0390,B+,B-,C+,C-,A,B-,A,B-,B+,B-,B+,B+,B
+1137,Buffalo Wild Wings,15800 North Fwy,Houston,TX,77090,(281) 443-0760,B,C,C-,C-,A,C,A,B,B+,B-,A,C+,A-
+1138,Buffalo Wild Wings,7638 82nd St,Lubbock,TX,79424,(806) 855-4992,A,A,C,A-,A,A,B+,A,B+,B+,A-,C+,B
+1139,Buffalo Wild Wings,2100 Ruben Torres Sr Blvd,Brownsville,TX,78526,(956) 541-9777,B+,B+,B-,B+,A-,B,B-,B,A-,B+,A-,C-,B+
+1140,Buffalo Wild Wings,1010 W Overland Trl,Abilene,TX,79601,(325) 704-5480,A-,B,B,B,A,B,A,B-,A-,A-,B,C,A
+1141,Buffalo Wild Wings,2312 W Loop 340,Waco,TX,76711,(254) 662-0921,B-,C+,C+,C+,A-,B-,A-,B-,A,A-,C+,B,B-
+1142,Buffalo Wild Wings,1010 E Overland Trl,Abilene,TX,79601,(325) 704-5480,A-,B,B,B,A,B,A,B-,A-,A-,B,C,A
+1143,Buffalo Wild Wings,7916a S Broadway Ave,Tyler,TX,75703,(903) 939-0698,A,A-,B-,B,A,A-,A-,B+,A,B,A-,B+,B
+1144,Buffalo Wild Wings,1400 N Loop 288 Ste 110,Denton,TX,76209,(940) 387-0924,A,A-,B,B+,B,A-,A,B+,A-,B,A-,B-,A-
+1145,Buffalo Wild Wings,1007 W University Ave Suite 1,Georgetown,TX,78628,(512) 763-1367,A+,A,B+,B+,A-,A+,B+,A,B+,B,A,A-,B
+1146,Buffalo Wild Wings,1400 N Interstate 35,New Braunfels,TX,78130,(830) 625-2549,A-,B+,B-,B,A,A-,A,A,B+,B,A-,C+,B+
+1147,Buffalo Wild Wings,17195 Willow Brook Park,Houston,TX,77066,(281) 955-7800,A-,B,C-,B,A-,B+,A+,A-,B+,B+,A-,B,A-
+1148,Buffalo Wild Wings,3651 W O S T Dr,Houston,TX,77013,(713) 581-7955,B,B,C-,C+,A-,B-,B+,B,B+,B+,B+,A-,A-
+1149,Buffalo Wild Wings,6629 San Dario Ave,Laredo,TX,78041,(956) 725-9464,B,B-,B-,C,A,C+,B-,B+,A-,B,A-,C-,A-
+1150,Buffalo Wild Wings,21322 Kuykendahl Rd Ste A,Spring,TX,77379,(281) 288-7300,A+,A+,C-,A-,A-,A+,A,A,B+,B,A,B+,B+
+1151,Buffalo Wild Wings,105 Miles Way Ste 100,Lufkin,TX,75901,(936) 639-3700,A-,B+,B-,B+,A-,B+,A,B-,A,A-,B,B-,A-
+1152,Buffalo Wild Wings,528 W Bay Area Blvd Ste 400,Webster,TX,77598,(281) 338-9464,A,A,C-,B,A,A-,A+,B+,B+,B,A-,A-,A
+1153,Buffalo Wild Wings,4235 Dowlen Rd,Beaumont,TX,77706,(409) 924-8646,A,B,C-,B,A,A-,A,B+,B+,B+,B+,B+,B
+1154,Buffalo Wild Wings,6840 Fm 1960 Rd E,Humble,TX,77346,(281) 883-4874,A,A,C-,B+,A-,A,A,A,B+,B,A-,B+,B+
+1155,Buffalo Wild Wings,2613 S Stemmons Fwy,Lewisville,TX,75067,(214) 488-3700,A,A-,B,B,A,A,A+,A,A-,B,A,C+,A-
+1156,Buffalo Wild Wings,4066 N Us Highway 75,Sherman,TX,75090,(903) 892-4500,B+,B+,C+,B-,A-,B,A,C+,B+,B+,A-,C+,A-
+1157,Buffalo Wild Wings,2525 Rice Blvd,Houston,TX,77005,(713) 521-1100,A+,B+,C-,C+,A,A,B,A,B+,C+,A,A-,A
+1158,Buffalo Wild Wings,6320 19th St,Lubbock,TX,79407,(806) 785-9464,A-,A,C+,B+,B,B,A,A-,B+,B+,A-,C-,A-
+1159,Buffalo Wild Wings,7903 Pat Booker Rd,Live Oak,TX,78233,(210) 653-8903,A-,B,C,B,A,B,A,B+,A-,B+,A-,C+,A-
+1160,Buffalo Wild Wings,2035 N Central Expy Ste 610,McKinney,TX,75070,(972) 548-0746,A+,A+,B+,A,A-,A+,A-,A+,B+,B-,A,B-,B+
+1161,Buffalo Wild Wings,5815 E Sam Houston Pkwy N,Houston,TX,77049,(281) 458-3100,B,B-,C-,B-,B,B,A,B,B+,B+,A-,A-,B
+1162,Buffalo Wild Wings,3072 N Eastman Rd,Longview,TX,75605,(903) 663-3151,A-,A-,C+,B,B,B+,B+,A-,A-,B+,B+,C+,B
+1163,Buffalo Wild Wings,12312 Bermuda Crossroad Ln,Chester,VA,23831,(804) 318-9791,A,B,NG,B,B,A,A,A-,A-,B,A,A-,B+
+1164,Buffalo Wild Wings,420 Monticello Ave Ste 150,Norfolk,VA,23510,(757) 965-3959,A,B-,NG,C-,A+,A-,A,C-,B+,C,A-,A-,A
+1165,Buffalo Wild Wings,5143 Wellington Rd,Gainesville,VA,20155,(703) 754-7017,A+,A,A,B+,B,A+,A-,A,B,C+,A,B+,B
+1166,Buffalo Wild Wings,7732 Richmond Hwy,Alexandria,VA,22306,(703) 619-5090,A-,B,A-,C-,B,A-,A+,C+,B,C,A,A,B+
+1167,Buffalo Wild Wings,7386 Harbour Towne Pkwy Ste 67,Suffolk,VA,23435,(757) 483-8997,A-,B-,NG,B-,B,A,A,B,B+,B-,B+,A-,B
+1168,Buffalo Wild Wings,291 University Blvd Ste A,Harrisonburg,VA,22801,(540) 438-9790,A,B+,A+,C,A,A,A-,B-,B,C+,A,A-,A
+1169,Buffalo Wild Wings,5275b Leesburg Pike,Falls Church,VA,22041,(703) 820-1765,A,B,A-,C-,B+,A-,A+,C+,B,C,A+,A,A
+1170,Buffalo Wild Wings,15700 Wc Main St,Midlothian,VA,23113,(804) 594-6853,A+,A-,NG,B+,B,A+,B,A,A,B-,A,B,B
+1171,Buffalo Wild Wings,11204 James Swart Cir,Fairfax,VA,22030,(703) 267-6979,A+,A+,A-,B,A,A+,A,B,B,C,A+,A,A
+1172,Buffalo Wild Wings,3415 Riverside Dr,Danville,VA,24541,(434) 797-9464,A-,B-,A,B,A-,B+,A,C+,B+,A-,B+,B-,A-
+1173,Buffalo Wild Wings,10107 Southpoint Pkwy,Fredericksburg,VA,22407,(540) 891-0870,A-,B+,NG,B,A-,A-,A,A-,B,B-,B,B,A-
+1174,Buffalo Wild Wings,10061 Market Cir,Manassas,VA,20110,(703) 335-2672,A-,B-,NG,C+,B+,A-,A+,B-,B,C+,A,A-,A-
+1175,Buffalo Wild Wings,1935 Arlington Blvd,Charlottesville,VA,22903,(434) 977-1882,A+,A,NG,C+,A,A+,A,B,B,C+,A,A-,A
+1176,Buffalo Wild Wings,3300 Princess Anne Rd Ste 755,Virginia Beach,VA,23456,(757) 468-9464,A,A,NG,B,B,A+,A-,B,B+,C+,A,B+,A-
+1177,Buffalo Wild Wings,3812 Wards Rd,Lynchburg,VA,24502,(434) 237-8111,A,B,NG,B-,B+,A,A-,B,B+,B,A,A-,A-
+1178,Buffalo Wild Wings,240 Abrams Falls Rd,Bristol,VA,24202,(276) 644-4920,B,B,B+,A-,B-,B,C+,B,A-,A-,B+,B-,C+
+1179,Buffalo Wild Wings,360 Albert Ave,East Lansing,MI,48823,(517) 333-2999,A+,A,C,C+,A,A,B+,B-,C,B-,A,B+,A
+1180,Buffalo Wild Wings,770 N Lapeer Rd,Lake Orion,MI,48362,(248) 814-8600,A,A,B,A,A-,A+,B-,B+,C+,B+,A,A-,A-
+1181,Buffalo Wild Wings,718 Delta Commerce Dr,Lansing,MI,48917,(517) 886-9464,A,B,B+,B+,A,A,A,B,C,B+,B+,B+,A-
+1182,Buffalo Wild Wings,5775 Beckley Road Suite 655 Lakeview Square Mall,Battle Creek,MI,49015,(269) 979-9464,A-,B+,C,B+,A-,A-,B+,B,C-,A-,B+,B,B
+1183,Buffalo Wild Wings,1218 Randolph St,Detroit,MI,48226,(313) 961-9453,A-,D+,C-,C,A+,C,A,C+,C+,B-,A-,A-,A
+1184,Buffalo Wild Wings,4516 I 75 Business Spur,Sault Sainte Marie,MI,49783,(906) 253-6570,B+,C,B+,B,A,B,NG,B,D+,A-,B,C+,A-
+1185,Buffalo Wild Wings,3192 S Linden Rd Ste A,Flint,MI,48507,(810) 230-1299,B,B,C,C+,A,B,A-,C,C,A-,B+,B+,A-
+1186,Buffalo Wild Wings,700 S Main St Ste 101a,Lapeer,MI,48446,(810) 667-7210,B+,C+,B+,B,A-,B,B-,B,C+,A-,A-,B+,A-
+1187,Buffalo Wild Wings,20990 West Rd,Woodhaven,MI,48183,(734) 676-9464,B+,B,C-,B,A-,B+,B,B,C+,A-,A-,A-,B+
+1188,Buffalo Wild Wings,31205 Orchard Lake Rd,Farmington Hills,MI,48334,(248) 737-9464,A+,A-,B,B+,B,A+,A,B+,C+,B,A,A-,A-
+1189,Buffalo Wild Wings,23117 Harper Ave,Saint Clair Shores,MI,48080,(586) 777-9464,A-,B,B-,B+,A-,B+,B,B+,B-,B+,A-,B+,A-
+1190,Buffalo Wild Wings,4536 I 75 Business Spur,Sault Sainte Marie,MI,49783,(906) 253-9570,B+,C,B+,B,A,B,NG,B,D+,A-,B,C+,A-
+1191,Buffalo Wild Wings,3150 Boardwalk St,Ann Arbor,MI,48108,(734) 997-9464,A+,A+,B,A-,A,A+,A,B+,C+,B,A+,A,A
+1192,Buffalo Wild Wings,5223 Highland Rd,Waterford,MI,48327,(248) 674-9464,A-,B-,B,B,A,B+,B,B,C+,A-,A-,A-,B+
+1193,Buffalo Wild Wings,2305 Snowdrift Dr,Gaylord,MI,49735,(989) 705-1000,B+,B,B-,B+,A-,B+,C+,B,C,A-,B+,B,A-
+1194,Buffalo Wild Wings,2939 Niles Ave,Saint Joseph,MI,49085,(269) 983-6200,A,A,C+,A,A-,A+,B,A-,C+,A-,B+,A-,A-
+1195,Buffalo Wild Wings,500 S Main St,Royal Oak,MI,48067,(248) 744-4470,A+,B+,B,A,A+,A,B-,A-,C+,B+,A,A-,A-
+1196,Buffalo Wild Wings,2180 Anderson Rd Ste 110,Petoskey,MI,49770,(231) 439-9153,A,A-,A,B+,A-,A,B-,B+,C,B+,A,B,A-
+1197,Buffalo Wild Wings,8811 Main St,Birch Run,MI,48415,(989) 244-6430,B,C+,C+,B+,A-,B-,B-,B,C,A-,C+,B-,B+
+1198,Buffalo Wild Wings,125 E Us Highway 223,Adrian,MI,49221,(517) 577-6955,B+,C+,A-,B,A-,B,B+,C+,B-,A-,B+,B-,A-
+1199,Buffalo Wild Wings,721 S Centerville Rd,Sturgis,MI,49091,(269) 503-7500,B,B-,B-,B,B,B,B,C+,B,A-,B,B-,A-
+1200,Buffalo Wild Wings,9745 Village Place Blvd,Brighton,MI,48116,(810) 227-2999,A+,A,A-,A,A-,A+,C+,A-,C+,B+,A,A-,A-
+1201,Buffalo Wild Wings,13655 Eureka Rd,Southgate,MI,48195,(734) 281-2999,B,C,C-,C+,A,C+,B,B,C+,A-,B+,A-,A-
+1202,Buffalo Wild Wings,6677 N Wayne Rd,Westland,MI,48185,(734) 641-4000,B+,B-,C-,B-,A,B,A-,B-,C+,B+,B+,A-,A-
+1203,Buffalo Wild Wings,1873 E Big Beaver Rd,Troy,MI,48083,(248) 743-1299,A+,A-,B,A-,A,A+,A,B+,C+,B+,A,A-,A-
+1204,Buffalo Wild Wings,2035 28th St SE,Grand Rapids,MI,49508,(616) 241-2999,A,B+,C+,B,A,A,A,B,C-,B+,A,A-,A-
+1205,Buffalo Wild Wings,2720 44th St SW,Wyoming,MI,49519,(616) 261-9464,A-,B-,C+,B,A,A-,A-,B+,C-,A-,A-,A,A-
+1206,Buffalo Wild Wings,8669 26 Mile Rd,Washington,MI,48094,(586) 677-9932,B+,B,B-,B+,B-,A-,B,A-,C+,B,A-,B+,B-
+1207,Buffalo Wild Wings,1904 S Mission St,Mount Pleasant,MI,48858,(989) 772-9464,A-,B,B+,B-,A,A-,B,B-,C,B+,A-,A-,A

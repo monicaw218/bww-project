@@ -1,0 +1,22 @@
+{
+  "name": "bww1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-d3-basic": "^1.6.11",
+    "react-d3-components": "^0.9.0",
+    "react-dom": "^16.2.0",
+    "react-highcharts": "^16.0.2",
+    "react-scripts": "1.1.1",
+    "webpack-cli": "^2.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
