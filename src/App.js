@@ -10,7 +10,7 @@ const control_api = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample
 class App extends Component {
 	state = {
 		bwwareas: [], controlareas: [],
-		bwwaplus: [],bwwa: [], bwwaminus: [],
+		bwwaplus: [], bwwa: [], bwwaminus: [],
 		bwwbplus: [], bwwb: [], bwwbminus: [],
 		bwwcplus: [], bwwc: [], bwwcimnus: [],
 		bwwdplus: [], bwwd: [], bwwdminus: [],
@@ -74,7 +74,7 @@ class App extends Component {
 		});
 		})
 	}
-
+	
 	render() {
 		const config = {
 				chart: { type: 'column' },
@@ -142,35 +142,37 @@ class App extends Component {
 		}
 		
 		return (
+		
 		<div className="App">
-		<header className="App-header">
-			<img src={bwwlogo} className="App-logo" alt="bwwlogo" />
-			<h1 className="App-title">The Buffalo Wild Wings Project</h1>
-		</header>
-		<p className="App-intro">
-			Project to test the hypothesis that neighborhoods are better where BWWs are built
-		</p>
-	
-		<Highcharts config={config} />
-		<div className="AreaList">
-			<table>
-				<tbody>
-					<th>City</th>
-					<th>State</th>
-					<th>Postal Code</th>
-					<th>Overall Niche</th>
-					{this.state.bwwaplus.map( row =>
-						<tr>
-							<td>{row.City}</td>
-							<td>{row.State}</td>
-							<td>{row["Postal Code"]}</td>
-							<td>{row["Overall Niche Grade"]}</td>
-						</tr>
-					)}
-				</tbody>
-			</table>
+			<header className="App-header">
+				<img src={bwwlogo} className="App-logo" alt="bwwlogo" />
+				<h1 className="App-title">The Buffalo Wild Wings Project</h1>
+			</header>
+			<p className="App-intro">
+				Project to test the hypothesis that neighborhoods are better where BWWs are built
+			</p>
+		
+			<Highcharts config={config} />
+		
+			<div className="AreaList">
+				<table>
+					<tbody>
+						<th>City</th>
+						<th>State</th>
+						<th>Postal Code</th>
+						<th>Overall Niche</th>
+						{this.state.bwwaplus.map( row =>
+							<tr>
+								<td>{row.City}</td>
+								<td>{row.State}</td>
+								<td>{row["Postal Code"]}</td>
+								<td>{row["Overall Niche Grade"]}</td>
+							</tr>
+						)}
+					</tbody>
+				</table>
+			</div>
 		</div>
-	  </div>
     );
   }
   
