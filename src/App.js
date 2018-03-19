@@ -38,14 +38,14 @@ class App extends Component {
 		const bwwd = bwwareas.filter(item=>item['Overall Niche Grade']==="D");
 		const bwwdminus = bwwareas.filter(item=>item['Overall Niche Grade']==="D-");
 		
-		this.setState({ bwwareas: bwwareas, bwwaplus: bwwaplus, bwwa: bwwa, bwwaminus: bwwaminus, 
+		this.setState({ bwwareas: bwwareas, 
+		bwwaplus: bwwaplus, bwwa: bwwa, bwwaminus: bwwaminus, 
 		bwwbplus: bwwbplus, bwwb: bwwb, bwwbminus: bwwbminus, 
 		bwwcplus: bwwcplus, bwwc: bwwc, bwwcminus: bwwcminus,
 		bwwdplus: bwwdplus, bwwd: bwwd, bwwdminus: bwwdminus
 		});
 		
-		}
-		);
+		});
 
 	}
 	
@@ -123,22 +123,22 @@ class App extends Component {
 					this.state.bwwdplus.length,
 					this.state.bwwd.length,
 					this.state.bwwdplus.length]
-					}, 
-					{name: 'Control Group',
+					}, {
+					name: 'Control Group',
 					data: [this.state.controlaplus.length,
-						this.state.controla.length,
-						this.state.controlaminus.length,
-						this.state.controlbplus.length,
-						this.state.controlb.length,
-						this.state.controlbminus.length,
-						this.state.controlcplus.length,
-						this.state.controlc.length,
-						this.state.controlcminus.length,
-						this.state.controldplus.length,
-						this.state.controld.length,
-						this.state.controldminus.length
-						]
-						}]
+					this.state.controla.length,
+					this.state.controlaminus.length,
+					this.state.controlbplus.length,
+					this.state.controlb.length,
+					this.state.controlbminus.length,
+					this.state.controlcplus.length,
+					this.state.controlc.length,
+					this.state.controlcminus.length,
+					this.state.controldplus.length,
+					this.state.controld.length,
+					this.state.controldminus.length
+					]
+					}]
 		}
 		
 		return (
@@ -159,7 +159,7 @@ class App extends Component {
 					<th>State</th>
 					<th>Postal Code</th>
 					<th>Overall Niche</th>
-					{this.state.bwwareas.map( row =>
+					{this.state.bwwaplus.map( row =>
 						<tr>
 							<td>{row.City}</td>
 							<td>{row.State}</td>
