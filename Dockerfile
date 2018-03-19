@@ -1,6 +1,6 @@
 FROM nginx:latest
 
-COPY /dist/* /var/www/html/
+COPY /src/App.js /usr/share/nginx/html/
 
 EXPOSE 80 443 	
 
