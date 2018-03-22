@@ -177,28 +177,11 @@ class App extends Component {
 		        </div>
 		        <br/><br/>
 
-
+				
 				<Highcharts config={config} />
-
-
-				<div className="AreaList" align="center">
-					<table>
-						<tbody>
-							<th>City</th>
-							<th>State</th>
-							<th>Postal Code</th>
-							<th>Overall Niche</th>
-							{this.state.bwwaplus.map( row =>
-								<tr>
-									<td>{row.City}</td>
-									<td>{row.State}</td>
-									<td>{row["Postal Code"]}</td>
-									<td>{row["Overall Niche Grade"]}</td>
-								</tr>
-							)}
-						</tbody>
-					</table>
-				</div>
+				<br/><br/>
+				<img src="https://s3.us-east-2.amazonaws.com/bww-1/bwwLocations.PNG" alt="BWW Locations map" />
+				<br/><br/>
 		</div>
     );
   }
