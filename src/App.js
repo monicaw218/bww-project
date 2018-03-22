@@ -180,8 +180,9 @@ class App extends Component {
 				
 				<Highcharts config={config} />
 				<br/><br/>
-				<img src="https://s3.us-east-2.amazonaws.com/bww-1/bwwLocations.PNG" alt="BWW Locations map" />
-				<br/><br/>
+				<div class="container"><div class="col-xs-12">
+				<img className="mapImg" src="https://s3.us-east-2.amazonaws.com/bww-1/bwwLocations.PNG" alt="BWW Locations map" />
+				</div></div>
 		</div>
     );
   }

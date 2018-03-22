@@ -40,7 +40,10 @@
   webkit-margin-end: 0px;
   webkit-margin-start: 0px;
   margin: 18px;
+}
 
+.mapImg {
+  width: 100%;
 }
 
 @keyframes App-logo-spin {
