@@ -1,7 +1,3 @@
-FROM nginx:latest
+FROM nginx
 
-COPY /src/App.js /usr/share/nginx/html/
-
-EXPOSE 80 443 	
-
-CMD ["nginx", "-g", "daemon off;"]
+COPY /build/ /usr/share/nginx/html/
