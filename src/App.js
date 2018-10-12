@@ -76,6 +76,10 @@ class App extends Component {
 	}
 
 	render() {
+		const numberWithCommas = (x) => {
+			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+		};
+
 		const config = {
 			chart: { type: 'column' },
 			title: {text: 'Overall Grades by Zip Code'},
@@ -142,56 +146,46 @@ class App extends Component {
 		}
 		
 		return (
-			<div className="App">
-				<header className="App-header" >
-					<img src={bwwlogo} className="App-logo" alt="bwwlogo" />
-					<h1 className="App-title">The Buffalo Wild Wings Project</h1>
+			<div class="App">
+				<header class="App-header" >
+					<img src={bwwlogo} class="App-logo" alt="bwwlogo" />
+					<h1 class="App-title">The Buffalo Wild Wings Project</h1>
 				</header>
 
-				<p className="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
+			<p class="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
 
-				<div class="container">
+			<div class="container">
 				<div class="row">
-					<div class="col-xs-4">
-						<div class="row">
-							<h2><strong>{this.state.bwwareas.length-3}</strong></h2>
-							<h4>BWW Locations</h4>
+					<div class="col">
+						<h2><strong>{numberWithCommas(this.state.bwwareas.length-3)}</strong></h2>
+						<h4>BWW Locations</h4>
 						</div>
+					<div class="col">
+						<h2><strong>{numberWithCommas((this.state.bwwareas.length-3)*2*12)}</strong></h2>
+						<h4>Area Ratings</h4>
 					</div>
-					<div class="col-xs-4">
-						<div class="row">
-							<h2><strong>{(this.state.bwwareas.length-3)*2*12}</strong></h2>
-							<h4>Area Ratings</h4>
-						</div>
-					</div>
-					<div class="col-xs-4">
-						<div class="row">
-							<h2><strong>Never too many</strong></h2>
-							<h4>Buffalo Wings</h4>
-						</div>
-					</div>
-
+					<div class="col">
+						<h2><strong>Never too many</strong></h2>
+						<h4>Buffalo Wings</h4>
 					</div>
 				</div>
-				<br/><br/>
+			</div>
+			
+			<br/><br/>
+
+			<Highcharts config={config} />
+			<br/><br/>
 
 
-				<Highcharts config={config} />
-				<br/><br/>
-
-
-				<div class="container">
-					<div class="col-xs-12">
-						<p>
-							<iframe src="https://public.tableau.com/views/BuffaloWildWings/BWWControlGroupLocations?:embed=y&:display_count=yes" width="100%" height="725" allowfullscreen="allowfullscreen" title="tableauMap">
-							</iframe>
-						</p>
-					</div>
-				</div>
+			<div class="container">
+				<iframe src="https://public.tableau.com/views/BuffaloWildWings/BWWControlGroupLocations?:embed=y&:display_count=yes"
+					width="100%" height="725" allowfullscreen="allowfullscreen" title="tableauMap">
+				</iframe>
+			</div>
 
 			</div>
-			);
-		}
+		);
 	}
+}
 
-	export default App;
+export default App;
