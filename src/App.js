@@ -10,7 +10,7 @@ const control_api = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample
 class App extends Component {
 	state = {
 		bwwareas: [], controlareas: [],
-		bwwaplus: [],bwwa: [], bwwaminus: [],
+		bwwaplus: [], bwwa: [], bwwaminus: [],
 		bwwbplus: [], bwwb: [], bwwbminus: [],
 		bwwcplus: [], bwwc: [], bwwcimnus: [],
 		bwwdplus: [], bwwd: [], bwwdminus: [],
@@ -74,7 +74,7 @@ class App extends Component {
 			});
 		})
 	}
-
+	
 	render() {
 		const numberWithCommas = (x) => {
 			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
