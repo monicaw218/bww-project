@@ -79,6 +79,7 @@ class App extends Component {
 		const numberWithCommas = (x) => {
 			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
 		};
+		var mysql = require('mysql');
 
 		const config = {
 			chart: { type: 'column' },
