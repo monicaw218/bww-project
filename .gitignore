@@ -13,6 +13,7 @@
 .env.test.local
 .env.production.local
 /python/get-pip.py
+/python/.ipynb_checkpoints/
 MyKeyPair.pem
 
 npm-debug.log*
