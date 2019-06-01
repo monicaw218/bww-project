@@ -7,13 +7,7 @@
 /coverage
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-/python/get-pip.py
-/python/.ipynb_checkpoints/
+python/.ipynb_checkpoints/*
 MyKeyPair.pem
 
 npm-debug.log*
