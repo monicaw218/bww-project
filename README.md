@@ -2,12 +2,12 @@
 This project uses basic statistics to test whether areas with Buffalo Wild Wings are better areas to live in.
 
 ## Web Development Tools
-- [React]
-- [Highcharts]
-- [Node.js]
-- [Docker]
-- [Amazon Web Services]
+- React
+- Highcharts
+- Node.js
+- Docker
+- Amazon Web Services
 
 ## Analytical Tools
-- [Jupyter Notebook]
-- [Pandas]
+- Jupyter Notebook
+- Pandas
