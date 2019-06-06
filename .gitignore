@@ -9,6 +9,7 @@
 # misc
 python/.ipynb_checkpoints/*
 MyKeyPair.pem
+start_app.sh
 
 npm-debug.log*
 yarn-debug.log*
