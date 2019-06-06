@@ -28,25 +28,25 @@ class App extends Component {
 		};
 		
 		return (
-			<div class="App">
-				<header class="App-header" >
-					<img src={bwwlogo} class="App-logo" alt="bwwlogo" />
-					<h1 class="App-title">The Buffalo Wild Wings Project</h1>
+			<div className="App">
+				<header className="App-header" >
+					<img src={bwwlogo} className="App-logo" alt="bwwlogo" />
+					<h1 className="App-title">The Buffalo Wild Wings Project</h1>
 				</header>
 
-			<p class="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
+			<p className="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
 
-			<div class="container">
-				<div class="row">
-					<div class="col">
+			<div className="container">
+				<div className="row">
+					<div className="col">
 						<h2><strong>{numberWithCommas(this.state.bwwareas.length-3)}</strong></h2>
 						<h4>BWW Locations</h4>
 						</div>
-					<div class="col">
+					<div className="col">
 						<h2><strong>{numberWithCommas((this.state.bwwareas.length-3)*2*12)}</strong></h2>
 						<h4>Area Ratings</h4>
 					</div>
-					<div class="col">
+					<div className="col">
 						<h2><strong>Never too many</strong></h2>
 						<h4>Buffalo Wings</h4>
 					</div>
@@ -59,9 +59,9 @@ class App extends Component {
 			<br/><br/>
 
 
-			<div class="container">
+			<div className="container">
 				<iframe src="https://public.tableau.com/views/BuffaloWildWings/BWWControlGroupLocations?:embed=y&:display_count=yes"
-					width="100%" height="725" allowfullscreen="allowfullscreen" title="tableauMap">
+					width="100%" height="725" allowFullScreen="allowfullscreen" title="tableauMap">
 				</iframe>
 			</div>
 
