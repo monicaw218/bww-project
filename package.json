@@ -36,18 +36,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "description": "This project uses basic statistics to test whether areas with Buffalo Wild Wings are better areas to live in.",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/monicaw218/bww-project.git"
-  },
-  "author": "Monica Weitekamp",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/monicaw218/bww-project/issues"
-  },
-  "homepage": "https://github.com/monicaw218/bww-project#readme"
+  ]
 }
