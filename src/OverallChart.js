@@ -3,45 +3,45 @@ import './App.css';
 import Highcharts from 'react-highcharts';
 import axios from 'axios';
 
-const bww_api = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
-const control_api = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
+const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
+const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
 
 class OverallChart extends Component {
 state = {
-		bwwareas: [], controlareas: [],
-		bwwaplus: [],bwwa: [], bwwaminus: [],
-		bwwbplus: [], bwwb: [], bwwbminus: [],
-		bwwcplus: [], bwwc: [], bwwcimnus: [],
-		bwwdplus: [], bwwd: [], bwwdminus: [],
+		bwwAreas: [], controlAreas: [],
+		bwwAPlus: [], bwwA: [], bwwAMinus: [],
+		bwwBPlus: [], bwwB: [], bwwBMinus: [],
+		bwwCPlus: [], bwwC: [], bwwCMinus: [],
+		bwwDPlus: [], bwwD: [], bwwDMinus: [],
 		
-		controlaplus: [], controla: [], controlaminus: [],
-		controlbplus: [], controlb: [], controlbminus: [],
-		controlcplus: [], controlc: [], controlcminus: [],
-		controldplus: [], controld: [], controldminus: []
+		controlAPlus: [], controlA: [], controlAMinus: [],
+		controlBPlus: [], controlB: [], controlBMinus: [],
+		controlCPlus: [], controlC: [], controlCMinus: [],
+		controlDPlus: [], controlD: [], controlDMinus: []
 	}
 	
 	componentWillMount() {
-		axios.get(bww_api)
+		axios.get(bwwJsonLink)
 		.then(res => {
-			const bwwareas = res.data;
-			const bwwaplus = bwwareas.filter(item=>item['Overall Niche Grade']==="A+");
-			const bwwa = bwwareas.filter(item=>item['Overall Niche Grade']==="A");
-			const bwwaminus = bwwareas.filter(item=>item['Overall Niche Grade']==="A-");
-			const bwwbplus = bwwareas.filter(item=>item['Overall Niche Grade']==="B+");
-			const bwwb = bwwareas.filter(item=>item['Overall Niche Grade']==="B");
-			const bwwbminus = bwwareas.filter(item=>item['Overall Niche Grade']==="B-");
-			const bwwcplus = bwwareas.filter(item=>item['Overall Niche Grade']==="C+");
-			const bwwc = bwwareas.filter(item=>item['Overall Niche Grade']==="C");
-			const bwwcminus = bwwareas.filter(item=>item['Overall Niche Grade']==="C-");
-			const bwwdplus = bwwareas.filter(item=>item['Overall Niche Grade']==="D+");
-			const bwwd = bwwareas.filter(item=>item['Overall Niche Grade']==="D");
-			const bwwdminus = bwwareas.filter(item=>item['Overall Niche Grade']==="D-");
+			const bwwAreas = res.data;
+			const bwwAPlus = bwwAreas.filter(item=>item['Overall Niche Grade']==="A+");
+			const bwwA = bwwAreas.filter(item=>item['Overall Niche Grade']==="A");
+			const bwwAMinus = bwwAreas.filter(item=>item['Overall Niche Grade']==="A-");
+			const bwwBPlus = bwwAreas.filter(item=>item['Overall Niche Grade']==="B+");
+			const bwwB = bwwAreas.filter(item=>item['Overall Niche Grade']==="B");
+			const bwwBMinus = bwwAreas.filter(item=>item['Overall Niche Grade']==="B-");
+			const bwwCPlus = bwwAreas.filter(item=>item['Overall Niche Grade']==="C+");
+			const bwwC = bwwAreas.filter(item=>item['Overall Niche Grade']==="C");
+			const bwwCMinus = bwwAreas.filter(item=>item['Overall Niche Grade']==="C-");
+			const bwwDPlus = bwwAreas.filter(item=>item['Overall Niche Grade']==="D+");
+			const bwwD = bwwAreas.filter(item=>item['Overall Niche Grade']==="D");
+			const bwwDMinus = bwwAreas.filter(item=>item['Overall Niche Grade']==="D-");
 
-			this.setState({ bwwareas: bwwareas, 
-				bwwaplus: bwwaplus, bwwa: bwwa, bwwaminus: bwwaminus, 
-				bwwbplus: bwwbplus, bwwb: bwwb, bwwbminus: bwwbminus, 
-				bwwcplus: bwwcplus, bwwc: bwwc, bwwcminus: bwwcminus,
-				bwwdplus: bwwdplus, bwwd: bwwd, bwwdminus: bwwdminus
+			this.setState({ bwwAreas: bwwAreas,
+				bwwAPlus: bwwAPlus, bwwA: bwwA, bwwAMinus: bwwAMinus,
+				bwwBPlus: bwwBPlus, bwwB: bwwB, bwwBMinus: bwwBMinus,
+				bwwCPlus: bwwCPlus, bwwC: bwwC, bwwCMinus: bwwCMinus,
+				bwwDPlus: bwwDPlus, bwwD: bwwD, bwwDMinus: bwwDMinus
 			});
 
 		});
@@ -49,27 +49,26 @@ state = {
 	}
 	
 	componentDidMount() {
-		axios.get(control_api)
+		axios.get(controlJsonLink)
 		.then(res => {
-			
-			const controlareas = res.data;
-			const controlaplus = controlareas.filter(item=>item['Overall Niche Grade']==="A+");
-			const controla = controlareas.filter(item=>item['Overall Niche Grade']==="A");
-			const controlaminus = controlareas.filter(item=>item['Overall Niche Grade']==="A-");
-			const controlbplus = controlareas.filter(item=>item['Overall Niche Grade']==="B+");
-			const controlb = controlareas.filter(item=>item['Overall Niche Grade']==="B");
-			const controlbminus = controlareas.filter(item=>item['Overall Niche Grade']==="B-");
-			const controlcplus = controlareas.filter(item=>item['Overall Niche Grade']==="C+");
-			const controlc = controlareas.filter(item=>item['Overall Niche Grade']==="C");
-			const controlcminus = controlareas.filter(item=>item['Overall Niche Grade']==="C-");
-			const controldplus = controlareas.filter(item=>item['Overall Niche Grade']==="D+");
-			const controld = controlareas.filter(item=>item['Overall Niche Grade']==="D");
-			const controldminus = controlareas.filter(item=>item['Overall Niche Grade']==="D-");
+			const controlAreas = res.data;
+			const controlAPlus = controlAreas.filter(item=>item['Overall Niche Grade']==="A+");
+			const controlA = controlAreas.filter(item=>item['Overall Niche Grade']==="A");
+			const controlAMinus = controlAreas.filter(item=>item['Overall Niche Grade']==="A-");
+			const controlBPlus = controlAreas.filter(item=>item['Overall Niche Grade']==="B+");
+			const controlB = controlAreas.filter(item=>item['Overall Niche Grade']==="B");
+			const controlBMinus = controlAreas.filter(item=>item['Overall Niche Grade']==="B-");
+			const controlCPlus = controlAreas.filter(item=>item['Overall Niche Grade']==="C+");
+			const controlC = controlAreas.filter(item=>item['Overall Niche Grade']==="C");
+			const controlCMinus = controlAreas.filter(item=>item['Overall Niche Grade']==="C-");
+			const controlDPlus = controlAreas.filter(item=>item['Overall Niche Grade']==="D+");
+			const controlD = controlAreas.filter(item=>item['Overall Niche Grade']==="D");
+			const controlDMinus = controlAreas.filter(item=>item['Overall Niche Grade']==="D-");
 
-			this.setState({ controlareas: controlareas, controlaplus: controlaplus, controla: controla, controlaminus: controlaminus,
-				controlbplus: controlbplus, controlb: controlb, controlbminus: controlbminus,
-				controlcplus: controlcplus, controlc: controlc, controlcminus: controlcminus,
-				controldplus: controldplus, controld: controld, controldminus: controldminus
+			this.setState({ controlAreas: controlAreas, controlAPlus: controlAPlus, controlA: controlA, controlAMinus: controlAMinus,
+				controlBPlus: controlBPlus, controlB: controlB, controlBMinus: controlBMinus,
+				controlCPlus: controlCPlus, controlC: controlC, controlCMinus: controlCMinus,
+				controlDPlus: controlDPlus, controlD: controlD, controlDMinus: controlDMinus
 			});
 		})
 	}
@@ -110,32 +109,32 @@ state = {
 
 			series: [{
 				name: 'Buffalo Wild Wings',
-				data: [this.state.bwwaplus.length, 
-				this.state.bwwa.length,
-				this.state.bwwaminus.length, 
-				this.state.bwwbplus.length,
-				this.state.bwwb.length,
-				this.state.bwwbminus.length,
-				this.state.bwwcplus.length,
-				this.state.bwwc.length,
-				this.state.bwwcimnus.length,
-				this.state.bwwdplus.length,
-				this.state.bwwd.length,
-				this.state.bwwdplus.length]
+				data: [this.state.bwwAPlus.length,
+				this.state.bwwA.length,
+				this.state.bwwAMinus.length,
+				this.state.bwwBPlus.length,
+				this.state.bwwB.length,
+				this.state.bwwBMinus.length,
+				this.state.bwwCPlus.length,
+				this.state.bwwC.length,
+				this.state.bwwCMinus.length,
+				this.state.bwwDPlus.length,
+				this.state.bwwD.length,
+				this.state.bwwDPlus.length]
 			}, {
 				name: 'Control Group',
-				data: [this.state.controlaplus.length,
-				this.state.controla.length,
-				this.state.controlaminus.length,
-				this.state.controlbplus.length,
-				this.state.controlb.length,
-				this.state.controlbminus.length,
-				this.state.controlcplus.length,
-				this.state.controlc.length,
-				this.state.controlcminus.length,
-				this.state.controldplus.length,
-				this.state.controld.length,
-				this.state.controldminus.length
+				data: [this.state.controlAPlus.length,
+				this.state.controlA.length,
+				this.state.controlAMinus.length,
+				this.state.controlBPlus.length,
+				this.state.controlB.length,
+				this.state.controlBMinus.length,
+				this.state.controlCPlus.length,
+				this.state.controlC.length,
+				this.state.controlCMinus.length,
+				this.state.controlDPlus.length,
+				this.state.controlD.length,
+				this.state.controlDMinus.length
 				]
 			}]
 		}

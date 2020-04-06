@@ -3,26 +3,22 @@ import './App.css';
 import axios from 'axios';
 import OverallChart from './OverallChart';
 
-const bww_api = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
-const control_api = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
-const bwwlogo = 'https://i2.wp.com/lakewoodchamber.com/wp-content/uploads/2017/06/bug-1.png?fit=600%2C600&ssl=1';
+const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
+const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
+const bwwLogo = 'https://i2.wp.com/lakewoodchamber.com/wp-content/uploads/2017/06/bug-1.png?fit=600%2C600&ssl=1';
 
 class App extends Component {
 	state = {
-		bwwareas: [],
-		controlareas: []
+		bwwAreas: [],
+		controlAreas: []
 	}
 	
 	componentWillMount() {
-		axios.get(bww_api).then(res => { this.setState({ bwwareas: res.data})});
-		axios.get(control_api).then(res => { this.setState({ controlareas: res.data})});
+		axios.get(bwwJsonLink).then(res => { this.setState({ bwwAreas: res.data})});
+		axios.get(controlJsonLink).then(res => { this.setState({ controlAreas: res.data})});
 	}
-	
-	// componentDidMount() { }
 
 	render() {
-		// var mysql = require('mysql');
-
 		const numberWithCommas = (x) => { 
 			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
 		};
@@ -30,7 +26,7 @@ class App extends Component {
 		return (
 			<div className="App">
 				<header className="App-header" >
-					<img src={bwwlogo} className="App-logo" alt="bwwlogo" />
+					<img src={bwwLogo} className="App-logo" alt="BWW Logo" />
 					<h1 className="App-title">The Buffalo Wild Wings Project</h1>
 				</header>
 
@@ -39,11 +35,11 @@ class App extends Component {
 			<div className="container">
 				<div className="row">
 					<div className="col">
-						<h2><strong>{numberWithCommas(this.state.bwwareas.length-3)}</strong></h2>
+						<h2><strong>{numberWithCommas(this.state.bwwAreas.length-3)}</strong></h2>
 						<h4>BWW Locations</h4>
 						</div>
 					<div className="col">
-						<h2><strong>{numberWithCommas((this.state.bwwareas.length-3)*2*12)}</strong></h2>
+						<h2><strong>{numberWithCommas((this.state.bwwAreas.length-3)*2*12)}</strong></h2>
 						<h4>Area Ratings</h4>
 					</div>
 					<div className="col">
