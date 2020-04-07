@@ -60,7 +60,7 @@ class App extends Component {
 
 			<div className="container">
 				<iframe src="https://public.tableau.com/views/BuffaloWildWings/BWWControlGroupLocations?:embed=y&:display_count=yes"
-					width="100%" height="725" allowFullScreen="allowfullscreen" title="tableauMap">
+					width="90%" height="725px" title="tableauMap">
 				</iframe>
 			</div>
 
