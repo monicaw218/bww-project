@@ -68,7 +68,8 @@ class OverallChart extends Component {
 			const controlD = controlAreas.filter(item=>item['Overall Niche Grade']==="D");
 			const controlDMinus = controlAreas.filter(item=>item['Overall Niche Grade']==="D-");
 
-			this.setState({ controlAreas: controlAreas, controlAPlus: controlAPlus, controlA: controlA, controlAMinus: controlAMinus,
+			this.setState({ controlAreas: controlAreas,
+			    controlAPlus: controlAPlus, controlA: controlA, controlAMinus: controlAMinus,
 				controlBPlus: controlBPlus, controlB: controlB, controlBMinus: controlBMinus,
 				controlCPlus: controlCPlus, controlC: controlC, controlCMinus: controlCMinus,
 				controlDPlus: controlDPlus, controlD: controlD, controlDMinus: controlDMinus
@@ -143,9 +144,7 @@ class OverallChart extends Component {
 		}
 
 		return(<Highcharts config={config} />)
-
 	}
-
 }
 
 export default OverallChart;

@@ -17,15 +17,15 @@ class App extends Component {
     }
 	
 	componentWillMount() {
-		axios.get(bwwJsonLink).then(res => { this.setState({ bwwAreas: res.data})});
-		axios.get(controlJsonLink).then(res => { this.setState({ controlAreas: res.data})});
+		axios.get(bwwJsonLink).then(res => { this.setState({ bwwAreas: res.data })});
+		axios.get(controlJsonLink).then(res => { this.setState({ controlAreas: res.data })});
 	}
 
+	 numberWithCommas = (x) => {
+	    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+	 }
+
 	render() {
-		const numberWithCommas = (x) => { 
-			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-		};
-		
 		return (
 			<div className="App">
 				<header className="App-header" >
@@ -38,11 +38,11 @@ class App extends Component {
 			<div className="container">
 				<div className="row">
 					<div className="col">
-						<h2><strong>{numberWithCommas(this.state.bwwAreas.length-3)}</strong></h2>
+						<h2><strong>{this.numberWithCommas(this.state.bwwAreas.length-3)}</strong></h2>
 						<h4>BWW Locations</h4>
 						</div>
 					<div className="col">
-						<h2><strong>{numberWithCommas((this.state.bwwAreas.length-3)*2*12)}</strong></h2>
+						<h2><strong>{this.numberWithCommas((this.state.bwwAreas.length-3)*2*12)}</strong></h2>
 						<h4>Area Ratings</h4>
 					</div>
 					<div className="col">
