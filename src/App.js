@@ -8,10 +8,13 @@ const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSa
 const bwwLogo = 'https://i2.wp.com/lakewoodchamber.com/wp-content/uploads/2017/06/bug-1.png?fit=600%2C600&ssl=1';
 
 class App extends Component {
-	state = {
-		bwwAreas: [],
-		controlAreas: []
-	}
+    constructor(props) {
+        super(props)
+        this.state = {
+            bwwAreas: [],
+            controlAreas: []
+        }
+    }
 	
 	componentWillMount() {
 		axios.get(bwwJsonLink).then(res => { this.setState({ bwwAreas: res.data})});

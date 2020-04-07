@@ -7,19 +7,22 @@ const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.
 const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
 
 class OverallChart extends Component {
-state = {
-		bwwAreas: [], controlAreas: [],
-		bwwAPlus: [], bwwA: [], bwwAMinus: [],
-		bwwBPlus: [], bwwB: [], bwwBMinus: [],
-		bwwCPlus: [], bwwC: [], bwwCMinus: [],
-		bwwDPlus: [], bwwD: [], bwwDMinus: [],
-		
-		controlAPlus: [], controlA: [], controlAMinus: [],
-		controlBPlus: [], controlB: [], controlBMinus: [],
-		controlCPlus: [], controlC: [], controlCMinus: [],
-		controlDPlus: [], controlD: [], controlDMinus: []
-	}
-	
+    constructor(props) {
+        super(props)
+        this.state = {
+            bwwAreas: [], controlAreas: [],
+            bwwAPlus: [], bwwA: [], bwwAMinus: [],
+            bwwBPlus: [], bwwB: [], bwwBMinus: [],
+            bwwCPlus: [], bwwC: [], bwwCMinus: [],
+            bwwDPlus: [], bwwD: [], bwwDMinus: [],
+
+            controlAPlus: [], controlA: [], controlAMinus: [],
+            controlBPlus: [], controlB: [], controlBMinus: [],
+            controlCPlus: [], controlC: [], controlCMinus: [],
+            controlDPlus: [], controlD: [], controlDMinus: []
+        }
+    }
+
 	componentWillMount() {
 		axios.get(bwwJsonLink)
 		.then(res => {
