@@ -5,7 +5,7 @@
   "dependencies": {
     "ajv": "^6.12.3",
     "axios": "^0.30.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.0.0",
     "braces": "^3.0.2",
     "fstream": "^1.0.12",
     "handlebars": "^4.7.7",
