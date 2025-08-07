@@ -14,3 +14,5 @@ start_app.sh
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/build
