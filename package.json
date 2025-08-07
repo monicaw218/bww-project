@@ -4,7 +4,7 @@
   "homepage": "https://monicaw218.github.io/bww-project/",
   "private": true,
   "dependencies": {
-    "ajv": "^6.12.3",
+    "ajv": "^8.17.1",
     "axios": "^1.11.0",
     "bootstrap": "^5.3.7",
     "braces": "^3.0.2",
