@@ -5,7 +5,7 @@ import OverallChart from './OverallChart';
 
 const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
 const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
-const bwwLogo = 'https://i2.wp.com/lakewoodchamber.com/wp-content/uploads/2017/06/bug-1.png?fit=600%2C600&ssl=1';
+const bwwLogo = 'https://logos-world.net/wp-content/uploads/2022/01/Buffalo-Wild-Wings-Symbol.png';
 
 class App extends Component {
     constructor(props) {
