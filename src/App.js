@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import axios from 'axios';
 import OverallChart from './OverallChart';
+import TableauViz from './components/TableauViz';
 
 const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
 const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
@@ -59,11 +60,8 @@ class App extends Component {
 
 
 			<div className="container">
-				<iframe src="https://public.tableau.com/views/BuffaloWildWings/BWWControlGroupLocations?:embed=y&:display_count=yes"
-					width="90%" height="725px" title="tableauMap">
-				</iframe>
+				<TableauViz />
 			</div>
-
 			</div>
 		);
 	}

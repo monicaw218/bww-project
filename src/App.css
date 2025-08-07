@@ -50,3 +50,9 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+iframe {
+  width: 95%;
+  height: 725px;
+  border: none;
+}
