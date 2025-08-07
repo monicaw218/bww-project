@@ -19,7 +19,7 @@
     "popper.js": "^1.15.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-bootstrap": "^0.32.4",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^16.13.1",
     "react-highcharts": "^16.0.2",
     "react-scripts": "^5.0.1",
