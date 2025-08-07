@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "ajv": "^6.12.3",
-    "axios": "^0.21.2",
+    "axios": "^0.30.0",
     "bootstrap": "^4.3.1",
     "braces": "^3.0.2",
     "fstream": "^1.0.12",
