@@ -35,6 +35,7 @@ class App extends Component {
 				</header>
 
 			<p className="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
+			<p className="App-intro">Github actions is working!</p>
 
 			<div className="container">
 				<div className="row">
