@@ -35,7 +35,7 @@ class App extends Component {
 			<p className="App-intro">Project to test the hypothesis that neighborhoods are better where BWWs are built</p>
 
 			<div className="container">
-				<div className="row">
+				{this.state.bwwAreas.length && <div className="row">
 					<div className="col">
 						<h2><strong>{this.numberWithCommas(this.state.bwwAreas.length-3)}</strong></h2>
 						<h4>BWW Locations</h4>
@@ -48,9 +48,9 @@ class App extends Component {
 						<h2><strong>Never too many</strong></h2>
 						<h4>Buffalo Wings</h4>
 					</div>
-				</div>
+				</div> }
 			</div>
-			
+
 			<br/><br/>
 
 			<OverallChart />
