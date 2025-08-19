@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bww-project/static/css/main.8d5f7ba9.css",
-    "main.js": "/bww-project/static/js/main.55fbec37.js",
+    "main.js": "/bww-project/static/js/main.7975a137.js",
     "index.html": "/bww-project/index.html",
     "main.8d5f7ba9.css.map": "/bww-project/static/css/main.8d5f7ba9.css.map",
-    "main.55fbec37.js.map": "/bww-project/static/js/main.55fbec37.js.map"
+    "main.7975a137.js.map": "/bww-project/static/js/main.7975a137.js.map"
   },
   "entrypoints": [
     "static/css/main.8d5f7ba9.css",
-    "static/js/main.55fbec37.js"
+    "static/js/main.7975a137.js"
   ]
 }
