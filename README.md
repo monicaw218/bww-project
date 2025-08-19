@@ -1,13 +1,10 @@
-## Welcome to the Buffalo Wild Wings Project
-This project uses basic statistics to test whether areas with Buffalo Wild Wings are better areas to live in.
+## Welcome to the [Buffalo Wild Wings Project](https://monicaw218.github.io/bww-project/)
+This React app uses basic statistics to test whether areas with Buffalo Wild Wings are better to live in.
 
-## Web Development Tools
-- React
-- Highcharts
-- Node.js
-- Docker
-- Amazon Web Services
-
-## Analytical Tools
-- Jupyter Notebook
-- Pandas
+### Tools & Technologies
+- Web Development: React, Node.js, Amazon Web Services (AWS)
+- Visualization: Highcharts, Tableau
+- Cloud & Deployment: GitHub Pages
+- CI/CD: GitHub Actions
+- Data Manipulation and Analysis: Jupyter Notebook, Pandas, BeautifulSoup
+- Containerization: Docker
