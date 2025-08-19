@@ -15,12 +15,10 @@ class App extends Component {
             bwwAreas: [],
             controlAreas: []
         }
-    }
-	
-	componentWillMount() {
+
 		axios.get(bwwJsonLink).then(res => { this.setState({ bwwAreas: res.data })});
 		axios.get(controlJsonLink).then(res => { this.setState({ controlAreas: res.data })});
-	}
+    }
 
 	 numberWithCommas = (x) => {
 	    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")

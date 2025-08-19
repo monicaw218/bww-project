@@ -1,7 +1,9 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import './App.css';
-import Highcharts from 'react-highcharts';
 import axios from 'axios';
+import Highcharts from 'highcharts';
+import HighchartsReact from 'highcharts-react-official';
+import 'highcharts/modules/accessibility';
 
 const bwwJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/BuffaloWildWings2.json';
 const controlJsonLink = 'https://s3.us-east-2.amazonaws.com/bww-1/USNicheGradeSample.json';
@@ -21,9 +23,7 @@ class OverallChart extends Component {
             controlCPlus: [], controlC: [], controlCMinus: [],
             controlDPlus: [], controlD: [], controlDMinus: []
         }
-    }
 
-	componentWillMount() {
 		axios.get(bwwJsonLink)
 		.then(res => {
 			const bwwAreas = res.data;
@@ -48,8 +48,7 @@ class OverallChart extends Component {
 			});
 
 		});
-
-	}
+    }
 	
 	componentDidMount() {
 		axios.get(controlJsonLink)
@@ -140,10 +139,13 @@ class OverallChart extends Component {
 				this.state.controlD.length,
 				this.state.controlDMinus.length
 				]
-			}]
+			}],
+			accessibility: {
+				description: "This is a bar graph showing the overall grades of Buffalo Wild Wings areas compared to a control group.",
+			}
 		}
 
-		return(<Highcharts config={config} />)
+		return (<HighchartsReact highcharts={Highcharts} options={config} />)
 	}
 }
 
