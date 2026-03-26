@@ -9,7 +9,7 @@
     "bootstrap": "^5.3.7",
     "braces": "^3.0.2",
     "fstream": "^1.0.12",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "highcharts": "^12.3.0",
     "highcharts-react-official": "^3.2.2",
     "jquery": "^3.5.0",
